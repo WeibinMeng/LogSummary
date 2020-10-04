@@ -1,0 +1,362 @@
+1	INFO * : Registered signal handlers for [ TERM , HUP , INT ]
+2	INFO * : Changing * acls to : yarn , *
+3	INFO * : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , * ) ; users with modify permissions : Set ( yarn , * )
+4	INFO * : Slf4jLogger started
+5	INFO Remoting : Starting remoting
+6	INFO Remoting : Remoting started ; listening on addresses : [ akka.tcp : * : * ]
+7	INFO * : Successfully started service * on port *
+8	INFO * : Created local directory at *
+9	INFO * : MemoryStore started with capacity * *
+10	INFO executor.CoarseGrainedExecutorBackend : Connecting to driver : * : * : *
+11	INFO executor.CoarseGrainedExecutorBackend : Successfully registered with driver
+12	INFO executor.Executor : Starting executor ID * on host *
+13	INFO * : Server created on *
+14	INFO * : Trying to register BlockManager
+15	INFO * : Registered BlockManager
+16	INFO executor.CoarseGrainedExecutorBackend : Driver commanded a shutdown
+17	INFO * : MemoryStore cleared
+18	INFO * : * stopped
+19	WARN executor.CoarseGrainedExecutorBackend : An unknown ( * : * ) driver disconnected.
+20	ERROR executor.CoarseGrainedExecutorBackend : Driver * : * disassociated! Shutting down.
+21	INFO * : Shutdown hook called
+22	INFO * : Shutting down * *
+23	INFO * : Remote daemon shut down ; proceeding with flushing remote transports.
+24	Picked up _JAVA_OPTIONS : -Djava.io.tmpdir = /opt/hdfs/tmp
+25	INFO * : * : *
+26	INFO * : Waiting for Spark driver to be reachable.
+27	INFO * : Driver now available : 10.10.34.11 : *
+28	INFO * : Add WebUI Filter. AddWebUIFilter ( org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter , Map ( PROXY_HOSTS -> mesos-master-1 , PROXY_URI_BASES -> http : //mesos-master-1 : * ) , * )
+29	INFO * : Connecting to ResourceManager at mesos-master-1/10.10.34.11 : 8030
+30	INFO * : Registering the ApplicationMaster
+31	INFO * : Will request * executor containers , each with * cores and * MB memory including * MB overhead
+32	INFO * : Container request ( host : Any , capability : <memory : * , vCores : * )
+33	INFO * : Started progress reporter thread with ( heartbeat : 3000 , initial allocation : 200 ) intervals
+34	INFO * : Received new token for : * : *
+35	INFO * : Launching container * for on host *
+36	INFO * : Launching ExecutorRunnable. driverUrl : spark : * : * , executorHostname : *
+37	INFO ExecutorRunnable : * * *
+38	INFO * : Received * containers from YARN , launching executors on * of them.
+39	INFO * : Prepared Local resources Map ( __spark__.jar -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : * } size : 109525492 timestamp : * type : FILE visibility : PRIVATE , pyspark.zip -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : * } size : 355358 timestamp : * type : FILE visibility : PRIVATE , py4j-0.9-src.zip -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : * } size : 44846 timestamp : * type : FILE visibility : PRIVATE )
+40	* * : * : * INFO ExecutorRunnable :
+41	= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+42	INFO * : Opening proxy : * : *
+43	thread * Exception in thread * java.lang.Error : org.apache.spark.SparkException : Exception while starting container * on host *
+44	at * ( * : * )
+45	org.apache.spark.SparkException : Exception while starting container * on host *
+46	... * more
+47	org.apache.hadoop.yarn.exceptions.YarnException : Unauthorized request to start container.
+48	is expired. current time is * found *
+49	times on machines may be out of sync. Check system time and time zones.
+50	at * ( * * )
+51	Exception while starting container * on host *
+52	INFO * : Driver terminated or disconnected! Shutting down. * : *
+53	INFO * : Final app status : SUCCEEDED , exitCode : 0
+54	INFO * : Unregistering ApplicationMaster with SUCCEEDED
+55	INFO * : Waiting for application to be successfully unregistered.
+56	INFO * : Deleting staging directory *
+57	INFO executor.CoarseGrainedExecutorBackend : Got assigned task *
+58	INFO executor.Executor : Running task * in stage * ( TID * )
+59	INFO broadcast.TorrentBroadcast : Started reading broadcast variable *
+60	INFO * : Block * stored as * in memory ( estimated size * * , free * * )
+61	INFO broadcast.TorrentBroadcast : Reading broadcast variable * took * ms
+62	INFO python.PythonRunner : Times : total = * , boot = * , init = * , finish = *
+63	INFO executor.Executor : Finished task * in stage * ( TID * ) . * bytes result sent to driver
+64	Update row : *
+65	INFO spark.MapOutputTrackerWorker : Updating epoch to * and clearing cache
+66	INFO spark.MapOutputTrackerWorker : Don't have map outputs for shuffle * , fetching them
+67	INFO spark.MapOutputTrackerWorker : Doing the fetch ; tracker endpoint = NettyRpcEndpointRef ( spark : * : * )
+68	INFO spark.MapOutputTrackerWorker : Got the output locations
+69	INFO storage.ShuffleBlockFetcherIterator : Getting * non-empty blocks out of * blocks
+70	INFO storage.ShuffleBlockFetcherIterator : Started * remote fetches in * ms
+71	INFO executor.Executor : Executor is trying to kill task * in stage * ( TID * )
+72	INFO executor.Executor : Executor killed task * in stage * ( TID * )
+73	ERROR * : RECEIVED SIGNAL 15 : SIGTERM
+74	INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : * : *
+75	INFO Configuration.deprecation : * is deprecated. Instead , use *
+76	INFO * : Starting the user application in a separate Thread
+77	INFO * : Waiting for spark context initialization
+78	INFO * : Waiting for spark context initialization ...
+79	INFO * : Running Spark version 1.6.0
+80	INFO * : Registering *
+81	INFO * : Adding filter : org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter
+82	INFO * : jetty-8.y.z-SNAPSHOT
+83	INFO * : Started SelectChannelConnector@0.0.0.0 : *
+84	INFO * : Started SparkUI at http : * : *
+85	INFO YarnClusterScheduler : * *
+86	INFO * : Registering block manager * : * with * * RAM , BlockManagerId ( * , * , * )
+87	INFO * : ApplicationMaster registered as NettyRpcEndpointRef ( spark : * : * )
+88	INFO * : Registered executor NettyRpcEndpointRef ( null ) ( * : * ) with ID *
+89	INFO * : SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio : 0.8
+90	INFO BlockManagerInfo : * * * * * * * * ( size : * * , free : * GB )
+91	INFO * : Created broadcast * from * at * : *
+92	INFO * : Total input paths to process : 1
+93	INFO * : Starting job : * at * : *
+94	INFO * : Got job * ( * at * : * ) with * output partitions
+95	INFO * : Final stage : ResultStage * ( * at * : * )
+96	INFO * : Parents of final stage : List ( )
+97	INFO * : Missing parents : List ( )
+98	INFO * : Submitting * * ( * [ * ] at * at * : * ) , which has no missing parents
+99	INFO * : Submitting * missing tasks from * * ( * [ * ] at * at * : * )
+100	INFO * : Adding task set * with * tasks
+101	INFO * : Starting task * in stage * ( TID * , * , partition * , * , * bytes )
+102	INFO * : Finished task * in stage * ( TID * ) in * ms on * ( * )
+103	INFO * : * * ( * at * : * ) * in * s
+104	INFO * : Removed TaskSet * , whose tasks have all completed , from pool
+105	INFO * : Job * * : * at * : * , took * s
+106	INFO * : Cleaned * *
+107	WARN * : Stage * contains a task of very large size ( * KB ) . The maximum recommended task size is 100 KB.
+108	INFO * : Registering RDD * ( * at * : * )
+109	INFO * : Parents of final stage : List ( ShuffleMapStage * )
+110	INFO DAGScheduler : * * : * ( * * )
+111	INFO * : looking for newly runnable stages
+112	INFO * : * : Set ( )
+113	INFO * : waiting : Set ( ResultStage * )
+114	INFO * : Asked to send map output locations for shuffle * to * : *
+115	INFO * : Size of output statuses for shuffle * is * bytes
+116	ERROR TaskSetManager : Total size of serialized results of * tasks ( * * ) is bigger than spark.driver.maxResultSize ( * * )
+117	INFO * : Cancelling stage *
+118	INFO * : Stage * was cancelled
+119	ERROR * : User application exited with status *
+120	INFO * : Final app status : FAILED , exitCode : * , ( reason : User application exited with status * )
+121	INFO * : Invoking stop ( ) from shutdown hook
+122	INFO * : stopped o.s.j.s.ServletContextHandler { * , null }
+123	INFO * : Stopped Spark web UI at http : * : *
+124	INFO * : Asking each executor to shut down
+125	INFO * : * stopped!
+126	INFO * : Successfully stopped SparkContext
+127	INFO ApplicationMaster : Unregistering ApplicationMaster with FAILED ( diag message : User application exited with status 1 )
+128	INFO * : Remoting shut down.
+129	INFO * : Deleting directory *
+130	WARN executor.Executor : Finished task * in stage 3.0 ( TID * ) . Result is larger than maxResultSize ( * MB > 1024.0 MB ) , dropping it.
+131	WARN * : Exception in connection from * : *
+132	reset by peer
+133	ERROR * : Still have * requests outstanding when connection from * : * is closed
+134	ERROR shuffle.OneForOneBlockFetcher : Failed while starting block fetches
+135	INFO shuffle.RetryingBlockFetcher : Retrying fetch ( * ) for * outstanding blocks after 5000 ms
+136	INFO client.TransportClientFactory : Found inactive connection to * : * , creating a new one.
+137	ERROR shuffle.RetryingBlockFetcher : Exception while beginning fetch of * outstanding blocks ( after * retries )
+138	to connect to * : *
+139	java.net.ConnectException : Connection refused : * : *
+140	WARN storage.BlockManager : Failed to fetch remote block * from BlockManagerId ( * , * , * ) ( failed attempt * )
+141	ERROR shuffle.RetryingBlockFetcher : Exception while beginning fetch of * outstanding blocks
+142	ERROR executor.Executor : Exception in task * in stage * ( TID * )
+143	( most recent call last ) :
+144	line * , in *
+145	No such file or directory : *
+146	WARN netty.NettyRpcEndpointRef : Error sending message [ message = GetLocations ( * ) ] in * attempts
+147	* rejected from * [ Terminated , pool size = 0 , active threads = 0 , queued tasks = 0 , completed tasks = 0 ]
+148	INFO * : Disabling executor *
+149	INFO YarnAllocator : Completed container * on host : * ( state : COMPLETE , exit status : * )
+150	WARN * : Container killed by YARN for exceeding memory limits. * GB of * GB * memory used. Consider boosting spark.yarn.executor.memoryOverhead.
+151	INFO * : Trying to remove executor * from BlockManagerMaster.
+152	ERROR YarnClusterScheduler : Lost executor * on * : Container killed by YARN for exceeding memory limits. * GB of * GB * memory used. Consider boosting spark.yarn.executor.memoryOverhead.
+153	INFO * : Removing block manager BlockManagerId ( * , * , * )
+154	INFO * : Removed * successfully in removeExecutor
+155	thread * java.lang.Error : org.apache.spark.SparkException : Exception while starting container * on host *
+156	WARN TaskSetManager : Lost task * in stage * ( TID * , * ) : ExecutorLostFailure ( executor * exited caused by one of the running tasks ) Reason : Container * * * * * * * * * * * * * * * * * *
+157	INFO YarnClusterSchedulerBackend : Asked to remove non-existent executor *
+158	WARN TaskSetManager : Lost task * in stage * ( TID * , * ) : org.apache.spark.api.python.PythonException : Traceback ( most recent call last ) :
+159	ERROR * : Task * in stage * failed 4 times ; aborting job
+160	WARN * : Lost task * in stage * ( TID * , * ) : TaskKilled ( killed intentionally )
+161	ERROR * : Failed to send RPC * to * : * : java.nio.channels.ClosedChannelException
+162	java.nio.channels.ClosedChannelException
+163	java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask@6b8b6716 rejected from java.util.concurrent.ScheduledThreadPoolExecutor@d1d0c83 [ Shutting down , pool size = 1 , active threads = 0 , queued tasks = 0 , completed tasks = 0 ]
+164	WARN python.PythonRunner : Incomplete task interrupted : Attempting to kill Python Worker
+165	ERROR storage.DiskBlockManager : Exception while deleting local spark dir : *
+166	to delete : *
+167	INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1
+168	INFO output.FileOutputCommitter : Saved output of task * to hdfs : //10.10.34.11 : *
+169	INFO spark.CacheManager : Partition * not found , computing it
+170	INFO storage.BlockManager : Found block * *
+171	log4j : ERROR setFile ( null , true ) call failed.
+172	java.io.FileNotFoundException : /opt/hdfs/spark.log ( Permission denied )
+173	at * ( * )
+174	File or DatePattern options are not set for appender [ FILE ] .
+175	INFO * : Removing RDD *
+176	WARN * : Message RemoteProcessDisconnected ( * : * ) dropped.
+177	not find * or it has been stopped.
+178	INFO * : SchedulerBackend is ready for scheduling beginning after waiting maxRegisteredResourcesWaitingTime : 30000 ( ms )
+179	WARN * : Container marked as failed : * on host : * Exit status : -100. Diagnostics : Container expired since it was unused
+180	ERROR ContextCleaner : Error cleaning broadcast *
+181	timed out after [ 120 seconds ] . This timeout is controlled by spark.rpc.askTimeout
+182	java.util.concurrent.TimeoutException : Futures timed out after [ 120 seconds ]
+183	WARN BlockManagerMaster : Failed to remove broadcast * with removeFromMaster = true - Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout
+184	receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout
+185	java.util.concurrent.TimeoutException : Cannot receive any reply in 120 seconds
+186	WARN * : Ignoring response for RPC * from * : * ( * bytes ) since it is not outstanding
+187	WARN HeartbeatReceiver : Removing executor * with no recent heartbeats : * ms exceeds timeout 120000 ms
+188	ERROR YarnClusterScheduler : Lost executor 4 on mesos-slave-05 : * * * * * * *
+189	WARN TaskSetManager : Lost task * in stage * ( TID * , * ) : ExecutorLostFailure ( executor * exited caused by one of the running tasks ) Reason : Executor heartbeat timed out after * ms
+190	INFO YarnClusterSchedulerBackend : Requesting to kill executor ( s ) *
+191	INFO ApplicationMaster$AMEndpoint : Driver requested to kill executor ( s ) *
+192	INFO DAGScheduler : Host added was in lost list earlier : *
+193	ERROR YarnClusterScheduler : Lost executor * on * : Executor heartbeat timed out after * ms
+194	INFO ShuffleMapStage : ShuffleMapStage * is now unavailable on executor * ( * , false )
+195	WARN TaskSetManager : Lost task * in stage * ( TID * , * ) : FetchFailed ( null , shuffleId = * , mapId = -1 , reduceId = * , message =
+196	an output location for shuffle *
+197	INFO DAGScheduler : Marking * * ( * at * : * ) as failed due to a fetch failure from ShuffleMapStage * ( reduceByKey at * : * )
+198	INFO DAGScheduler : Resubmitting ShuffleMapStage * ( reduceByKey at * : * ) and * * ( * at * : * ) due to fetch failure
+199	INFO DAGScheduler : Resubmitting failed stages
+200	WARN * : Container marked as failed : * on host : * Exit status : * Diagnostics : Exception from container-launch.
+201	Container id : *
+202	Exit code : *
+203	Stack trace : ExitCodeException exitCode = * :
+204	with a non-zero exit code *
+205	ERROR YarnClusterScheduler : Lost executor * on * : Container marked as failed : * on host : * Exit status : * Diagnostics : Exception from container-launch.
+206	ERROR YarnClusterScheduler : Lost executor * on * : Container * exited from explicit termination request.
+207	ERROR * : Error sending result RpcResponse { requestId = * , body = NioManagedBuffer { buf = java.nio.HeapByteBuffer [ pos = 0 lim = * cap = * ] } } to * : * ; closing connection
+208	INFO TaskSetManager : Ignoring task-finished event for * in stage * because task * has already completed successfully
+209	java.io.IOException : Broken pipe
+210	ERROR YarnClusterScheduler : Lost an executor * ( already removed ) : Pending loss reason.
+211	INFO DAGScheduler : Resubmitting ShuffleMapStage * ( reduceByKey at pnmf4.py : 371 ) because some of its tasks had failed : *
+212	INFO ApplicationMaster : Final app status : FAILED , exitCode : 11 , ( reason : Max number of executor failures ( * ) reached )
+213	thread "main" java.lang.reflect.UndeclaredThrowableException
+214	org.apache.spark.rpc.RpcTimeoutException : Futures timed out after [ 120 seconds ] . This timeout is controlled by *
+215	org.apache.spark.rpc.RpcTimeoutException : Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout
+216	ERROR spark.MapOutputTracker : Missing an output location for shuffle *
+217	WARN netty.NettyRpcEndpointRef : Error sending message Heartbeat ( * , [ Lscala.Tuple2 ; * , BlockManagerId ( * , * , * ) ) ] in * attempts
+218	ERROR server.TransportChannelHandler : Connection to * : * has been quiet for 120000 ms while there are outstanding requests. Assuming connection is dead ; please adjust spark.network.timeout if this is wrong.
+219	WARN netty.NettyRpcEnv : Ignored failure : java.io.IOException : Connection from * : * closed
+220	WARN executor.Executor : Issue communicating with driver in heartbeater
+221	sending message Heartbeat ( * , [ Lscala.Tuple2 ; * , BlockManagerId ( * , * , * ) ) ]
+222	to send RPC * to * : * : java.nio.channels.ClosedChannelException
+223	Caused by : java.nio.channels.ClosedChannelException
+224	ERROR ApplicationMaster : Uncaught exception :
+225	INFO ApplicationMaster : Final app status : FAILED , exitCode : 10 , ( reason : Uncaught exception : org.apache.spark.rpc.RpcTimeoutException : Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout )
+226	INFO ApplicationMaster : Unregistering ApplicationMaster with FAILED ( diag message : Uncaught exception : org.apache.spark.rpc.RpcTimeoutException : Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout )
+227	ERROR client.TransportClient : Failed to send RPC * to * : * : java.io.IOException : Broken pipe
+228	to send RPC * to * : * : java.io.IOException : Broken pipe
+229	thread "main" java.io.IOException : Connection reset by peer
+230	ERROR * : Error while invoking RpcHandler#receive ( ) for one-way message.
+231	java.lang.IllegalStateException : RpcEnv already stopped.
+232	ERROR ApplicationMaster : SparkContext did not initialize after waiting for 100000 ms. Please check earlier log output for errors. Failing the application.
+233	from * : * closed
+234	process ( )
+235	serializer.dump_stream ( func ( split_index , iterator ) , outfile )
+236	v in iterator :
+237	self._value = self.load ( self._path )
+238	'rb' , 1 << 20 ) as f :
+239	INFO TaskSetManager : Lost task * in stage * ( TID * ) on executor * : org.apache.spark.api.python.PythonException ( Traceback ( most recent call last ) :
+240	) [ duplicate * ]
+241	ERROR TransportRequestHandler : Error sending result RpcFailure { requestId = 5552891282199365097 , errorString = java.lang.IllegalStateException : RpcEnv already stopped.
+242	mesos-slave-06/10.10.34.16 : 56797 ; closing connection
+243	thread * Exception in thread * Exception in thread * java.lang.Error : org.apache.spark.SparkException : Exception while starting container * on host *
+244	ERROR ApplicationMaster : Failed to connect to driver at 10.10.34.11 : 49939 , retrying ...
+245	to connect to driver!
+246	INFO ApplicationMaster : Final app status : FAILED , exitCode : 10 , ( reason : Uncaught exception : org.apache.spark.SparkException : Failed to connect to driver! )
+247	ERROR LiveListenerBus : SparkListenerBus has already stopped! Dropping event SparkListenerBlockUpdated ( BlockUpdatedInfo ( BlockManagerId ( * , * , * ) , * , StorageLevel ( false , true , false , false , 1 ) , * , 0 , 0 ) )
+248	INFO DAGScheduler : waiting : Set ( * * , * * )
+249	WARN TaskSetManager : Lost task * in stage * ( TID * , * ) : FetchFailed ( BlockManagerId ( * , * , * ) , shuffleId = * , mapId = * , reduceId = * , message =
+250	in opening FileSegmentManagedBuffer { file = * , offset = * , length = * }
+251	java.io.IOException : Error in opening FileSegmentManagedBuffer { file = * , offset = * , length = * }
+252	java.io.FileNotFoundException : * ( No such file or directory )
+253	java.io.IOException : Failed to connect to * : *
+254	INFO DAGScheduler : waiting : Set ( ResultStage 12 , ShuffleMapStage 10 , ShuffleMapStage 11 )
+255	INFO DAGScheduler : Resubmitting ShuffleMapStage 9 ( reduceByKey at pnmf_dblp.py : 418 ) because some of its tasks had failed : 6 , 8 , 9 , 10 , 11 , 12 , 33 , 34 , 35 , 36 , 37 , 38 , 73
+256	INFO DAGScheduler : Resubmitted ShuffleMapTask ( 11 , * ) , so marking it as still running
+257	ERROR storage.ShuffleBlockFetcherIterator : Failed to get block ( s ) from * : *
+258	INFO spark.CacheManager : Another thread is loading rdd_27_39 , waiting for it to finish...
+259	INFO spark.CacheManager : Finished waiting for rdd_27_39
+260	ERROR server.TransportRequestHandler : Error while invoking RpcHandler#receive ( ) on RPC id 8192611242310115905
+261	( No such file or directory )
+262	return os.stat ( filename ) .st_size
+263	ERROR storage.ShuffleBlockFetcherIterator : Error occurred while fetching local blocks
+264	WARN netty.NettyRpcEndpointRef : Error sending message [ message = UpdateBlockInfo ( BlockManagerId ( * , * , * ) , * , StorageLevel ( false , * , false , false , 1 ) , * , 0 , 0 ) ] in * attempts
+265	ERROR server.TransportRequestHandler : Error sending result ChunkFetchSuccess { streamChunkId = StreamChunkId { streamId = * , chunkIndex = * } , buffer = FileSegmentManagedBuffer { file = * , offset = * , length = * } } to * : * ; closing connection
+266	INFO DAGScheduler : Resubmitting ShuffleMapStage 6 ( reduceByKey at pnmf_dblp.py : 418 ) because some of its tasks had failed : 4 , 9 , 14 , 19 , 24 , 29 , 65 , 67 , 68 , 69 , 70 , 71 , 75 , 76 , 77
+267	INFO DAGScheduler : Resubmitting ShuffleMapStage 6 ( reduceByKey at pnmf_dblp.py : 418 ) because some of its tasks had failed : 1 , 6 , 11 , 16 , 21 , 26 , 30 , 31 , 32 , 39 , 40 , 41 , 42 , 51 , 52 , 60 , 79
+268	/opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0060/blockmgr-faf3e58a-8f4e-4aad-8c27-a0078dc60c7e/08/shuffle_3_56_0.index ( No such file or directory )
+269	java.lang.RuntimeException : java.io.FileNotFoundException : /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0060/blockmgr-faf3e58a-8f4e-4aad-8c27-a0078dc60c7e/08/shuffle_3_56_0.index ( No such file or directory )
+270	WARN BlockManagerMaster : Failed to remove broadcast * with removeFromMaster = true - Connection reset by peer
+271	INFO DAGScheduler : Resubmitting ShuffleMapStage * ( reduceByKey at pnmf_dblp.py : 418 ) because some of its tasks had failed : 1 , * , * , * , * , * , * , * , * , 27 , * , * , * , * , * , * , * , * , * , * , *
+272	INFO DAGScheduler : Resubmitting ShuffleMapStage 9 ( reduceByKey at pnmf_dblp.py : 418 ) because some of its tasks had failed : 11 , 14 , 30 , 40 , 52 , 67 , 71 , 75 , 77 , 79
+273	ERROR shuffle.RetryingBlockFetcher : Failed to fetch block * , and will not retry ( 0 retries )
+274	java.lang.NullPointerException : group
+275	WARN storage.BlockManager : Putting block * failed
+276	thread "main" java.io.IOException : Failed to connect to * : *
+277	java.lang.OutOfMemoryError
+278	ERROR util.SparkUncaughtExceptionHandler : Uncaught exception in thread Thread [ Executor task launch * , 5 , main ]
+279	WARN TaskSetManager : Lost task * in stage * ( TID * , * ) : java.lang.OutOfMemoryError
+280	INFO TaskSetManager : Lost task 0.0 in stage 5.0 ( TID 8 ) on executor mesos-slave-21 : java.lang.OutOfMemoryError ( null ) [ duplicate 1 ]
+281	ERROR python.PythonRunner : Python worker exited unexpectedly ( crashed )
+282	command = pickleSer._read_with_length ( infile )
+283	length = read_int ( stream )
+284	raise EOFError
+285	EOFError
+286	org.apache.spark.shuffle.FetchFailedException : Error in opening FileSegmentManagedBuffer { file = * , offset = * , length = * }
+287	ERROR python.PythonRunner : This may have been caused by a prior exception :
+288	INFO storage.BlockManager : Got told to re-register updating block *
+289	INFO storage.BlockManager : BlockManager re-registering with master
+290	INFO storage.BlockManager : Reporting * blocks to the master.
+291	WARN TaskSetManager : Lost task * in stage * ( TID * , * ) : java.lang.OutOfMemoryError : Requested array size exceeds VM limit
+292	WARN * : Container marked as failed : * on host : * Exit status : 143. Diagnostics : Container killed on request. Exit code is 143
+293	Killed by external signal
+294	ERROR YarnClusterScheduler : Lost executor * on * : Container marked as failed : * on host : * Exit status : 143. Diagnostics : Container killed on request. Exit code is 143
+295	WARN TaskSetManager : Lost task * in stage * ( TID 12 , * ) : ExecutorLostFailure ( executor * exited caused by one of the running tasks ) Reason : Container marked as failed : * on host : * Exit status : 143. Diagnostics : Container killed on request. Exit code is 143
+296	INFO ApplicationMaster : Unregistering ApplicationMaster with FAILED ( diag message : Max number of executor failures ( 4 ) reached )
+297	array size exceeds VM limit
+298	ERROR util.SparkUncaughtExceptionHandler : [ Container in shutdown ] Uncaught exception in thread Thread [ Executor task launch * , 5 , main ]
+299	INFO executor.Executor : Told to re-register on heartbeat
+300	org.apache.spark.shuffle.FetchFailedException : * ( No such file or directory )
+301	INFO TaskSetManager : Task * failed because while it was being computed , its executorexited for a reason unrelated to the task. Not counting this failure towards the maximum number of failures for the task.
+302	to create local dir in *
+303	INFO cluster.YarnClusterScheduler : * *
+304	INFO yarn.ExecutorRunnable : * * *
+305	* * : * : * INFO yarn.ExecutorRunnable :
+306	INFO * : Added * in memory on * : * ( size : * * , free : * * )
+307	INFO * : Missing parents : List ( ShuffleMapStage * )
+308	INFO * : Removed * on * : * in memory ( size : * * , free : * * )
+309	INFO * : Removing RDD * from persistence list
+310	vs = list ( itertools.islice ( iterator , batch ) )
+311	operand type ( s ) for * : * and *
+312	org.apache.spark.shuffle.FetchFailedException : Failed to connect to * : *
+313	INFO DAGScheduler : Resubmitting ShuffleMapStage * ( reduceByKey at pnmf4.py : 371 ) because some of its tasks had failed : * , *
+314	thread * * * : * : * INFO ExecutorRunnable : Prepared Local resources Map ( __spark__.jar -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : * } size : 109525492 timestamp : * type : FILE visibility : PRIVATE , pyspark.zip -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : * } size : 355358 timestamp : * type : FILE visibility : PRIVATE , py4j-0.9-src.zip -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : * } size : 44846 timestamp : * type : FILE visibility : PRIVATE )
+315	path contains multiple SLF4J bindings.
+316	binding in [ jar : file : * ]
+317	http : //www.slf4j.org/codes.html#multiple_bindings for an explanation.
+318	binding is of type [ org.slf4j.impl.Log4jLoggerFactory ]
+319	INFO executor.Executor : Using REPL class URI : http : //10.10.18.32 : 65475
+320	INFO storage.MemoryStore : ensureFreeSpace ( * ) called with curMem = * , maxMem = 556038881
+321	INFO rdd.BinaryFileRDD : Input split : Paths : * : *
+322	INFO rdd.BinaryFileRDD : Input split : Paths : * : * , * : *
+323	INFO rdd.BinaryFileRDD : Input split : Paths : * : * , * : * , * : *
+324	INFO rdd.BinaryFileRDD : Input split : Paths : * : * , * : * , * : * , * : *
+325	INFO hdfs.DFSClient : Exception in createBlockOutputStream
+326	java.net.ConnectException : Connection refused
+327	INFO hdfs.DFSClient : Abandoning BP-108841162-10.10.34.11-1440074360971 : *
+328	INFO hdfs.DFSClient : Excluding datanode DatanodeInfoWithStorage [ 10.10.34.15 : 50010 , DS-8de4ae37-fac2-404a-a8e3-dcecd440f907 , DISK ]
+329	INFO DAGScheduler : Resubmitting ShuffleMapStage 6 ( reduceByKey at pnmf_dblp.py : 418 ) because some of its tasks had failed : 1 , 6 , 11 , 16 , 21 , 26 , 49 , 50 , 51 , 52 , 53 , 54 , 63 , 64 , 65 , 66 , 67 , 68 , 69 , 71 , 72 , 73
+330	os.remove ( os.path.join ( path , str ( i ) ) )
+331	INFO DAGScheduler : Resubmitting ShuffleMapStage 10 ( reduceByKey at pnmf_dblp.py : 423 ) because some of its tasks had failed : 1 , 2 , 5 , 6 , 9 , 10 , 13 , 14 , 17 , 18 , 21 , 22 , 24 , 25 , 27 , 28 , 29 , 31 , 32 , 33 , 35 , 36 , 37 , 39 , 40 , 42 , 43 , 44 , 46 , 47 , 48 , 49 , 50 , 54 , 56 , 57 , 66 , 67
+332	WARN NettyRpcEnv : Ignored failure : java.io.IOException : Failed to send RPC 8212686680769530402 to mesos-slave-05/10.10.34.15 : 59498 : java.nio.channels.ClosedChannelException
+333	INFO DAGScheduler : Resubmitting ShuffleMapStage 9 ( reduceByKey at pnmf_dblp.py : 418 ) because some of its tasks had failed : 1 , 3 , 5 , 6 , 7 , 16 , 29 , 31 , 34 , 35 , 36 , 43 , 54 , 57
+334	name 'self' is not defined
+335	ERROR util.Utils : Uncaught exception in thread stdout writer for /home/curi/anaconda2/bin/python
+336	java.net.SocketException : Socket is closed
+337	run program "/home/curi/anaconda2/bin/python" : error = 2 , No such file or directory
+338	java.io.IOException : error = 2 , No such file or directory
+339	WARN scheduler.TaskSetManager : Lost task * in stage * ( TID * , * ) : java.io.IOException : Cannot run program "/home/curi/anaconda2/bin/python" : error = 2 , No such file or directory
+340	INFO scheduler.TaskSetManager : Lost task * in stage * ( TID * ) on executor * : java.io.IOException ( Cannot run program "/home/curi/anaconda2/bin/python" : error = 2 , No such file or directory ) [ duplicate * ]
+341	INFO * : Executor lost : * ( epoch * )
+342	INFO ipc.Client : Retrying connect to server : mesos-master-1/10.10.34.11 : 8030. Already tried * time ( s ) ; maxRetries = 45
+343	WARN cluster.YarnSchedulerBackend$YarnSchedulerEndpoint : Attempted to get executor loss reason for executor id 8 at RPC address mesos-master-1 : 58336 , but got no response. Marking as slave lost.
+344	ERROR cluster.YarnClusterScheduler : Lost executor 8 on mesos-master-1 : Slave lost
+345	WARN ipc.Client : Interrupted while trying for connection
+346	WARN yarn.ApplicationMaster : Reporter thread fails 1 time ( s ) in a row.
+347	on local exception : java.io.InterruptedIOException : Interrupted while waiting for IO on channel java.nio.channels.SocketChannel [ connection-pending remote = mesos-master-1/10.10.34.11 : 8030 ] . 20000 millis timeout left. ; Host Details : local host is : "mesos-slave-08/10.10.34.18" ; destination host is : "mesos-master-1" : 8030 ;
+348	java.io.InterruptedIOException : Interrupted while waiting for IO on channel java.nio.channels.SocketChannel [ connection-pending remote = mesos-master-1/10.10.34.11 : 8030 ] . 20000 millis timeout left.
+349	thread * * * : * : * INFO ExecutorRunnable : Preparing Local resources
+350	ERROR executor.CoarseGrainedExecutorBackend : Cannot register with driver : spark : //CoarseGrainedScheduler@10.10.34.11 : 53733
+351	RpcEnv already stopped.
+352	WARN netty.NettyRpcEndpointRef : Error sending message [ message = RetrieveSparkProps ] in * attempts
+353	org.apache.spark.SparkException : Error sending message [ message = RetrieveSparkProps ]
+354	java.io.IOException : Failed to send RPC * to mesos-master-1/10.10.34.11 : 51096 : java.nio.channels.ClosedChannelException
+355	thread "ContainerLauncher-3" Exception in thread "ContainerLauncher-7" 17/06/06 21 : 38 : 28 INFO ExecutorRunnable : Prepared Local resources Map ( __spark__.jar -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : "/user/curi/.sparkStaging/application_1485248649253_0090/spark-assembly-1.6.0-hadoop2.2.0.jar" } size : 109525492 timestamp : 1496756248902 type : FILE visibility : PRIVATE , pyspark.zip -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : "/user/curi/.sparkStaging/application_1485248649253_0090/pyspark.zip" } size : 355358 timestamp : 1496756248962 type : FILE visibility : PRIVATE , py4j-0.9-src.zip -> resource { scheme : "hdfs" host : "10.10.34.11" port : 9000 file : "/user/curi/.sparkStaging/application_1485248649253_0090/py4j-0.9-src.zip" } size : 44846 timestamp : 1496756248979 type : FILE visibility : PRIVATE )
+356	Error sending message [ message = GetLocations ( * ) ]
+357	org.apache.spark.SparkException : Error sending message [ message = GetLocations ( * ) ]
+358	thread * * * : * : * INFO ExecutorRunnable :
+359	thread "main" java.io.IOException : Failed to send RPC 7756800634605021806 to mesos-master-1/10.10.34.11 : 46463 : java.nio.channels.ClosedChannelException
+360	takes exactly 6 arguments ( 5 given )
+361	thread * 17/06/07 15 : 26 : * INFO YarnAllocator : Launching container * for on host *
+362	thread "ContainerLauncher-21" 17/06/08 19 : 02 : 03 INFO YarnAllocator : Launching ExecutorRunnable. driverUrl : spark : //CoarseGrainedScheduler@10.10.34.11 : 39185 , executorHostname : mesos-slave-10

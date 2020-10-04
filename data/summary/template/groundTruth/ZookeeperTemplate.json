@@ -1,0 +1,258 @@
+{
+"1":["INFO Server environment : java.class.path = *",
+[["", "", ""]]],
+
+"2":["INFO Server environment : java.library.path = *",
+[["", "", ""]]],
+
+"3":["INFO Got user-level KeeperException when processing sessionid : * type : create cxid : * zxid : * txntype : -1 reqpath : n/a Error Path : * Error : KeeperErrorCode = NodeExists for *",
+[["", "Got", "user-level KeeperException"],
+["", "processing", "sessionid"]]],
+
+"4":["INFO Created server with tickTime 2000 minSessionTimeout 4000 maxSessionTimeout 40000 datadir *",
+[["", "Created", "server"],
+["tickTime", "is", "2000"],
+["minSessionTimeout", "is", "4000"],
+["maxSessionTimeout", "is", "40000"],
+["datadir", "is", "VAR1"]]],
+
+"5":["INFO Notification : *",
+[["Notification", "is", "VAR1"]]],
+
+"6":["INFO * not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation",
+[["VAR1", "not found", ""],
+["", "Creating with", "a reasonable default of 0"],
+["This", "should only happen", ""], 
+["you", "are updgrading", "your installation"],
+["This should only happen", "when", "you are upgrading your installation"]]],
+
+"7":["WARN Exception when using channel : for id 3 my id = * error = java.net.SocketException : Broken pipe",
+[["Exception", "", ""],
+["", "using", "channel"],
+["id", "is", "VAR1"],
+["error", "is", "java.net.SocketException"],
+["pipe", "is", "Broken"]]],
+
+"8":["WARN Exception causing close of session * due to java.io.IOException : ZooKeeperServer not running",
+[["Exception", "causing", "close of session VAR1"],
+["ZooKeeperServer", "not running", ""],
+["Exception causing close of session VAR1", "due to", "java.io.IOException"]]],
+
+"9":["INFO Synchronizing with Follower sid : * maxCommittedLog = * minCommittedLog = * peerLastZxid = *",
+[["", "Synchronizing with", "Follower"],
+["sid", "is", "VAR1"],
+["maxCommittedLog", "is", "VAR2"],
+["minCommittedLog", "is", "VAR3"],
+["peerLastZxid", "is", "VAR4"]]],
+
+"10":["INFO [ QuorumPeer [ myid = * ] * ] *",
+[["myid", "is", "VAR1"]]], 
+
+"11":["WARN Exception causing close of session * due to java.io.IOException : Connection reset by peer",
+[["Exception", "causing", "close of session VAR1"],
+["Connection", "reset", "by peer"],
+["Exception causing close of session VAR1", "due to", "java.io.IOException"]]],
+
+"12":["INFO Server environment : zookeeper.version = * , built on *",
+[["zookeeper.version", "is", "VAR1"],
+["", "built on", "VAR2"]]],
+
+"13":["WARN Connection request from old client : * ; will be dropped if server is in r-o mode",
+[["Connection request", "", ""],
+["old client VAR1", "", ""],
+["", "will be", "dropped"],
+["server", "is in", "r-o mode"],
+["will be dropped", "if", "server is in r-o mode"]]],
+
+"14":["INFO exception while shutting down acceptor : java.net.SocketException : Socket closed",
+[["exception", "", ""],
+["", "shutting down", "acceptor"],
+["Socket", "closed", ""],
+["exception", "while", "shutting down acceptor"]]],
+
+"15":["INFO Closed socket connection for client * ( no session established for client )",
+[["", "Closed", "socket connection"],
+["", "Closed for", "Client VAR1"],
+["no session", "established for", "client"]]],
+
+"16":["INFO Have quorum of supporters ; starting up and setting last processed zxid : *",
+[["", "Have", "quorum of supporters"],
+["", "starting up", "last processed zxid"],
+["", "setting", "last processed zxid"]]],
+
+"17":["INFO Sending snapshot last zxid of peer is * zxid of leader is * zxid of db as *",
+[["", "Sending", "snapshot"],
+["last zxid of peer", "is", "VAR1"],
+["zxid of leader", "is", "VAR2"]]],
+
+"18":["INFO Have smaller server identifier , so dropping the connection : *",
+[["", "Have", "smaller server identifier"],
+["", "dropping", "the connection"]]],
+
+"19":["INFO Established session * with negotiated timeout * for client : *",
+[["", "Established", "session VAR1"],
+["", "Established with", "timeout VAR2"],
+["", "Established for", "client"]]],
+
+"20":["INFO Closed socket connection for client * which had sessionid *",
+[["", "Closed", "socket connection"],
+["", "Closed for", "Client VAR1"],
+["", "had", "sessionid VAR2"]]],
+
+"21":["ERROR Unexpected exception causing shutdown while sock still open",
+[["Unexpected exception", "causing", "shutdown"],
+["sock", "still open", ""],
+["Unexpected exception causing shutdown", "while", "sock still open"],
+["exception", "is", "Unexpected"]]],
+
+"22":["INFO Reading configuration from : *",
+[["", "Reading", "configuration"]]],
+
+"23":["WARN Unexpected exception , tries = 0 , connecting to *",
+[["exception", "is", "Unexpected"],
+["", "connecting to", "VAR1 "]]],
+
+"25":["WARN Cannot open channel to * at election address *",
+[["", "Cannot open", "channel to VAR1"],
+["", "Cannot open at", "election address VAR2"]]],
+
+"26":["WARN Connection broken for id * , my id = * , error =",
+[["Connection", "broken for", "id VAR1"],
+["my id", "is", "VAR2"]]],
+
+"27":["INFO Processed session termination for sessionid *",
+[["", "Processed", "session termination"],
+["", "Processed for", "sessionid VAR1"]]],
+
+"28":["WARN Interrupted while waiting for message on queue",
+[["", "Interrupted", ""],
+["", "waiting for", "message on queue"],
+["Interrupted", "while", "waiting for message"]]],
+
+"29":["INFO New election. My id = * , proposed zxid = *",
+[["New election", "", ""],
+["My id", "is", "VAR1"],
+["proposed zxid", "is", "VAR2"]]],
+
+"30":["INFO Expiring session * , timeout of * exceeded",
+[["Expiring session", "is", "VAR1"],
+["timeout of VAR2", "exceeded", ""]]],
+
+"31":["WARN Commiting zxid * from * not first!",
+[["", "Commiting", "zxid VAR1"],
+["", "Commiting from", "VAR2"]]],
+
+"32":["INFO shutdown of request processor complete",
+[["shutdown of request processor", "complete", ""]]],
+
+"33":["INFO Accepted socket connection from *",
+[["", "Accepted", "socket connection"],
+["", "Accepted from", "VAR2"]]],
+
+"34":["WARN Exception when following the leader",
+[["Exception", "", ""],
+["", "following", "the leader"]]],
+
+"35":["INFO Client attempting to establish new session at *",
+[["Client", "attempting to establish", "new session"]]],
+
+"99":["INFO Client attempting to renew session * at *",
+[["Client", "attempting to renew", "session VAR1"]]],
+
+"36":["INFO Getting a diff from the leader *",
+[["", "Getting", "a diff"],
+["", "Getting from", "the leader VAR1"]]],
+
+"37":["INFO Received connection request *",
+[["", "Received", "connection request"]]],
+
+"38":["WARN caught end of stream exception",
+[["", "caught", "end of stream exception"]]],
+
+"39":["INFO Getting a snapshot from leader",
+[["", "Getting", "a snapshot"],
+["", "Getting from", "leader"]]],
+
+"40":["INFO Defaulting to majority quorums",
+[["", "Defaulting to", "majority quorums"]]],
+
+"41":["INFO My election bind port *",
+[["My election", "bind", "port VAR1"]]],
+
+"42":["INFO * - LEADER ELECTION TOOK - *",
+[["LEADER ELECTION", "TOOK", ""]]],
+
+"43":["INFO SyncRequestProcessor exited!",
+[["SyncRequestProcessor", "exited", ""]]],
+
+"44":["WARN ******* GOODBYE : * ********",
+[["", "", ""]]],
+
+"45":["INFO Purge task is not scheduled.",
+[["Purge task", "is not", "scheduled"]]],
+
+"46":["INFO Follower sid : * : info : *",
+[["Follower sid", "is", "VAR1"],
+["info", "is", "VAR2"]]],
+
+"47":["INFO Server environment : * = *",
+[["", "", ""]]],
+
+"48":["WARN Send worker leaving thread",
+[["Send worker", "leaving", "thread"]]],
+
+"49":["INFO Notification time out : *",
+[["Notification time out", "is", "VAR1"]]],
+
+"50":["INFO TCP NoDelay set to : true",
+[["TCP NoDelay", "set to", "true"]]],
+
+"51":["INFO Creating new log file *",
+[["", "Creating", "new log file"]]],
+
+"52":["WARN Interrupting SendWorker",
+[["", "Interrupting", "SendWorker"]]],
+
+"53":["INFO Revalidating client : *",
+[["", "Revalidating", "client"]]],
+
+"54":["ERROR Unexpected Exception :",
+[["Exception", "is", "Unexpected"]]],
+
+"55":["INFO binding to port : *",
+[["", "binding to", "port"],
+["port", "is", "VAR1"]]],
+
+"56":["INFO Snapshotting * to *",
+[["", "Snapshotting", "VAR1"],
+["", "Snapshotting to", "VAR2"]]],
+
+"57":["WARN Got zxid * expected *",
+[["", "Got", "zxid VAR1"],
+["", "expected", "VAR2"]]],
+
+"58":["INFO Starting quorum peer",
+[["", "Starting", "quorum peer"]]],
+
+"59":["INFO Reading snapshot *",
+[["", "Reading", "snapshot VAR1"]]],
+
+"60":["INFO * exited loop!",
+[["VAR1", "exited", "loop"]]],
+
+"61":["WARN First is 0x0",
+[["First", "is", "0x0"]]],
+
+"62":["INFO * set to *",
+[["VAR1", "set to", "VAR2"]]],
+
+"63":["INFO Sending *",
+[["", "Sending", "VAR1"]]],
+
+"64":["INFO * called",
+[["VAR1", "called", ""]]],
+
+"65":["INFO * down",
+[["VAR1", "is", "down"]]]
+
+}

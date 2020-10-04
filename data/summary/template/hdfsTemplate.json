@@ -1,0 +1,189 @@
+{
+"1":["INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.net.SocketTimeoutException : * millis timeout while waiting for channel to be ready for write. ch : java.nio.channels.SocketChannel [ connected local = : * remote = : 50010 ]",
+[["VAR1 millis timeout", "while", "waiting for channel to be ready for write"],
+["", "waiting for", "channel"]]],
+
+"2":["INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.io.InterruptedIOException : Interruped while waiting for IO on channel java.nio.channels.SocketChannel * millis timeout left.",
+[["Interruped", "while", "waiting for IO on Channel"],
+["", "waiting for", "IO"],
+["", "waiting on", "channel"]]],
+
+"3":["INFO dfs.DataNode$PacketResponder : PacketResponder 1 Exception java.io.InterruptedIOException : Interruped while waiting for IO on channel java.nio.channels.SocketChannel * millis timeout left.",
+[["Interruped", "while", "waiting for IO on Channel"],
+["", "waiting for", "IO"],
+["", "waiting on", "channel"],
+["VAR1 millis timeout", "left", ""]]],
+
+"4":["INFO * : * * * java.net.SocketTimeoutException : * millis timeout while waiting for channel to be ready for read . ch : java.nio.channels.SocketChannel [ connected local = : * remote = : 50010 ]",
+[["VAR1 millis timeout", "while", "waiting for channel to be ready for read"],
+["VAR1 millis timeout", "left", ""]]],
+
+"5":["INFO * : * * * java.io.InterruptedIOException : Interruped while waiting for IO on channel java.nio.channels.SocketChannel * millis timeout left.",
+[["Interruped", "while", "waiting for IO on Channel"],
+["VAR5 millis timeout", "left", ""]]],
+
+"6":["INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : addStoredBlock request received for on : 50010 size * But it does not belong to any file.",
+[["addStoredBlock request", "received", ""],
+["it", "does not belong to", "any file"]]],
+
+"7":["INFO dfs.DataNode$DataXceiver : writeBlock received exception java.io.IOException : Block is valid , and cannot be written to.",
+[["Block", "is", "valid"],
+["Block", "cannot be written to", ""]]],
+
+"8":["WARN dfs.DataNode$DataTransfer : : 50010 : Failed to transfer to : 50010 got java.io.IOException : Connection reset by peer",
+[["50010", "got", "java.io.IOException"],
+["Connection", "reset by", "peer"]]],
+
+"9":["WARN dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : Redundant addStoredBlock request received for on : 50010 size *",
+[["addStoredBlock request", "is", "Redundant"],
+["Redundant addStoredBlock request", "received", ""]]],
+
+"10":["ERROR dfs.DataNode$DataXceiver : : 50010 : DataXceiver : java.io.IOException : Block is valid , and cannot be written to.",
+[["Block", "is", "valid"],
+["Block", "cannot be written to", ""]]],
+
+"11":["WARN dfs.DataNode : org.apache.hadoop.util.Shell$ExitCodeException : du : cannot access * : No such file or directory",
+[["", "cannot access", "VAR1"]]],
+
+"12":["INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.io.IOException : Connection reset by peer",
+[["Exception", "in", "receiveBlock"],
+["Connection", "reset by", "peer"]]],
+
+"13":["INFO dfs.DataNode$DataXceiver : writeBlock received exception java.net.NoRouteToHostException : No route to host",
+[["writeBlock", "received", "exception java.net.NoRouteToHostException"]]],
+
+"14":["INFO dfs.DataNode$DataXceiver : writeBlock received exception java.io.IOException : Could not read from stream",
+[["writeBlock", "received", "exception java.net.IOException"],
+["", "Could not read from", "stream"]]],
+
+"15":["INFO dfs.DataNode$PacketResponder : PacketResponder 1 Exception java.io.IOException : The stream is closed",
+[["The stream", "is", "closed"]]],
+
+"16":["INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : : 50010 is added to size *",
+[["blockMap", "updated", ""],
+["50010", "is added to", "size VAR2"]]],
+
+"17":["INFO dfs.FSNamesystem : BLOCK* Removing block from neededReplications as it does not belong to any file.",
+[["", "Removing", "block"],
+["", "Removing from", "neededReplications"],
+["it", "does not belong to", "any file"]]],
+
+"18":["INFO dfs.DataNode$BlockReceiver : Changing block file offset of block from 0 to * meta file offset to *",
+[["", "Changing", "block file offset of block"],
+["", "Changing from", "0"],
+["", "Changing to", "VAR1"]]],
+
+"19":["WARN dfs.PendingReplicationBlocks$PendingReplicationMonitor : PendingReplicationMonitor timed out block",
+[["PendingReplicationMonitor", "timed out", "block"]]],
+
+"20":["INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.io.IOException : Broken pipe",
+[["Exception", "in", "receiveBlock"],
+["pipe", "is", "Broken"]]],
+
+"21":["ERROR dfs.DataNode$DataXceiver : : 50010 : DataXceiver : java.io.IOException : Block is not valid.",
+[["Block", "is", "not valid"]]],
+
+"22":["INFO dfs.DataNode$PacketResponder : PacketResponder * Exception java.io.IOException : Broken pipe",
+[["pipe", "is", "Broken"]]],
+
+"23":["WARN dfs.FSDataset : Unexpected error trying to delete block . BlockInfo not found in volumeMap.",
+[["Unexpected error", "trying to delete", "block"],
+["BlockInfo", "not found", ""],
+["BlockInfo", "not found in", "volumeMap"]]],
+
+"24":["INFO dfs.FSNamesystem : BLOCK* ask : 50010 to replicate to datanode ( s ) : 50010",
+[["50010", "to replicate to", "datanode"]]],
+
+"25":["INFO dfs.DataNode$DataXceiver : writeBlock received exception java.io.IOException : * *",
+[["writeBlock", "received", "exception java.io.IOException"]]],
+
+"26":["INFO dfs.DataNode$BlockReceiver : : 50010 : Exception writing block to mirror : 50010",
+[["Exception", "writing", "block"],
+["Exception", "writing", "to mirror"]]],
+
+"27":["INFO dfs.FSNamesystem : BLOCK* NameSystem.delete : is added to invalidSet of : 50010",
+[["", "", ""]]],
+
+"28":["INFO dfs.DataNode : : 50010 Starting thread to transfer block * to * , : 50010",
+[["", "Starting", "thread"],
+["", "Starting to transfer", "block"], 
+["block", "is", "VAR1"]]],
+
+"29":["INFO dfs.DataNode$DataXceiver : Received block src : : * dest : : 50010 of size *",
+[["", "Received", "block src"]]],
+
+"30":["INFO dfs.FSNamesystem : BLOCK ask * to replicate * to datanode ( s ) *",
+[["BLOCK", "ask", "VAR1"],
+["BLOCK", "ask to replicate", "VAR2"],
+["BLOCK", "ask to replicate to", "datanode"],
+["data node", "is", "VAR3"]]],
+
+"31":["WARN dfs.DataNode$DataXceiver : : 50010 : Got exception while serving * to *",
+[["", "Got", "exception"],
+["Got exception", "while", "serving VAR1"]]],
+
+"32":["INFO dfs.DataNode$DataXceiver : Receiving block src : : * dest : : 50010",
+[["Receiving", "block src", ""]]],
+
+"33":["INFO dfs.DataNode : : 50010 Starting thread to transfer block * to *",
+[["50010", "Starting", "thread"],
+["50010", "Starting to transfer", "block"],
+["block", "is", "VAR1"]]],
+
+"34":["INFO dfs.DataNode$DataTransfer : : 50010 : Transmitted block * to *",
+[["", "Transmitted", "block VAR1"], 
+["", "Transmitted to", "VAR2"]]],
+
+"35":["INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block *",
+[["Exception", "in", "receiveBlock"]]],
+
+"36":["INFO dfs.DataNode$BlockReceiver : Receiving empty packet for block *",
+[["", "Receiving", "empty packet"],
+["", "Receiving for", "block"],
+["block", "is", "VAR1"]]],
+
+"37":["INFO dfs.DataNode$PacketResponder : PacketResponder * for block *",
+[["", "", ""]]],
+
+"38":["INFO dfs.DataNode$PacketResponder : Received block of size * from *",
+[["", "Received", "block of size VAR1"],
+["", "Received from", "VAR2"]]],
+
+"39":["INFO dfs.DataNode$PacketResponder : PacketResponder * Exception *",
+[["", "", ""]]],
+
+"40":["INFO dfs.DataNode$DataXceiver : writeBlock received exception *",
+[["writeBlock", "received", "exception VAR1"]]],
+
+"41":["INFO * java.io.IOException : Connection reset by peer",
+[["Connection", "reset by", "peer"]]],
+
+"42":["WARN dfs.DataBlockScanner : Adding an already existing block",
+[["", "Adding", "an already existing block"]]],
+
+"43":["`/mnt/hadoop/dfs/data/tmp/.meta' : No such file or directory",
+[["No such file", "or", "directory"]]],
+
+"44":["INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : *",
+[["", "", ""]]],
+
+"45":["INFO dfs.DataNode$DataXceiver : * Served block to *",
+[["VAR1", "Served", "block"],
+["VAR1", "Served to", "VAR1"]]],
+
+"46":["`/mnt/hadoop/dfs/data/tmp/' : No such file or directory",
+[["No such file", "or", "directory"]]],
+
+"47":["INFO dfs.DataBlockScanner : Verification succeeded for *",
+[["Verification", "succeeded for", "VAR1"]]],
+
+"48":["INFO dfs.FSNamesystem : BLOCK* ask : 50010 to delete",
+[["", "", ""]]],
+
+"49":["INFO dfs.FSDataset : Deleting block file *",
+[["", "Deleting", "block file VAR1"]]],
+
+"50":["INFO dfs.FSDataset : Reopen Block",
+[["", "Reopen", "Block"]]]
+
+}

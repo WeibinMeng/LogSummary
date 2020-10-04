@@ -1,0 +1,65 @@
+1	INFO Reading configuration from : /etc/zookeeper/conf/zoo.cfg
+2	INFO Defaulting to majority quorums
+3	INFO * set to *
+4	INFO Purge task is not scheduled.
+5	INFO Starting quorum peer
+6	INFO binding to port : 2181
+7	INFO * not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+8	INFO My election bind port : : 3888
+9	* * : * : * , * - INFO [ QuorumPeer [ myid = * ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : * ] - *
+10	INFO New election. My id = * , proposed zxid = *
+11	INFO Notification : * ( n.leader ) , * ( n.zxid ) , * ( n.round ) , * ( n.state ) , * ( n.sid ) , * ( n.peerEPoch ) , * ( my state )
+12	WARN Cannot open channel to * at election address : 3888
+13	INFO Notification time out : *
+14	INFO Received connection request : *
+15	INFO TCP NoDelay set to : true
+16	INFO Server environment : zookeeper.version = 3.4.5--1 , built on 06/10/2013 17 : 26 GMT
+17	INFO Server environment : * = *
+18	INFO Server environment : java.vendor = Oracle Corporation
+19	INFO Server environment : java.class.path = /etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar
+20	INFO Server environment : java.library.path = /usr/java/packages/lib/amd64 : /usr/lib/x86_64-linux-gnu/jni : /lib/x86_64-linux-gnu : /usr/lib/x86_64-linux-gnu : /usr/lib/jni : /lib : /usr/lib
+21	INFO Created server with tickTime 2000 minSessionTimeout 4000 maxSessionTimeout 40000 datadir /var/lib/zookeeper/version-2 snapdir /var/lib/zookeeper/version-2
+22	INFO * - LEADER ELECTION TOOK - *
+23	INFO Getting a diff from the leader *
+24	INFO Snapshotting : * to *
+25	WARN Connection broken for id * , my id = * , error =
+26	WARN Interrupting SendWorker
+27	WARN Interrupted while waiting for message on queue
+28	WARN Send worker leaving thread
+29	WARN Got zxid * expected *
+30	INFO Creating new log file : *
+31	INFO Accepted socket connection from : *
+32	WARN Connection request from old client : * ; will be dropped if server is in r-o mode
+33	INFO Client attempting to * * * at : *
+34	INFO Established session * with negotiated timeout * for client : *
+35	WARN caught end of stream exception
+36	INFO Closed socket connection for client : * which had sessionid *
+37	INFO Revalidating client : *
+38	WARN Exception when using channel : for id 3 my id = * error = java.net.SocketException : Broken pipe
+39	ERROR Unexpected Exception :
+40	WARN Exception causing close of session * due to java.io.IOException : Connection reset by peer
+41	INFO Reading snapshot *
+42	INFO Have smaller server identifier , so dropping the connection : ( * , * )
+43	WARN Exception when following the leader
+44	INFO * called
+45	INFO * down
+46	INFO * exited loop!
+47	INFO shutdown of request processor complete
+48	INFO SyncRequestProcessor exited!
+49	WARN Unexpected exception , tries = 0 , connecting to : 2888
+50	INFO Follower sid : * : info : *
+51	INFO Synchronizing with Follower sid : * maxCommittedLog = * minCommittedLog = * peerLastZxid = *
+52	INFO Sending *
+53	WARN Commiting zxid * from : 2888 not first!
+54	WARN First is 0x0
+55	INFO Have quorum of supporters ; starting up and setting last processed zxid : *
+56	INFO Sending snapshot last zxid of peer is * zxid of leader is * zxid of db as *
+57	INFO Expiring session * , timeout of * exceeded
+58	INFO Processed session termination for sessionid : *
+59	ERROR Unexpected exception causing shutdown while sock still open
+60	WARN ******* GOODBYE : * ********
+61	INFO exception while shutting down acceptor : java.net.SocketException : Socket closed
+62	INFO Getting a snapshot from leader
+63	WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+64	INFO Closed socket connection for client : * ( no session established for client )
+65	INFO Got user-level KeeperException when processing sessionid : * type : create cxid : * zxid : * txntype : -1 reqpath : n/a Error Path : * Error : KeeperErrorCode = NodeExists for *

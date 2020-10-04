@@ -1,0 +1,1400 @@
+{
+"1":["* INFO * : Prepared Local resources Map ( * -> resource { scheme : \"hdfs\" host : * port : * file : * } size : * timestamp : * type : FILE visibility : PRIVATE , * -> resource { scheme : \"hdfs\" host : * port : * file : * } size : * timestamp : * type : FILE visibility : PRIVATE , * -> resource { scheme : \"hdfs\" host : * port : * file : * } size : * timestamp : * type : FILE visibility : PRIVATE )",
+[["", "Prepared", "Local resources Map"],
+["scheme", "is", "\"hdfs\""],
+["host", "is", "VAR4"],
+["port", "is", "VAR5"],
+["file", "is", "VAR6"],
+["size", "is", "VAR7"],
+["timestamp", "is", "VAR8"],
+["type", "is", "FILE"],
+["visibility", "is", "PRIVATE"]]],
+
+"2":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : ExecutorLostFailure ( executor * exited caused by one of the running tasks ) Reason : Container marked as failed : * on host : * Exit status * Diagnostics : Container killed on request. Exit code is *",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["executor VAR4", "exited", ""],
+["executor VAR4", "exited caused by", "one of the running tasks"],
+["Container", "marked", "as failed"],
+["Container marked as failed", "is", "VAR5"],
+["host", "is", "VAR6"],
+["Exit status", "is", "VAR7"],
+["Diagnostics", "is", "Container killed on request"],
+["Container", "killed", "on request"],
+["Exit code", "is", "VAR8"]]],
+
+"3":["on local exception : java.io.InterruptedIOException : Interrupted while waiting for IO on channel java.nio.channels.SocketChannel [ connection-pending remote = * ] . 20000 millis timeout left. ; Host Details : local host is : * ; destination host is * ;",
+[["connection-pending remote", "is", "VAR1"],
+["Host Details", "is", "local"],
+["host", "is", "VAR2"],
+["destination host", "is", "VAR3"],
+["Interruped", "while", "waiting for IO on channel"]]],
+
+"4":["ERROR server.TransportRequestHandler : Error sending result ChunkFetchSuccess { streamChunkId = StreamChunkId { streamId = * , chunkIndex = * } , buffer = FileSegmentManagedBuffer { file = * , offset = * , length = * } } to * : * ; closing connection",
+[["Error", "sending", "result ChunkFetchSuccess"],
+["streamId", "is", "VAR1"], 
+["chunkIndex", "is", "VAR2"],
+["buffer", "is", "FileSegmentManagedBuffer"],
+["file", "is", "VAR3"],
+["offset", "is", "VAR4"],
+["length", "is", "VAR5"]]],
+
+"5":["* rejected from * [ Shutting down , pool size = 1 , active threads = 0 , queued tasks = 0 , completed tasks = 0 ]",
+[["VAR1", "rejected from", "VAR2"],
+["pool size", "is", "1"],
+["active threads", "is", "0"],
+["queued tasks", "is", "0"],
+["completed tasks", "is", "0"]]],
+
+"6":["INFO ApplicationMaster : Unregistering ApplicationMaster with FAILED ( diag message : Uncaught exception : org.apache.spark.rpc.RpcTimeoutException : Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout )",
+[["", "Unregistering", "ApplicationMaster"],
+["", "Unregistering with", "FAILED"],
+["diag message", "is", "Uncaught exception"],
+["Uncaught exception", "is", "org.apache.spark.rpc.RpcTimeoutException"],
+["", "Cannot receive", "any reply in 120 seconds"],
+["This timeout", "is controlled by", "spark.rpc.askTimeout"]]],
+
+"7":["INFO ApplicationMaster : Final app status : FAILED , exitCode : 10 , ( reason : Uncaught exception : org.apache.spark.rpc.RpcTimeoutException : Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout )",
+[["Final app status", "is", "FAILED"],
+["exitCode", "is", "10"],
+["reason", "is", "Uncaught exception"],
+["Uncaught exception", "is", "org.apache.spark.rpc.RpcTimeoutException"],
+["", "Cannot receive", "any reply in 120 seconds"],
+["This timeout", "is controlled by", "spark.rpc.askTimeout"]]],
+
+"8":["ERROR server.TransportChannelHandler : Connection to * : * has been quiet for 120000 ms while there are outstanding requests. Assuming connection is dead ; please adjust spark.network.timeout if this is wrong.",
+[["VAR1", "has been quite for", "120000 ms"],
+["", "there are", "outstanding requests"],
+["Assuming connection", "is", "dead"],
+["VAR1 has been quiet for 120000 ms", "while", "there are outstanding requests"]]],
+
+"9":["INFO TaskSetManager : Task * failed because while it was being computed , its executorexited for a reason unrelated to the task. Not couting this failure towards the maximum number of failures for the task.",
+[["Task VAR1", "failed", ""],
+["", "Not couting", "this failure towards the maximum number of failures"],
+["Task VAR1 failed", "because while", "it was being computed"]]],
+
+"10":["WARN cluster.YarnSchedulerBackend$YarnSchedulerEndpoint : Attempted to get executor loss reason for executor id 8 at RPC address mesos-master-1 : * , but got no response. Marking as slave lost.",
+[["", "Attempted to get", "executor loss reason for executor id 8 at RPC address"],
+["mesos-master-1", "is", "VAR1"],
+["", "got", "no response"],
+["", "Marking", "as slave lost"]]],
+
+"11":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : ExecutorLostFailure ( executor * exited caused by one of the running tasks ) Reason : Executor heartbeat timed out after * ms",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["executor VAR4", "exited", ""],
+["executor VAR4 exited", "caused by", "one of the running tasks"],
+["Executor heartbeat", "timed out", ""]]],
+
+"12":["INFO scheduler.TaskSetManager : Lost task * in stage * ( TID * ) on executor * : java.io.IOException ( Cannot run program * error = 2 , No such file or directory ) [ duplicate * ]",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["", "Cannot run", "program VAR4"],
+["error", "is", "2"]]],
+
+"13":["WARN BlockManagerMaster : Failed to remove broadcast * with removeFromMaster = true - Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout",
+[["", "Failed to remove", "broadcast VAR1"],
+["removeFromMaster", "is", "true"],
+["", "Cannot receive", "any reply in 120 seconds"],
+["This timeout", "is controlled by", "spark.rpc.askTimeout"]]],
+
+"14":["ERROR TransportRequestHandler : Error sending result RpcFailure { requestId = * , errorString = java.lang.IllegalStateException : RpcEnv already stopped.",
+[["Error", "sending", "result RpcFailure"],
+["requestId", "is", "VAR1"],
+["RpcEnv", "already stopped", ""]]],
+
+"15":["INFO * : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , * ) ; users with modify permissions : Set ( yarn , * )",
+[["authentication", "is", "disabled"],
+["ui acls", "is", "disabled"]]],
+
+"16":["ERROR YarnClusterScheduler : Lost executor * on * : Container marked as failed : * on host : * Exit status : * Diagnostics : Container killed on request. Exit code is *",
+[["", "Lost", "executor VAR1"],
+["", "Lost on", "VAR2"],
+["Container", "marked", "as failed"],
+["Container marked as failed", "is", "VAR3"],
+["host", "is", "VAR4"],
+["Exit status", "is", "VAR5"],
+["Diagnostics", "is", "Container killed on request"],
+["Container", "killed on", "request"],
+["Exit code", "is", "VAR6"]]],
+
+"17":["java.io.InterruptedIOException : Interrupted while waiting for IO on channel java.nio.channels.SocketChannel [ connection-pending remote = * ] . * millis timeout left.",
+[["connection-pending remote", "is", "VAR1"],
+["Interrupted", "while", "waiting for IO on channel"]]],
+
+"18":["INFO ApplicationMaster : Final app status : FAILED , exitCode : 10 , ( reason : Uncaught exception : org.apache.spark.SparkException : Failed to connect to driver! )",
+[["Final app status", "is", "FAILED"],
+["exitCode", "is", "10"],
+["reason", "is", "Uncaught exception"]]],
+
+"19":["ERROR LiveListenerBus : SparkListenerBus has already stopped! Dropping event SparkListenerBlockUpdated ( BlockUpdatedInfo ( BlockManagerId * StorageLevel * ) )",
+[["SparkListenerBus", "has already stopped", ""],
+["", "Dropping", "event SparkListenerBlockUpdated"],
+["BlockManagerId", "is", "VAR1"],
+["StorageLevel", "is", "VAR2"]]],
+
+"20":["= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =",
+[["", "", ""]]],
+
+"21":["ERROR YarnClusterScheduler : Lost executor * on * : Container marked as failed : * on host : * Exit status : * Diagnostics : Exception from container-launch.",
+[["", "Lost", "executor VAR1"],
+["", "Lost on", "VAR2"],
+["Container", "marked", "as failed"],
+["Container marked as failed", "is", "VAR3"],
+["host", "is", "VAR4"],
+["Exit status", "is", "VAR5"],
+["Diagnostics", "is", "Exception from container-launch"]]],
+
+"22":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : ExecutorLostFailure ( executor * exited caused by one of the running tasks ) Reason : Container *",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["executor VAR4", "exited", ""],
+["Reason", "is", "Container VAR5"]]],
+
+"23":["INFO TaskSetManager : Lost task * in stage * ( TID * ) on executor * : org.apache.spark.api.python.PythonException ( Traceback ( most recent call last ) :",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"24":["ERROR YarnClusterScheduler : Lost executor * on * : Container killed by YARN for exceeding memory limits. * GB of * GB * memory used. Consider boosting *",
+[["", "Lost", "executor VAR1"],
+["", "Lost on", "VAR2"],
+["Container", "killed by", "YARN for exceeding memory limits"]]],
+
+"25":["WARN scheduler.TaskSetManager : Lost task * in stage * ( TID * , * ) : java.io.IOException : Cannot run program * : error = * , No such file or directory",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["", "Cannot run", "program VAR4"],
+["error", "is", "VAR5"]]],
+
+"26":["thread * Exception in thread * Exception in thread * java.lang.Error : org.apache.spark.SparkException : Exception while starting container * on host *",
+[["thread", "is", "VAR1"],
+["Exception", "while", "starting container VAR4 on host VAR5"],
+["", "starting", "container VAR4"],
+["", "starting on", "host VAR5"]]],
+
+"27":["ERROR ApplicationMaster : SparkContext did not initialize after waiting for * ms. Please check earlier log output for errors. Failing the application.",
+[["SparkContext", "did not initialize", ""],
+["", "Failing", "the application"]]],
+
+"28":["WARN * : Container killed by YARN for exceeding memory limits. * GB of * GB * memory used. Consider boosting spark.yarn.executor.memoryOverhead.",
+[["Container", "killed by", "YARN for exceeding memory limits"]]],
+
+"29":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : FetchFailed ( BlockManagerId * , shuffleId = * , mapId = * , reduceId = * , message =",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["BlockManagerId", "is", "VAR4"],
+["shuffleId", "is", "VAR5"],
+["mapId", "is", "VAR6"],
+["reduceId", "is", "VAR7"]]],
+
+"30":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : org.apache.spark.api.python.PythonException : Traceback ( most recent call last ) :",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"31":["ERROR util.SparkUncaughtExceptionHandler : [ Container in shutdown ] Uncaught exception in thread Thread [ Executor task launch * , main ]",
+[["Uncaught exception", "in", "thread"],
+["Executor task", "launch", "VAR1"]]],
+
+"32":["WARN netty.NettyRpcEndpointRef : Error sending message [ message = UpdateBlockInfo ( BlockManagerId * , StorageLevel * ) ] in * attempts",
+[["message", "is", "UpdateBlockInfo"],
+["BlockManagerId", "is", "VAR1"],
+["shuffleId", "is", "VAR2"]]],
+
+"33":["WARN executor.Executor : Finished task * in stage * ( TID * ) . Result is larger than maxResultSize ( * MB > 1024.0 MB ) , dropping it.",
+[["", "Finished", "task VAR1"],
+["", "Finished in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["Result", "is", "larger than maxResultSize"]]],
+
+"34":["org.apache.spark.rpc.RpcTimeoutException : Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout",
+[["", "Cannot receive", "any reply in 120 seconds"],
+["This timeout", "is controlled by", "spark.rpc.askTimeout"]]],
+
+"35":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : FetchFailed ( null , shuffleId = * , mapId = -1 , reduceId = * , message = *",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["shuffleId", "is", "VAR4"],
+["mapId", "is", "VAR5"],
+["reduceId", "is", "VAR6"],
+["message", "is", "VAR7"]]],
+
+"36":["INFO ApplicationMaster : Unregistering ApplicationMaster with FAILED ( diag message : Max number of executor failures * reached )",
+[["diag message", "is", "Max number of executor failures VAR1 reached"],
+["Max number of executor failures", "is", "VAR1"]]],
+
+"37":["thread * Exception in thread * java.lang.Error : org.apache.spark.SparkException : Exception while starting container * on host *",
+[["thread", "is", "VAR1"],
+["Exception", "while", "starting container VAR3 on host VAR4"],
+["", "starting", "container VAR3"],
+["", "starting on", "host VAR4"],
+["container", "is", "VAR3"],
+["host", "is", "VAR4"]]],
+
+"38":["org.apache.spark.shuffle.FetchFailedException : Error in opening FileSegmentManagedBuffer { file = * , offset = * , length = * }",
+[["file", "is", "VAR1"],
+["offset", "is", "VAR2"],
+["length", "is", "VAR3"]]],
+
+"39":["INFO ApplicationMaster : Final app status : FAILED , exitCode : 11 , ( reason : Max number of executor failures ( * ) reached )",
+[["Final app status", "is", "FAILED"],
+["exitCode", "is", "11"],
+["reason", "is", "'Max number of executor failures ( VAR1 ) reached'"],
+["Max number of executor failures", "is", "VAR1"]]],
+
+"40":["WARN * : Container marked as failed : * on host : * Exit status : * Diagnostics : Container killed on request. Exit code is *",
+[["Container", "marked", "as failed"],
+["Container marked as failed", "is", "VAR2"],
+["host", "is", "VAR3"],
+["Exit status", "is", "VAR4"],
+["Diagnostics", "is", "Container killed on request"],
+["Container", "killed on", "request"],
+["Exit code", "is", "VAR6"]]],
+
+"41":["INFO ApplicationMaster : Unregistering ApplicationMaster with FAILED ( diag message : User application exited with status 1 )",
+[["diag message", "is", "User application exited with status 1"],
+["User application", "exited with", "status 1"]]],
+
+"42":["INFO DAGScheduler : Resubmitting ShuffleMapStage * ( reduceByKey at * ) because some of its tasks had failed : *",
+[["some of its tasks", "had failed", ""],
+["", "Resubmitting", "ShuffleMapStage"],
+["Resubmitting ShuffleMapStage", "because", "some of its tasks had failed"]]],
+
+"47":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : java.lang.OutOfMemoryError : Requested array size exceeds VM limit",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["Requested array size", "exceeds", "VM limit"]]],
+
+"48":["WARN * : Container marked as failed : * on host : * Exit status : * . Diagnostics : Container expired since it was unused",
+[["Container", "marked", "as failed"],
+["Container marked as failed", "is", "VAR2"],
+["host", "is", "VAR3"],
+["Exit status", "is", "VAR4"],
+["Diagnostics", "is", "Container expired since it was unused"],
+["Container", "expired", ""],
+["it", "was", "unused"],
+["Container expired", "since", "it was unused"]]],
+
+"49":["INFO TaskSetManager : Lost task * in stage * ( TID * ) on executor * : java.lang.OutOfMemoryError ( null ) [ duplicate 1 ]",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"50":["INFO * : SchedulerBackend is ready for scheduling beginning after waiting maxRegisteredResourcesWaitingTime : 30000 ( ms )",
+[["SchedulerBackend", "is", "ready for scheduling"]]],
+
+"51":["INFO TaskSetManager : Ignoring task-finished event for * in stage * because task * has already completed successfully",
+[["task VAR3", "has already completed successfully", ""],
+["", "Ignoring", "task-finished event"],
+["Ignoring task-finished event for VAR1 in stage VAR2", "because", "task * has already completed successfully"]]],
+
+"52":["org.apache.spark.rpc.RpcTimeoutException : Futures timed out after [ 120 seconds ] . This timeout is controlled by *",
+[["Futures", "timed out", ""],
+["This timeout", "is", "controlled by VAR1"]]],
+
+"53":["ERROR util.SparkUncaughtExceptionHandler : Uncaught exception in thread Thread [ Executor task launch * , 5 , main ]",
+[["Ececutor task", "launch", "VAR1"]]],
+
+"54":["WARN * : Container marked as failed : * on host : * Exit status : * Diagnostics : Exception from container-launch.",
+[["Container", "marked", "as failed"],
+["Container marked as failed", "is", "VAR2"],
+["host", "is", "VAR3"],
+["Exit status", "is", "VAR4"],
+["Diagnostics", "is", "Exception from container-launch"]]],
+
+"55":["ERROR shuffle.RetryingBlockFetcher : Exception while beginning fetch of * outstanding blocks ( after * retries )",
+[["Exception", "while", "beginning fetch of VAR1 outstanding blocks"]]],
+
+"56":["* rejected from * [ Terminated , pool size = 0 , active threads = 0 , queued tasks = 0 , completed tasks = 0 ]",
+[["VAR1", "rejected from", "VAR2"],
+["pool size", "is", "0"],
+["active threads", "is", "0"],
+["queued tasks", "is", "0"],
+["completed tasks", "is", "0"]]],
+
+"57":["WARN BlockManagerMaster : Failed to remove broadcast * with removeFromMaster = true - Connection reset by peer",
+[["", "Failed to", "remove broadcast VAR1"],
+["removeFromMaster", "is", "true"],
+["Connection", "reset by", "peer"]]],
+
+"58":["ERROR * : Error sending result RpcResponse { requestId = * , body = NioManagedBuffer * ; closing connection",
+[["requestId", "is", "VAR2"],
+["body", "is", "NioManagedBuffer"],
+["", "closing", "connection"]]],
+
+"59":["INFO * : SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio : 0.8",
+[["SchedulerBackend", "is ready for scheduling", ""],
+["minRegisteredResourcesRatio", "is", "0.8"]]],
+
+"60":["WARN * : Stage * contains a task of very large size ( * KB ) . The maximum recommended task size is 100 KB.",
+[["Stage VAR2", "contains", "a task of very large size"],
+["The maximum recommended task size", "is", "100 KB"]]],
+
+"61":["thread * java.lang.Error : org.apache.spark.SparkException : Exception while starting container * on host *",
+[["thread", "is", "VAR1"],
+["container", "is", "VAR2"],
+["host", "is", "VAR3"],
+["Exception", "while", "starting container VAR2 on host VAR3"],
+["", "starting", "container VAR2"],
+["", "starting on", "host VAR3"]]],
+
+"62":["INFO * : Add WebUI Filter. AddWebUIFilter * , Map ( PROXY_HOSTS -> mesos-master-1 , PROXY_URI_BASES -> * )",
+[["", "Add", "WebUI Filter"],
+["AddWebUIFilter", "is", "VAR2"]]],
+
+"63":["INFO DAGScheduler : Marking * as failed due to a fetch failure from ShuffleMapStage * ( reduceByKey at * )",
+[["", "Marking", "VAR1"],
+["", "Marking as failed", "VAR1"],
+["ShuffleMapStage", "is", "VAR2"],
+["Marking VAR1 as failed", "due to", "a fetch failure from ShuffleMapStage"]]],
+
+"64":["INFO spark.MapOutputTrackerWorker : Doing the fetch ; tracker endpoint = NettyRpcEndpointRef ( spark : * )",
+[["", "Doing", "the fetch"],
+["tracker endpoint", "is", "NettyRpcEndpointRef"],
+["spark", "is", "VAR1"]]],
+
+"65":["ERROR TaskSetManager : Total size of serialized results * is bigger than spark.driver.maxResultSize ( * )",
+[["Total size of serialized results VAR1", "is", "'bigger than spark.driver.maxResultSize ( VAR2 )'"]]],
+
+"66":["ERROR YarnClusterScheduler : Lost executor * on * : Container * exited from explicit termination request.",
+[["", "Lost", "executor VAR1"],
+["", "Lost on", "VAR2"],
+["Container VAR1", "exited from", "explicit termination request"]]],
+
+"67":["INFO * : Started progress reporter thread with ( heartbeat : 3000 , initial allocation : 200 ) intervals",
+[["", "Started", "progress reporter thread"],
+["heartbeat", "is", "3000"],
+["initial allocation", "is", "200"]]],
+
+"68":["INFO * : Will request * executor containers , each with * cores and * MB memory including * MB overhead",
+[["", "Will request", "VAR1 executor containers"],
+["cores", "is", "VAR2"],
+["MB memory", "is", "VAR3"],
+["MB overhead", "is", "VAR4"]]],
+
+"69":["WARN HeartbeatReceiver : Removing executor * with no recent heartbeats : * ms exceeds timeout 120000 ms",
+[["", "Removing", "executor VAR1"],
+["VAR1 ms", "exceeds", "timeout 120000 ms"]]],
+
+"70":["thread \"main\" java.io.IOException : Failed to send RPC * to * java.nio.channels.ClosedChannelException",
+[["thread", "is", "\"main\""],
+["", "Failed to", "send RPC VAR2 to VAR3"]]],
+
+"71":["INFO * : Final app status : FAILED , exitCode : * , ( reason : User application exited with status * )",
+[["Final app status", "is", "FAILED"],
+["exitCode", "is", "VAR2"],
+["reason", "is", "User application exited with status VAR3"],
+["User application", "exited with", "status VAR3"]]],
+
+"72":["java.io.IOException : Error in opening FileSegmentManagedBuffer { file = * , offset = * , length = * }",
+[["file", "is", "VAR1"],
+["offset", "is", "VAR2"],
+["length", "is", "VAR3"]]],
+
+"73":["WARN storage.BlockManager : Failed to fetch remote block * from BlockManagerId * ( failed attempt * )",
+[["", "Failed to", "fetch remote bloack VAR1 from BlockManagerId"],
+["BlockManagerId", "is", "VAR2"],
+["failed attempt", "is", "VAR3"]]],
+
+"74":["WARN netty.NettyRpcEndpointRef : Error sending message [ message = GetLocations ( * ) ] in * attempts",
+[["message", "is", "GetLocations"]]],
+
+"75":["WARN netty.NettyRpcEndpointRef : Error sending message [ message = RetrieveSparkProps ] in * attempts",
+[["message", "is", "RetrieveSparkProps"]]],
+
+"76":["ERROR util.Utils : Uncaught exception in thread stdout writer for /home/curi/anaconda2/bin/python",
+[["Uncaught exception", "in", "thread stdout writer"]]],
+
+"77":["ERROR client.TransportClient : Failed to send RPC * to * : * : java.io.IOException : Broken pipe",
+[["", "Failed to", "send RPC VAR1 to VAR2"],
+["pipe", "is", "Broken"]]],
+
+"78":["ERROR shuffle.RetryingBlockFetcher : Failed to fetch block * , and will not retry ( 0 retries )",
+[["", "Failed to", "fetch block VAR1"],
+["retries", "is", "0"]]],
+
+"79":["ERROR server.TransportRequestHandler : Error while invoking RpcHandler#receive ( ) on RPC id *",
+[["RPC id", "is", "VAR1"],
+["Error", "while", "invoking RpcHandler#receive"]]],
+
+"80":["INFO DAGScheduler : waiting : Set ( ResultStage 12 , ShuffleMapStage 10 , ShuffleMapStage 11 )",
+[["waiting", "is", "Set"],
+["ResultStage", "is", "12"],
+["ShuffleMapStage", "is", "10"],
+["ShuffleMapStage", "is", "11"]]],
+
+"81":["* INFO YarnAllocator : Launching ExecutorRunnable. driverUrl : spark * , executorHostname : *",
+[["", "Launching", "ExecutorRunnable"],
+["driverUrl", "is", "spark VAR2"],
+["executorHostname", "is", "VAR3"]]],
+
+"82":["INFO executor.Executor : Finished task * in stage * ( TID * ) . * bytes result sent to driver",
+[["", "Finished", "task VAR1"],
+["", "Finished in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["VAR4 bytes result", "sent to", "driver"]]],
+
+"83":["INFO client.TransportClientFactory : Found inactive connection to * : * , creating a new one.",
+[["", "Found", "inactive connection to VAR1"]]],
+
+"84":["INFO YarnAllocator : Completed container * on host : * ( state : COMPLETE , exit status : * )",
+[["", "Completed", "container VAR1"],
+["host", "is", "VAR2"],
+["state", "is", "COMPLETE"],
+["exit status", "is", "VAR3"]]],
+
+"85":["WARN netty.NettyRpcEnv : Ignored failure : java.io.IOException : Connection from * closed",
+[["", "Ignored", "failure"],
+["Connection from VAR1", "closed", ""]]],
+
+"86":["java.lang.RuntimeException : java.io.FileNotFoundException : * ( No such file or directory )",
+[["", "", ""]]],
+
+"87":["INFO ipc.Client : Retrying connect to server * Already tried * time ( s ) ; maxRetries = 45",
+[["", "Retrying", "connect to server VAR1"],
+["", "Already tried", "'VAR2 time ( s )'"],
+["maxRetries", "is", "45"]]],
+
+"88":["INFO shuffle.RetryingBlockFetcher : Retrying fetch ( * ) for * outstanding blocks after * ms",
+[["", "Retrying", "fetch"]]],
+
+"89":["ERROR shuffle.RetryingBlockFetcher : Exception while beginning fetch of * outstanding blocks",
+[["", "beginning", "fetch of VAR1 outstanding blocks"],
+["Exception", "while", "beginning fetch of VAR1 outstanding blocks"]]],
+
+"90":["ERROR YarnClusterScheduler : Lost executor * on * : Executor heartbeat timed out after * ms",
+[["", "Lost", "executor VAR1"],
+["", "Lost on", "VAR2"],
+["Executor heartbeat", "timed out", ""]]],
+
+"91":["INFO spark.CacheManager : Another thread is loading rdd_27_39 , waiting for it to finish...",
+[["Another thread", "is loading", "rdd_27_39"]]],
+
+"92":["java.io.IOException : Failed to send RPC * to * : java.nio.channels.ClosedChannelException",
+[["", "Failed to", "send RPC VAR1 to VAR2"]]],
+
+"93":["org.apache.hadoop.yarn.exceptions.YarnException : Unauthorized request to start container.",
+[["Unauthorized", "request to start", "container"]]],
+
+"94":["ERROR YarnClusterScheduler : Lost an executor * ( already removed ) : Pending loss reason.",
+[["", "Lost", "an executor VAR1"],
+["", "Pending", "loss reason"]]],
+
+"95":["WARN python.PythonRunner : Incomplete task interrupted : Attempting to kill Python Worker",
+[["Incomplete task", "interrupted", ""],
+["", "Attempting to kill", "Python worker"]]],
+
+"96":["ERROR executor.CoarseGrainedExecutorBackend : Driver * disassociated! Shutting down.",
+[["Driver VAR1", "disassociated", ""]]],
+
+"97":["INFO spark.MapOutputTrackerWorker : Don't have map outputs for shuffle * , fetching them",
+[["", "Don't have", "map outputs for shuffle VAR1"],
+["", "fetching", "them"]]],
+
+"98":["org.apache.spark.SparkException : Error sending message [ message = RetrieveSparkProps ]",
+[["message", "is", "RetrieveSparkProps"]]],
+
+"99":["org.apache.spark.SparkException : Error sending message [ message = GetLocations ( * ) ]",
+[["message", "is", "'GetLocations (VAR1)'"]]],
+
+"100":["INFO ShuffleMapStage : ShuffleMapStage * is now unavailable on executor * ( * , false )",
+[["ShuffleMapStage VAR1", "is now unavailable on", "executor VAR2"]]],
+
+"101":["WARN netty.NettyRpcEndpointRef : Error sending message Heartbeat ( * ) ] in * attempts",
+[["Error", "sending", "message Heartbeat"]]],
+
+"102":["WARN executor.CoarseGrainedExecutorBackend : An unknown ( * : * ) driver disconnected.",
+[["An unknown driver", "disconnected", ""]]],
+
+"103":["ERROR storage.ShuffleBlockFetcherIterator : Error occurred while fetching local blocks",
+[["Error", "occurred", ""],
+["", "fetching", "local blocks"],
+["Error occurred", "while", "fetching local blocks"]]],
+
+"104":["thread * 17/06/07 15 : 26 : * INFO YarnAllocator : Launching container * for on host *",
+[["thread", "is", "VAR1"],
+["", "Launching", "container VAR3"],
+["host", "is", "VAR4"]]],
+
+"105":["ERROR executor.CoarseGrainedExecutorBackend : Cannot register with driver : spark : *",
+[["", "Cannot register with", "driver"],
+["spark", "is", "VAR1"]]],
+
+"106":["INFO storage.ShuffleBlockFetcherIterator : Getting * non-empty blocks out of * blocks",
+[["", "Getting", "VAR1 non-empty blocks"]]],
+
+"107":["run program * : error = * , No such file or directory",
+[["", "run", "program VAR1"],
+["error", "is", "VAR2"]]],
+
+"108":["WARN NettyRpcEnv : Ignored failure : java.io.IOException : Failed to send RPC * to *",
+[["", "Ignored", "failure"],
+["", "Failed to send", "RPC VAR1 to VAR2"]]],
+
+"109":["INFO storage.MemoryStore : ensureFreeSpace ( * ) called with curMem = * , maxMem = *",
+[["ensureFreeSpace", "called", ""],
+["curMem", "is", "VAR2"],
+["maxMem", "is", "VAR3"]]],
+
+"110":["timed out after [ 120 seconds ] . This timeout is controlled by spark.rpc.askTimeout",
+[["This timeout", "is controlled by", "spark.rpc.askTimeout"]]],
+
+"111":["receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout",
+[["", "receive", "any reply in 120 seconds"],
+["This timeout", "is controlled by", "spark.rpc.askTimeout"]]],
+
+"112":["WARN TaskSetManager : Lost task * in stage * ( TID * ) : java.lang.OutOfMemoryError",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"113":["INFO * : Adding filter : org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter",
+[["", "Adding", "filter"]]],
+
+"114":["INFO * : Launching ExecutorRunnable. driverUrl : spark : * , executorHostname : *",
+[["", "Launching", "ExecutorRunnable"],
+["spark", "is", "VAR2"],
+["executorHostname", "is", "VAR3"]]],
+
+"115":["ERROR * : Failed to send RPC * to * : * : java.nio.channels.ClosedChannelException",
+[["", "Failed to send", "RPC VAR2"]]],
+
+"116":["INFO DAGScheduler : Resubmitted ShuffleMapTask * , so marking it as still running",
+[["", "Resubmitted", "ShuffleMapTask VAR1"],
+["", "marking", "it as still running"]]],
+
+"117":["INFO executor.CoarseGrainedExecutorBackend : Successfully registered with driver",
+[["", "Successfully registered with", "driver"]]],
+
+"118":["org.apache.spark.SparkException : Exception while starting container * on host *",
+[["container", "is", "VAR2"],
+["host", "is", "VAR3"],
+["Exception", "while", "starting container VAR2 on host VAR3"],
+["", "starting", "container VAR2"],
+["", "starting on", "host VAR3"]]],
+
+"119":["WARN * : Lost task * in stage * ( TID * ) : TaskKilled ( killed intentionally )",
+[["", "Lost", "task VAR1"],
+["", "Lost in", "stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"120":["INFO python.PythonRunner : Times : total = * , boot = * , init = * , finish = *",
+[["total", "is", "VAR1"],
+["boot", "is", "VAR2"],
+["init", "is", "VAR3"],
+["finish", "is", "VAR4"]]],
+
+"121":["INFO executor.Executor : Executor is trying to kill task * in stage * ( TID * )",
+[["Executor", "is trying to kill", "task VAR1 in stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"122":["java.util.concurrent.TimeoutException : Futures timed out after [ 120 seconds ]",
+[["Futures", "timed out", ""]]],
+
+"123":["java.util.concurrent.TimeoutException : Cannot receive any reply in 120 seconds",
+[["", "Cannot receive", "any reply in 120 seconds"]]],
+
+"124":["org.apache.spark.shuffle.FetchFailedException : * ( No such file or directory )",
+[["", "", ""]]],
+
+"125":["INFO * : Remote daemon shut down ; proceeding with flushing remote transports.",
+[["Remote daemon", "shut down", ""],
+["", "proceeding with flushing", "remote transports"]]],
+
+"126":["INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1",
+[["File Output Committer Algorithm version", "is", "1"]]],
+
+"127":["INFO DAGScheduler : Resubmitting ShuffleMapStage * and * due to fetch failure",
+[["", "Resubmitting", "ShuffleMapStage VAR1"],
+["", "Resubmitting", "VAR2"],
+["Resubmitting ShuffleMapStage", "due to", "fetch failure"]]],
+
+"128":["ERROR storage.DiskBlockManager : Exception while deleting local spark dir : *",
+[["Exception", "while", "deleting local spark dir"],
+["", "deleting", "local spark dir"]]],
+
+"129":["INFO ApplicationMaster$AMEndpoint : Driver requested to kill executor ( s ) *",
+[["Driver", "requested to kill", "executor"]]],
+
+"130":["ERROR * : Still have * requests outstanding when connection from * is closed",
+[["VAR2 requests", "outstanding", ""],
+["connection from VAR3", "is", "closed"]]],
+
+"131":["ERROR storage.ShuffleBlockFetcherIterator : Failed to get block ( s ) from *",
+[["", "Failed to get", "block"]]],
+
+"132":["INFO * : Received * containers from YARN , launching executors on * of them.",
+[["", "Received", "VAR1 containers from YARN"],
+["", "launching", "executors on VAR3 of them"]]],
+
+"133":["ERROR python.PythonRunner : This may have been caused by a prior exception :",
+[["This", "may have been caused by", "a prior exception"]]],
+
+"134":["INFO * : Connecting to ResourceManager at * : *",
+[["", "Connecting to", "ResourceManager at VAR2"]]],
+
+"135":["INFO storage.ShuffleBlockFetcherIterator : Started * remote fetches in * ms",
+[["", "Started", "VAR1 remote fetches in VAR2 ms"]]],
+
+"136":["INFO hdfs.DFSClient : Abandoning * : *",
+[["", "Abandoning", "VAR1"]]],
+
+"137":["sending message Heartbeat ( * , [ Lscala.Tuple2 ; * , BlockManagerId * ) ]",
+[["", "sending", "message Heartbeat"],
+["BlockManagerId", "is", "VAR3"]]],
+
+"138":["INFO spark.MapOutputTrackerWorker : Updating epoch to * and clearing cache",
+[["", "Updating", "epoch"],
+["", "Updating epoch to", "VAR1"],
+["", "clearing", "cache"]]],
+
+"139":["INFO YarnClusterSchedulerBackend : Asked to remove non-existent executor *",
+[["", "Asked to remove", "non-existent executor VAR1"],
+["VAR1", "is", "non-existent executor"]]],
+
+"140":["ERROR * : Error while invoking RpcHandler#receive ( ) for one-way message.",
+[["Error", "while", "invoking RpcHandler#receive"],
+["", "invoking", "RpcHandler#receive"],
+["", "invoking for", "one-way message"]]],
+
+"141":["in opening FileSegmentManagedBuffer { file = * , offset = * , length = * }",
+[["", "opening", "FileSegmentManagedBuffer"],
+["file", "is", "VAR1"],
+["offset", "is", "VAR2"],
+["length", "is", "VAR3"]]],
+
+"142":["org.apache.spark.shuffle.FetchFailedException : Failed to connect to * : *",
+[["", "Failed to connect to", "VAR1"]]],
+
+"143":["WARN yarn.ApplicationMaster : Reporter thread fails 1 time ( s ) in a row.",
+[["Reporter thread", "fails", "1 time"]]],
+
+"144":["ERROR ApplicationMaster : Failed to connect to driver at * , retrying ...",
+[["", "Failed to connect to", "driver at VAR1"]]],
+
+"145":["ERROR shuffle.OneForOneBlockFetcher : Failed while starting block fetches",
+[["Failed", "while", "starting block fetches"],
+["", "starting", "block fetches"]]],
+
+"146":["ERROR python.PythonRunner : Python worker exited unexpectedly ( crashed )",
+[["Python worker", "exited unexpectedly", ""]]],
+
+"147":["INFO executor.CoarseGrainedExecutorBackend : Driver commanded a shutdown",
+[["Driver", "commanded", "a shutdown"]]],
+
+"148":["INFO broadcast.TorrentBroadcast : Reading broadcast variable * took * ms",
+[["", "Reading", "broadcast variable VAR1 took VAR2 ms"]]],
+
+"149":["WARN * : Ignoring response for RPC * from * since it is not outstanding",
+[["", "Ignoring", "response for RPC VAR1 from VAR2"],
+["it", "is not", "outstanding"],
+["Ignoring response for RPC VAR1 from VAR2", "since", "it is not outstanding"]]],
+
+"150":["times on machines may be out of sync. Check system time and time zones.",
+[["times on machines", "may be", "out of sync"],
+["", "Check", "system time"],
+["", "Check", "time zones"]]],
+
+"151":["INFO * : Removed TaskSet * , whose tasks have all completed , from pool",
+[["", "Removed", "TaskSet VAR1"],
+["tasks", "have all completed", ""]]],
+
+"152":["ERROR spark.MapOutputTracker : Missing an output location for shuffle *",
+[["", "Missing", "an output location for shuffle VAR1"]]],
+
+"153":["WARN executor.Executor : Issue communicating with driver in heartbeater",
+[["Issue", "communicating with", "driver in heartbeater"]]],
+
+"154":["ERROR cluster.YarnClusterScheduler : Lost executor * on * : Slave lost",
+[["", "Lost", "executor VAR1"],
+["", "Lost on", "VAR2"],
+["Slave", "lost", ""]]],
+
+"155":["INFO broadcast.TorrentBroadcast : Started reading broadcast variable *",
+[["", "Started reading", "broadcast variable VAR1"]]],
+
+"156":["INFO * : Registered executor NettyRpcEndpointRef ( null ) * with ID *",
+[["", "Registered", "executor NettyRpcEndpointRef"],
+["ID", "is", "VAR3"]]],
+
+"157":["INFO executor.Executor : Executor killed task * in stage * ( TID * )",
+[["Executor", "killed", "task VAR1 in stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"158":["serializer.dump_stream ( func ( split_index , iterator ) , outfile )",
+[["", "", ""]]],
+
+"159":["INFO storage.BlockManager : Got told to re-register updating block *",
+[["", "Got told to re-register", "updating block VAR1"]]],
+
+"160":["INFO executor.CoarseGrainedExecutorBackend : Connecting to driver *",
+[["", "Connecting to", "driver VAR1"]]],
+
+"161":["INFO * : Block * stored as * in memory ( estimated size * , free * )",
+[["Block VAR2", "stored as", "VAR3"],
+["Block VAR2", "stored in", "memory"],
+["estimated size", "is", "VAR4"],
+["free", "is", "VAR5"]]],
+
+"162":["INFO storage.BlockManager : BlockManager re-registering with master",
+[["BlockManager", "re-registering with", "master"]]],
+
+"163":["INFO hdfs.DFSClient : Excluding datanode DatanodeInfoWithStorage *",
+[["", "Excluding", "datanode"],
+["DatanodeInfoWithStorage", "is", "VAR1"]]],
+
+"164":["INFO * : Registering block manager * with * RAM , BlockManagerId *",
+[["", "Registering", "block manager VAR2"],
+["RAM", "is", "VAR3"],
+["BlockManagerId", "is", "VAR4"]]],
+
+"165":["INFO output.FileOutputCommitter : Saved output of task * to hdfs *",
+[["", "Saved", "output of task VAR1"],
+["", "Saved to", "hdfs VAR2"]]], 
+
+"166":["ERROR YarnClusterScheduler : Lost executor * on * : *",
+[["", "Lost", "executor VAR1"],
+["", "Lost on", "VAR2"]]],
+
+"167":["INFO * : Asked to send map output locations for shuffle * to * : *",
+[["", "Asked to send", "map output locations"]]],
+
+"168":["ERROR executor.Executor : Exception in task * in stage * ( TID * )",
+[["TID", "is", "VAR3"]]],
+
+"169":["INFO YarnClusterSchedulerBackend : Requesting to kill executor *",
+[["", "Requesting to kill", "executor"]]],
+
+"170":["INFO * : Waiting for application to be successfully unregistered.",
+[["", "Waiting for", "application"],
+["", "Waiting to be", "successfully unregistered"]]],
+
+"171":["INFO Configuration.deprecation : * is deprecated. Instead , use *",
+[["VAR1", "is", "deprecated"],
+["", "use", "VAR2"]]],
+
+"172":["INFO executor.CoarseGrainedExecutorBackend : Got assigned task *",
+[["", "Got assigned", "task VAR1"]]],
+
+"173":["INFO * : Finished task * in stage * ( TID * ) in * ms on * ( * )",
+[["", "Finished", "task VAR1"],
+["", "Finished in", "stage VAR2"],
+["TID", "is", "VAR3"],
+["", "Finished in", "VAR4 ms"], 
+["", "Finished on", "VAR5"]]],
+
+"174":["File or DatePattern options are not set for appender [ FILE ] .",
+[["File options", "are not set for", "appender"],
+["DatePattern options", "are not set for", "appender"]]],
+
+"175":["java.io.FileNotFoundException : * ( No such file or directory )",
+[["", "", ""]]],
+
+"176":["INFO Remoting : Remoting started ; listening on addresses : * ]",
+[["Remoting", "started", ""],
+["", "listening on", "addresses"]]],
+
+"177":["INFO * : ApplicationMaster registered as NettyRpcEndpointRef *",
+[["ApplicationMaster", "registered as", "NettyRpcEndpointRef VAR2"]]],
+
+"178":["INFO spark.CacheManager : Partition * not found , computing it",
+[["Partition VAR1", "not found", ""],
+["", "computing", "it"]]],
+
+"179":["thread \"main\" java.io.IOException : Failed to connect to * : *",
+[["thread", "is", "\"main\""],
+["", "Failed to connect to", "VAR1"]]],
+
+"180":["INFO * : Trying to remove executor * from BlockManagerMaster.",
+[["", "Trying to remove", "executor VAR2"]]],
+
+"181":["INFO storage.BlockManager : Reporting * blocks to the master.",
+[["", "Reporting", "VAR1 blocks"],
+["", "Reporting to", "the master"]]],
+
+"182":["to send RPC * to * java.nio.channels.ClosedChannelException",
+[["", "to send", "RPC VAR1"],
+["", "to send to", "VAR2"]]],
+
+"183":["INFO * : Driver terminated or disconnected! Shutting down. *",
+[["Driver", "terminated", ""],
+["Driver", "disconnected", ""],
+["", "Shutting down", ""], 
+["Driver terminated", "or", "disconnected"]]],
+
+"184":["INFO * : Registered signal handlers for [ TERM , HUP , INT ]",
+[["", "Registered", "signal handlers"]]],
+
+"185":["INFO executor.Executor : Running task * in stage * ( TID * )",
+[["", "Running", "task VAR1 in stage VAR2"],
+["TID", "is", "VAR3"]]],
+
+"186":["INFO spark.MapOutputTrackerWorker : Got the output locations",
+[["", "Got", "the output locations"]]],
+
+"187":["INFO * : Parents of final stage : List ( ShuffleMapStage * )",
+[["", "", ""]]],
+
+"188":["thread \"main\" java.lang.reflect.UndeclaredThrowableException",
+[["thread", "is", "\"main\""]]],
+
+"189":["thread \"main\" java.io.IOException : Connection reset by peer",
+[["thread", "is", "\"main\""],
+["Connection", "reset by", "peer"]]],
+
+"190":["INFO * : Starting the user application in a separate Thread",
+[["", "Starting", "the user application"],
+["", "Starting in", "a separate Thread"]]],
+
+"191":["INFO * : stopped o.s.j.s.ServletContextHandler { * , null }",
+[["", "stopped", "o.s.j.s.ServletContextHandler"]]],
+
+"192":["INFO DAGScheduler : Host added was in lost list earlier : *",
+[["Host added", "was in", "lost list"]]],
+
+"193":["java.io.IOException : error = 2 , No such file or directory",
+[["error", "is", "2"]]],
+
+"194":["thread * INFO ExecutorRunnable : Preparing Local resources",
+[["thread", "is", "VAR1"],
+["", "Preparing", "Local resources"]]],
+
+"195":["INFO * : Removed * on * in memory ( size : * , free : * )",
+[["", "Removed", "VAR2"],
+["", "Removed on", "VAR3"],
+["", "Removed in", "memory"],
+["size", "is", "VAR4"],
+["free", "is", "VAR5"]]],
+
+"196":["Picked up _JAVA_OPTIONS : -Djava.io.tmpdir = /opt/hdfs/tmp",
+[["", "Picked up", "_JAVA_OPTIONS"]]],
+
+"197":["INFO hdfs.DFSClient : Exception in createBlockOutputStream",
+[["", "", ""]]],
+
+"198":["INFO * : Starting task * in stage * , partition * bytes )",
+[["", "Starting", "task VAR2"],
+["", "Starting in", "stage VAR3"],
+["", "partition", "VAR4 bytes"]]],
+
+"199":["INFO executor.Executor : Starting executor ID * on host *",
+[["", "Starting", "executor"],
+["ID", "is", "VAR1"],
+["host", "is", "VAR2"]]],
+
+"200":["INFO * : Size of output statuses for shuffle * is * bytes",
+[["Size of output statuses for shuffle VAR1", "is", "VAR2 bytes"]]],
+
+"201":["ERROR * : Task * in stage * failed 4 times ; aborting job",
+[["Task VAR2 in stage", "failed", "4 times"],
+["", "aborting", "job"]]],
+
+"202":["java.lang.IllegalStateException : RpcEnv already stopped.",
+[["RpcEnv", "already stopped", ""]]],
+
+"203":["INFO executor.Executor : Told to re-register on heartbeat",
+[["", "Told to re-register on", "heartbeat"]]],
+
+"204":["WARN ipc.Client : Interrupted while trying for connection",
+[["", "trying for", "connection"],
+["Interrupted", "while", "trying for connection"]]],
+
+"205":["INFO * : Container request ( host : Any , capability : *",
+[["Container request", "", ""],
+["host", "is", "Any"],
+["capability", "is", "VAR2"]]],
+
+"206":["INFO spark.CacheManager : Finished waiting for *",
+[["", "Finished waiting for", "VAR1"]]],
+
+"207":["binding is of type *",
+[["binding", "is", "of type VAR1"]]],
+
+"208":["java.io.FileNotFoundException : * ( Permission denied )",
+[["Permission", "is", "denied"]]],
+
+"209":["INFO * : Added * in memory on * ( size : * , free : * )",
+[["", "Added", "VAR2"],
+["", "Added in", "memory"],
+["", "Added on", "VAR3"],
+["size", "is", "VAR4"],
+["free", "is", "VAR5"]]],
+
+"210":["INFO * : Unregistering ApplicationMaster with SUCCEEDED",
+[["", "Unregistering", "ApplicationMaster"],
+["", "Unregistering with", "SUCCEEDED"]]],
+
+"211":["INFO BlockManagerInfo : * ( size : * , free : * )",
+[["BlockManagerInfo", "is", "VAR1"],
+["size", "is", "VAR4"],
+["free", "is", "VAR5"]]],
+
+"212":["Error sending message [ message = GetLocations ( * ) ]",
+[["Error", "sending", "message"],
+["message", "is", "GetLocations"]]],
+
+"213":["WARN * : Message RemoteProcessDisconnected * dropped.",
+[["Message RemoteProcessDisconnected VAR2", "dropped", ""]]],
+
+"214":["INFO * : Waiting for spark context initialization ...",
+[["", "Waiting for", "spark context initialization"]]],
+
+"215":["INFO * : Missing parents : List ( ShuffleMapStage * )",
+[["", "Missing", "parents"],
+["ShuffleMapStage", "is", "VAR2"]]],
+
+"216":["INFO * : Submitting * , which has no missing parents",
+[["", "Submitting", "VAR2"],
+["which", "has", "no missing parents"]]],
+
+"217":["to send RPC * to * java.io.IOException : Broken pipe",
+[["", "to send", "RPC VAR1"],
+["", "to send to", "VAR2"],
+["pipe", "is", "Broken"]]],
+
+"218":["INFO * : Final app status : SUCCEEDED , exitCode : 0",
+[["Final app status", "is", "SUCCEEDED"],
+["exitCode", "is", "0"]]],
+
+"219":["Caused by : java.nio.channels.ClosedChannelException",
+[["", "Caused by", "java.nio.channels.ClosedChannelException"]]],
+
+"220":["INFO * : Started * : *",
+[["", "Started", "VAR1"]]],
+
+"221":["vs = list ( itertools.islice ( iterator , batch ) )",
+[["vs", "is", "list"]]],
+
+"222":["INFO rdd.BinaryFileRDD : Input split : Paths : * *",
+[["Paths", "is", "VAR1"]]],
+
+"223":["INFO * : Waiting for Spark driver to be reachable.",
+[["", "Waiting for", "Spark driver"],
+["", "Waiting to be", "reachable"]]],
+
+"224":["log4j : ERROR setFile ( null , true ) call failed.",
+[["call", "failed", ""]]],
+
+"225":["WARN storage.BlockManager : Putting block * failed",
+[["Putting block VAR1", "failed", ""]]],
+
+"226":["INFO * : Successfully started service * on port *",
+[["", "Successfully started", "service VAR1"],
+["", "Successfully starter on", "port VAR2"]]],
+
+"227":["INFO * : Waiting for spark context initialization",
+[["", "Waiting for", "spark context initialization"]]],
+
+"228":["INFO * : Removed * successfully in removeExecutor",
+[["", "Removed", "VAR1"],
+["", "Removed in", "removeExecutor"]]],
+
+"229":["ERROR ContextCleaner : Error cleaning broadcast *",
+[["Error", "cleaning", "broadcast VAR1"]]],
+
+"230":["INFO rdd.BinaryFileRDD : Input split : Paths : *",
+[["Input", "split", ""],
+["Paths", "is", "VAR1"]]],
+
+"231":["INFO * : Removing block manager BlockManagerId *",
+[["", "Removing", "block manager"],
+["BlockManagerId", "is", "VAR2"]]],
+
+"232":["INFO rdd.BinaryFileRDD : Input split : Paths : *",
+[["Input", "split", ""],
+["Paths", "is", "VAR1"]]],
+
+"233":["java.net.ConnectException : Connection refused : *",
+[["Connection", "is", "refused"]]],
+
+"234":["INFO rdd.BinaryFileRDD : Input split : Paths : *",
+[["Input", "split", ""],
+["Paths", "is", "VAR1"]]],
+
+"235":["java.io.IOException : Failed to connect to * : *",
+[["", "Failed to connect to", "VAR1"]]],
+
+"236":["command = * ( infile )",
+[["command", "is", "VAR1"]]],
+
+"237":["INFO executor.Executor : Using REPL class URI *",
+[["", "Using", "REPL class URI VAR1"]]],
+
+"238":["ERROR * : User application exited with status *",
+[["User application", "exited", ""],
+["User application", "exited with", "status VAR2"]]],
+
+"239":["os.remove ( os.path.join ( path , str ( i ) ) )",
+[["", "", ""]]],
+
+"240":["Exception while starting container * on host *",
+[["Exception", "while", "starting container VAR1 on host VAR2"],
+["", "starting", "container VAR1"],
+["", "starting on", "host VAR2"],
+["container", "is", "VAR1"],
+["host", "is", "VAR2"]]],
+
+"241":["INFO DAGScheduler : Resubmitting failed stages",
+[["", "Resubmitting", "failed stages"]]],
+
+"242":["Stack trace : ExitCodeException exitCode = * :",
+[["exitCode", "is", "VAR1"]]],
+
+"243":["ERROR ApplicationMaster : Uncaught exception :",
+[["", "", ""]]],
+
+"244":["java.net.ConnectException : Connection refused",
+[["Connection", "is", "refused"]]],
+
+"245":["INFO * : Invoking stop ( ) from shutdown hook",
+[["", "Invoking", "stop"],
+["", "Invoking from", "shutdown hook"]]],
+
+"246":["INFO * : Stopped Spark web UI at http : * : *",
+[["", "Stopped", "Spark web UI"],
+["", "Stopped at", "http"]]],
+
+"247":["INFO * : Removing RDD * from persistence list",
+[["", "Removing", "RDD VAR1"],
+["", "Removing from", "persistence list"]]],
+
+"248":["INFO * : MemoryStore started with capacity *",
+[["MemoryStore", "started with", "capacity VAR2"]]],
+
+"249":["INFO * : Launching container * for on host *",
+[["", "Launching", "container VAR2"],
+["", "Launching on host", "VAR3"],
+["container", "is", "VAR2"],
+["host", "is", "VAR3"]]],
+
+"250":["INFO * : Got job * with * output partitions",
+[["", "Got", "job VAR1"],
+["", "Got with", "VAR2 output partitions"]]],
+
+"251":["java.net.SocketException : Socket is closed",
+[["Socket", "is", "closed"]]],
+
+"252":["INFO * : Submitting * missing tasks from *",
+[["", "Submitting", "VAR1 missing tasks"],
+["", "Submitting from", "VAR2"]]],
+
+"253":["INFO * : Registering the ApplicationMaster",
+[["", "Registering", "the ApplicationMaster"]]],
+
+"254":["INFO * : Parents of final stage : List ( )",
+[["", "", ""]]],
+
+"255":["INFO * : looking for newly runnable stages",
+[["", "looking for", "newly runnable stages"]]],
+
+"256":["INFO * : Asking each executor to shut down",
+[["", "Asking", "each executor to shut down"]]],
+
+"257":["INFO * : Successfully stopped SparkContext",
+[["", "Successfully stopped", "SparkContext"]]],
+
+"258":["INFO storage.BlockManager : Found block *",
+[["", "Found", "block VAR1"]]],
+
+"259":["INFO * : Total input paths to process : 1",
+[["Total input paths to process", "is", "1"]]],
+
+"260":["INFO * : Trying to register BlockManager",
+[["", "Trying to register", "BlockManager"]]],
+
+"261":["INFO * : Started SparkUI at http : * : *",
+[["", "Started", "SparkUI"],
+["", "Started at", "http"]]],
+
+"262":["INFO * : waiting : Set ( ResultStage * )",
+[["", "", ""]]],
+
+"263":["java.nio.channels.ClosedChannelException",
+[["", "", ""]]],
+
+"264":["* * : * : * INFO yarn.ExecutorRunnable :",
+[["", "", ""]]],
+
+"265":["WARN * : Exception in connection from *",
+[["", "", ""]]],
+
+"266":["INFO * : Adding task set * with * tasks",
+[["", "Adding", "task set VAR1"],
+["", "Adding with", "VAR2 tasks"]]],
+
+"267":["INFO * : Changing * acls to : yarn , *",
+[["", "Changing", "VAR1 acls"]]],
+
+"268":["ERROR * : RECEIVED SIGNAL 15 : SIGTERM",
+[["", "RECEIVED", "SIGNAL 15"]]],
+
+"269":["self._value = self.load ( self._path )",
+[["", "", ""]]],
+
+"270":["java.lang.NullPointerException : group",
+[["", "", ""]]],
+
+"271":["path contains multiple SLF4J bindings.",
+[["path", "contains", "multiple SLF4J bindings"]]],
+
+"272":["INFO * : Executor lost : * ( epoch * )",
+[["", "", ""]]],
+
+"273":["INFO cluster.YarnClusterScheduler : *",
+[["", "", ""]]],
+
+"274":["INFO * : Created local directory at *",
+[["", "Created", "local directory"],
+["", "Created at", "VAR2"]]],
+
+"275":["is expired. current time is * found *",
+[["current time", "is", "VAR1"],
+["current time", "found", "VAR2"]]],
+
+"276":["INFO * : Deleting staging directory *",
+[["", "Deleting", "staging directory VAR1"]]],
+
+"277":["takes exactly 6 arguments ( 5 given )",
+[["", "takes", "exactly 6 arguments"]]],
+
+"278":["INFO rdd.HadoopRDD : Input split : *",
+[["Input", "split", ""]]],
+
+"279":["INFO * : Final stage : ResultStage *",
+[["", "", ""]]],
+
+"280":["INFO * : Running Spark version 1.6.0",
+[["", "Running", "Spark version 1.6.0"]]],
+
+"281":["return os.stat ( filename ) .st_size",
+[["", "return", "os.stat"]]],
+
+"282":["INFO DAGScheduler : waiting : Set *",
+[["", "", ""]]],
+
+"283":["INFO * : Created broadcast * from *",
+[["", "Created", "bradcast VAR1"],
+["", "Created from", "VAR2"]]],
+
+"284":["INFO * : Received new token for : *",
+[["", "Received", "new token"]]],
+
+"285":["* * : * : * INFO ExecutorRunnable :",
+[["", "", ""]]],
+
+"286":["INFO * : Missing parents : List ( )",
+[["", "Missing", "parents"]]],
+
+"287":["not find * or it has been stopped.",
+[["", "not find", "VAR1"],
+["it", "has been stopped", ""]]],
+
+"288":["operand type ( s ) for * : * and *",
+[["", "", ""]]],
+
+"289":["INFO * : Driver now available : *",
+[["Driver", "now available", ""]]],
+
+"290":["INFO Remoting : Starting remoting",
+[["", "Starting", "remoting"]]],
+
+"291":["java.io.IOException : Broken pipe",
+[["pipe", "is", "Broken"]]],
+
+"292":["thread * INFO ExecutorRunnable :",
+[["thread", "is", "VAR1"]]],
+
+"293":["INFO * : Job * at * , took * s",
+[["Job VAR2 at VAR1", "took", "VAR2 s"]]],
+
+"294":["INFO * : Registered BlockManager",
+[["", "Registered", "BlockManager"]]],
+
+"295":["an output location for shuffle *",
+[["", "", ""]]],
+
+"296":["* ( No such file or directory )",
+[["", "", ""]]],
+
+"297":["INFO * : Starting job : * at *",
+[["", "Starting", "job"]]],
+
+"298":["INFO yarn.ExecutorRunnable : *",
+[["", "", ""]]],
+
+"299":["INFO * : Stage * was cancelled",
+[["Stage VAR1", "was", "cancelled"]]],
+
+"300":["INFO YarnClusterScheduler : *",
+[["", "", ""]]],
+
+"301":["INFO * : Shutdown hook called",
+[["Shutdown hook", "called", ""]]],
+
+"302":["INFO * : jetty-8.y.z-SNAPSHOT",
+[["", "", ""]]],
+
+"303":["INFO * : Deleting directory *",
+[["", "Deleting", "directory VAR2"]]],
+
+"304":["No such file or directory : *",
+[["", "", ""]]],
+
+"305":["INFO * : Disabling executor *",
+[["", "Disabling", "executor VAR2"]]],
+
+"306":["( No such file or directory )",
+[["", "", ""]]],
+
+"307":["binding in [ jar : file : * ]",
+[["", "", ""]]],
+
+"308":["INFO * : Slf4jLogger started",
+[["Slf4jLogger", "started", ""]]],
+
+"309":["INFO * : Server created on *",
+[["Server", "created on", "VAR2"]]],
+
+"310":["INFO * : MemoryStore cleared",
+[["MemoryStore", "cleared", ""]]],
+
+"311":["INFO * : Remoting shut down.",
+[["Remoting", "shut down", ""]]],
+
+"312":["length = read_int ( stream )",
+[["length", "is", "read_int"]]],
+
+"313":["INFO * : Cancelling stage *",
+[["", "Cancelling", "stage VAR2"]]],
+
+"314":["( most recent call last ) :",
+[["", "", ""]]],
+
+"315":["with a non-zero exit code *",
+[["", "", ""]]],
+
+"316":["array size exceeds VM limit",
+[["array size", "exceeds", "VM limit"]]],
+
+"317":["INFO * Registering RDD *",
+[["", "Registering", "RDD VAR2"]]],
+
+"318":["INFO * Opening proxy : *",
+[["", "Opening", "proxy"]]],
+
+"319":["java.lang.OutOfMemoryError",
+[["", "", ""]]],
+
+"320":["name 'self' is not defined",
+[["name 'self'", "is not", "defined"]]],
+
+"321":["INFO ExecutorRunnable : *",
+[["", "", ""]]],
+
+"322":["Killed by external signal",
+[["", "Killed by", "external signal"]]],
+
+"323":["INFO * Shutting down *",
+[["", "Shutting down", "VAR2"]]],
+
+"324":["to create local dir in *",
+[["", "to create", "a local dir"],
+["", "to create in", "VAR1"]]],
+
+"325":["INFO * at * in * s",
+[["", "", ""]]],
+
+"326":["INFO * Removing RDD *",
+[["", "Removing", "RDD VAR2"]]],
+
+"327":["'rb' , 1 << 20 ) as f :",
+[["", "", ""]]],
+
+"328":["RpcEnv already stopped.",
+[["RpcEnv", "already stopped", ""]]],
+
+"329":["* ; closing connection",
+[["", "closing", "connection"]]],
+
+"330":["INFO * : Registering *",
+[["", "Registering", "VAR2"]]],
+
+"331":["* for an explanation.",
+[["", "", ""]]],
+
+"332":["INFO DAGScheduler : *",
+[["", "", ""]]],
+
+"333":["to connect to driver!",
+[["", "to connect to", "driver"]]],
+
+"334":["INFO * : Set ( )",
+[["", "", ""]]],
+
+"335":["INFO * stopped!",
+[["", "stopped", ""]]],
+
+"336":["to connect to *",
+[["", "to connect to", "VAR1"]]],
+
+"337":["INFO * Cleaned *",
+[["", "Cleaned", "VAR2"]]],
+
+"338":["INFO * stopped",
+[["", "stopped", ""]]],
+
+"339":["from * closed",
+[["", "", ""]]],
+
+"340":[") [ duplicate * ]",
+[["", "", ""]]],
+
+"341":["Container id : *",
+[["", "", ""]]],
+
+"342":["v in iterator :",
+[["", "", ""]]],
+
+"343":["INFO *",
+[["", "", ""]]],
+
+"344":["Update row : *",
+[["", "Update", "row"]]],
+
+"345":["raise EOFError",
+[["", "raise", "EOFError"]]],
+
+"346":["reset by peer",
+[["", "reset by", "peer"]]],
+
+"347":["line * , in *",
+[["", "", ""]]],
+
+"348":["to delete : *",
+[["", "to delete", ""]]],
+
+"349":["Exit code : *",
+[["", "", ""]]],
+
+"350":["process ( )",
+[["", "", ""]]],
+
+"351":["* more",
+[["", "", ""]]],
+
+"352":["at *",
+[["", "", ""]]],
+
+"353":["EOFError",
+[["", "", ""]]]
+
+}

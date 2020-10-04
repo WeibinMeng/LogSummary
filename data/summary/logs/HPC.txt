@@ -1,0 +1,2498 @@
+#1#
+unix.hw state_change.unavailable 1084635601 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1084635601 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 41 )
+unix.hw state_change.unavailable 1084631135 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2818 )
+unix.hw state_change.unavailable 1084631135 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4432 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2958 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2608 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2888 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2748 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3028 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2538 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3168 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3238 )
+unix.hw state_change.unavailable 1084631133 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 41 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2538 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3238 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3168 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2958 )
+unix.hw state_change.unavailable 1084631087 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2888 )
+
+#summary:#
+Component State Change; 
+
+#2#
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4432 )
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2608 )
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3168 )
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2748 )
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2538 )
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3238 )
+unix.hw state_change.unavailable 1085748993 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 41 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2608 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3028 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2538 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3238 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2888 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2748 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3238 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3168 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4432 )
+unix.hw state_change.unavailable 1085737428 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2958 )
+
+#summary:#
+Component State Change; 
+
+#3#
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4358 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 5347 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4502 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 5519 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4642 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 5261 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4910 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4229 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4218 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 5175 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2678 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 5777 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3728 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3799 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4148 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4831 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3798 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4745 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3168 )
+unix.hw state_change.unavailable 1132154104 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3541 )
+
+#summary:#
+Component State Change; 
+
+#4#
+boot_cmd success 1077810607 1 Command has completed successfully
+boot_cmd success 1077810608 1 Command has completed successfully
+boot_cmd success 1077810661 1 Command has completed successfully
+boot_cmd success 1077810661 1 Command has completed successfully
+boot_cmd success 1077810662 1 Command has completed successfully
+boot_cmd success 1077810662 1 Command has completed successfully
+boot_cmd success 1077810688 1 Command has completed successfully
+boot_cmd success 1077810689 1 Command has completed successfully
+boot_cmd success 1077810689 1 Command has completed successfully
+boot_cmd success 1077810689 1 Command has completed successfully
+boot_cmd success 1077816955 1 Command has completed successfully
+boot_cmd success 1077816970 1 Command has completed successfully
+boot_cmd success 1077816985 1 Command has completed successfully
+boot_cmd success 1077816987 1 Command has completed successfully
+boot_cmd success 1077816987 1 Command has completed successfully
+boot_cmd success 1077816990 1 Command has completed successfully
+boot_cmd success 1077817021 1 Command has completed successfully
+boot_cmd success 1077817742 1 Command has completed successfully
+boot_cmd success 1077817742 1 Command has completed successfully
+boot_cmd success 1077817773 1 Command has completed successfully
+
+#summary:#
+boot_cmd; Command has completed;
+
+#5#
+boot_cmd success 1112417665 1 Command has completed successfully
+boot_cmd success 1112186501 1 Command has completed successfully
+boot_cmd success 1112170415 1 Command has completed successfully
+boot_cmd success 1112086518 1 Command has completed successfully
+boot_cmd success 1112052826 1 Command has completed successfully
+boot_cmd success 1112720274 1 Command has completed successfully
+boot_cmd success 1112718533 1 Command has completed successfully
+boot_cmd success 1112717477 1 Command has completed successfully
+shutdown_cmd success 1112673625 1 Command has completed successfully
+boot_cmd success 1112673625 1 Command has completed successfully
+boot_cmd success 1113189261 1 Command has completed successfully
+boot_cmd success 1114095826 1 Command has completed successfully
+boot_cmd success 1114095832 1 Command has completed successfully
+boot_cmd success 1114095833 1 Command has completed successfully
+boot_cmd success 1114095834 1 Command has completed successfully
+boot_cmd success 1114095835 1 Command has completed successfully
+boot_cmd success 1114095839 1 Command has completed successfully
+boot_cmd success 1114095879 1 Command has completed successfully
+boot_cmd success 1114095881 1 Command has completed successfully
+boot_cmd success 1114096624 1 Command has completed successfully
+
+#summary:#
+boot_cmd; shutdown_cmd success; Command has completed;
+
+#6#
+boot_cmd new 1077346152 1 Targeting domains : node-D0 and nodes : node-4
+shutdown_cmd new 1077356974 1 Targeting domains : node-D4 and nodes : node- [ 133\ 135\ 140\ 142-143 ]
+boot_cmd new 1077357108 1 Targeting domains : node-D4 and nodes : node- [ 133\ 135\ 140\ 142-143 ] child of command 2243
+shutdown_cmd new 1077357961 1 Targeting domains : node-D6 and nodes : node-219
+boot_cmd new 1077358054 1 Targeting domains : node-D6 and nodes : node-219 child of command 2245
+shutdown_cmd new 1077380259 1 Targeting domains : node-D1 and nodes : node- [ 35-60 ]
+boot_cmd new 1077380702 1 Targeting domains : node-D1 and nodes : node- [ 35-60 ] child of command 2247
+shutdown_cmd new 1077442857 1 Targeting domains : node-D1 and nodes : node- [ 61-63 ]
+boot_cmd new 1077442953 1 Targeting domains : node-D1 and nodes : node- [ 61-63 ] child of command 2249
+boot_cmd new 1077740073 1 Targeting domains : node-D6 and nodes : node-194
+boot_cmd new 1077739228 1 Targeting domains : node-D6 and nodes : node- [ 192-199 ] child of command 2293
+boot_cmd new 1077739228 1 Targeting domains : node-D6 and nodes : node- [ 200-223 ] child of command 2293
+boot_cmd new 1077739217 1 Targeting domains : node-D5 and nodes : node- [ 160-167 ] child of command 2292
+boot_cmd new 1077739217 1 Targeting domains : node-D5 and nodes : node- [ 168-191 ] child of command 2292
+boot_cmd new 1077739206 1 Targeting domains : node-D4 and nodes : node- [ 128-135 ] child of command 2291
+boot_cmd new 1077739206 1 Targeting domains : node-D4 and nodes : node- [ 136-159 ] child of command 2291
+boot_cmd new 1077739195 1 Targeting domains : node-D3 and nodes : node- [ 96-103 ] child of command 2290
+boot_cmd new 1077739195 1 Targeting domains : node-D3 and nodes : node- [ 104-127 ] child of command 2290
+boot_cmd new 1077739185 1 Targeting domains : node-D2 and nodes : node- [ 64-71 ] child of command 2289
+boot_cmd new 1077739185 1 Targeting domains : node-D2 and nodes : node- [ 72-95 ] child of command 2289
+
+#summary:#
+boot_cmd; shutdown_cmd Targeting domains;
+
+#7#
+boot_cmd new 1096386795 1 Targeting domains : node-D0 and nodes : node-9
+shutdown_cmd new 1096385821 1 Targeting domains : node-D0 and nodes : node-9
+boot_cmd new 1096384726 1 Targeting domains : node-D0 and nodes : node-6 child of command 3161
+shutdown_cmd new 1096384605 1 Targeting domains : node-D0 and nodes : node-6
+boot_cmd new 1096384191 1 Targeting domains : node-D0 and nodes : node-24 child of command 3159
+shutdown_cmd new 1096384063 1 Targeting domains : node-D0 and nodes : node-24
+boot_cmd new 1097247421 1 Targeting domains : node-D6 and nodes : node-218
+boot_cmd new 1097180646 1 Targeting domains : node-D0 and nodes : node-29
+boot_cmd new 1097180287 1 Targeting domains : node-D0 and nodes : node-29
+boot_cmd new 1097179722 1 Targeting domains : node-D0 and nodes : node-9
+boot_cmd new 1097179296 1 Targeting domains : node-D0 and nodes : node-9
+boot_cmd new 1097115816 1 Targeting domains : node-D5 and nodes : node-185
+boot_cmd new 1096995044 1 Targeting domains : node-D0 and nodes : node- [ 0-7 ] child of command 3168
+boot_cmd new 1096995044 1 Targeting domains : node-D0 and nodes : node- [ 8-31 ] child of command 3168
+boot_cmd new 1096995032 1 Targeting domains : node-D0 and nodes : node- [ 0-31 ]
+boot_cmd new 1098005656 1 Targeting domains : node-D6 and nodes : node-192
+boot_cmd new 1097876223 1 Targeting domains : node-D6 and nodes : node-193
+boot_cmd new 1097704859 1 Targeting domains : node-D6 and nodes : node-203
+boot_cmd new 1098389243 1 Targeting domains : node-D [ 0-7 ] and nodes : node- [ 0-255 ]
+boot_cmd new 1098389247 1 Targeting domains : node-D0 and nodes : node- [ 0-31 ] child of command 3181
+
+#summary:#
+boot_cmd; shutdown_cmd Targeting domains;
+
+#8#
+boot_cmd new 1142527499 1 Targeting domains : node-D7 and nodes : node- [ 232-255 ] child of command 4167
+boot_cmd new 1142527499 1 Targeting domains : node-D7 and nodes : node- [ 224-231 ] child of command 4167
+del_member_cmd new 1142536591 1 Targeting domains : node-D4 and nodes : node-129
+install_cmd new 1142536779 1 Targeting domains : node-D4 and nodes : node-129
+shutdown_cmd new 1142544749 1 Targeting domains : node-D4 and nodes : node-129
+boot_cmd new 1142545348 1 Targeting domains : node-D4 and nodes : node-129 child of command 4186
+boot_cmd new 1142708653 1 Targeting domains : node-D5 and nodes : node-165
+boot_cmd new 1143127196 1 Targeting domains : node-D6 and nodes : node-221
+boot_cmd new 1143081415 1 Targeting domains : node-D6 and nodes : node-202
+boot_cmd new 1142942505 1 Targeting domains : node-D0 and nodes : node-31
+boot_cmd new 1142921420 1 Targeting domains : node-D7 and nodes : node-248
+boot_cmd new 1142874478 1 Targeting domains : node-D7 and nodes : node-225
+boot_cmd new 1143738995 1 Targeting domains : node-D4 and nodes : node- [ 150-152 ]
+boot_cmd new 1143690617 1 Targeting domains : node-D3 and nodes : node-108
+boot_cmd new 1143674013 1 Targeting domains : node-D4 and nodes : node-134
+boot_cmd new 1144061387 1 Targeting domains : node-D0 and nodes : node-14
+boot_cmd new 1145175220 1 Targeting domains : node-D1 and nodes : node-35
+boot_cmd new 1144876881 1 Targeting domains : node-D6 and nodes : node-198
+boot_cmd new 1144770973 1 Targeting domains : node-D2 and nodes : node-80
+boot_cmd new 1145551541 1 Targeting domains : node-D [ 0-7 ] and nodes : node- [ 0-255 ]
+
+#summary:#
+boot_cmd; install_cmd; shutdown_cmd; Targeting domains; del_member_cmd;
+
+#9#
+switch_module temphigh 1111832460 1 Temperature ( 41C ) exceeds warning threshold
+switch_module temphigh 1111832460 1 Temperature ( 43C ) exceeds warning threshold
+switch_module temphigh 1111832460 1 Temperature ( 42C ) exceeds warning threshold
+switch_module temphigh 1111832460 1 Temperature ( 43C ) exceeds warning threshold
+switch_module temphigh 1111832460 1 Temperature ( 42C ) exceeds warning threshold
+switch_module temphigh 1111832460 1 Temperature ( 42C ) exceeds warning threshold
+switch_module temphigh 1111832460 1 Temperature ( 41C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 43C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 41C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 43C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 42C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 43C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 42C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 42C ) exceeds warning threshold
+switch_module temphigh 1111832430 1 Temperature ( 41C ) exceeds warning threshold
+switch_module temphigh 1111832400 1 Temperature ( 43C ) exceeds warning threshold
+switch_module temphigh 1111832400 1 Temperature ( 41C ) exceeds warning threshold
+switch_module temphigh 1111832400 1 Temperature ( 43C ) exceeds warning threshold
+switch_module temphigh 1111832400 1 Temperature ( 42C ) exceeds warning threshold
+switch_module temphigh 1111832400 1 Temperature ( 43C ) exceeds warning threshold
+
+#summary:#
+Temperature exceeds warning threshold;
+
+#10#
+unix.hw net.niff.down 1084271027 1 NIFF : node node-85 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271027 1 NIFF : node node-98 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-112 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-89 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-121 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-50 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-93 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-65 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-58 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-110 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-41 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-67 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-73 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-100 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-123 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-91 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-84 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271025 1 NIFF : node node-54 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271025 1 NIFF : node node-114 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271025 1 NIFF : node node-118 detected a failed network connection on network 5.5.224.0 via interface alt0
+#summary:#
+node has detected a failed network connection;
+
+#11#
+unix.hw net.niff.down 1144239525 1 NIFF : node node-91 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239524 1 NIFF : node node-80 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239524 1 NIFF : node node-67 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239524 1 NIFF : node node-89 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239524 1 NIFF : node node-86 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239524 1 NIFF : node node-83 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239524 1 NIFF : node node-71 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239523 1 NIFF : node node-82 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239523 1 NIFF : node node-73 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239523 1 NIFF : node node-74 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239522 1 NIFF : node node-79 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239522 1 NIFF : node node-72 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239522 1 NIFF : node node-70 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239521 1 NIFF : node node-66 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239521 1 NIFF : node node-75 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239521 1 NIFF : node node-85 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239521 1 NIFF : node node-76 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239521 1 NIFF : node node-81 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239521 1 NIFF : node node-88 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1144239521 1 NIFF : node node-87 detected a failed network connection on network 5.5.224.0 via interface alt0
+
+#summary:#
+node has detected a failed network connection;
+
+#12#
+switch_module fan 1121579712 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579707 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579701 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579676 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579662 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579653 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579631 1 Fan speeds ( 3552 3534 3375 4500 3515 3479 )
+switch_module fan 1121579609 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579608 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579607 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579600 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579598 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579596 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579594 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579587 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579585 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579583 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579576 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579570 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579564 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+
+#summary:#
+Fan speeds;
+
+#13#
+switch_module fan 1121379084 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121379040 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377847 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377837 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377634 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377626 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377625 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377619 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377616 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377614 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377577 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377570 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377562 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377555 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377548 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377545 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377543 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377540 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121377536 1 Fan speeds ( 3552 3534 3375 4141 3515 3479 )
+switch_module fan 1121377525 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+
+#summary:#
+Fan speeds;
+
+#14#
+switch_module fan 1125827709 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827705 1 Fan speeds ( 3552 3534 3375 4383 3515 3479 )
+switch_module fan 1125827703 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827681 1 Fan speeds ( 3552 3534 3375 4115 3515 3479 )
+switch_module fan 1125827677 1 Fan speeds ( 3552 3534 3375 4500 3515 3479 )
+switch_module fan 1125827673 1 Fan speeds ( 3552 3534 3375 4041 3515 3479 )
+switch_module fan 1125827648 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827629 1 Fan speeds ( 3552 3534 3375 6308 3515 3479 )
+switch_module fan 1125827519 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827494 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827461 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827458 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827446 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827436 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827428 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827405 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827403 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827401 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827395 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125827393 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+
+#summary:#
+Fan speeds;
+
+#15#
+switch_module fan 1125706126 1 Fan speeds ( 3552 3534 3375 4411 3515 3479 )
+switch_module fan 1125706107 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706104 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706102 1 Fan speeds ( 3552 3534 3375 4440 3515 3479 )
+switch_module fan 1125706092 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706090 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706087 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706080 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706074 1 Fan speeds ( 3552 3534 3375 4560 3515 3479 )
+switch_module fan 1125706064 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706062 1 Fan speeds ( 3552 3534 3375 4141 3515 3479 )
+switch_module fan 1125706044 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706042 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125706026 1 Fan speeds ( 3552 3534 3375 6958 3515 3479 )
+switch_module fan 1125706024 1 Fan speeds ( 3552 3534 3375 5818 3515 3479 )
+switch_module fan 1125705978 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1125705954 1 Fan speeds ( 3552 3534 3375 5314 3515 3479 )
+switch_module fan 1125705946 1 Fan speeds ( 3552 3534 3375 6136 3515 3479 )
+switch_module fan 1125705946 1 Fan speeds ( 3552 3534 3375 7417 3515 3479 )
+switch_module fan 1125705935 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+
+#summary:#
+Fan speeds;
+
+#16#
+switch_module fan 1143980991 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980983 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980919 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980897 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980889 1 Fan speeds ( 3534 3534 3375 4115 3497 3479 )
+switch_module fan 1143980833 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980820 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980806 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980799 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980782 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980764 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980759 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980755 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980752 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980741 1 Fan speeds ( 3534 3534 3375 4623 3497 3479 )
+switch_module fan 1143980729 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980717 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980712 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980710 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+switch_module fan 1143980708 1 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+
+#summary:#
+Fan speeds;
+
+#17#
+switch_module bcast-error 1142694038 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142694534 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142694628 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142694738 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142695363 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142695713 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142697276 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142697864 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142698342 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142698416 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142699647 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142700146 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142700441 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142700460 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142702445 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142702498 1 Link error on broadcast tree Interconnect-1T00 : 00 : 3 : 4
+switch_module bcast-error 1142702813 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142703109 1 Link error on broadcast tree Interconnect-1T00 : 00 : 3 : 6
+switch_module bcast-error 1142703236 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+switch_module bcast-error 1142703880 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0
+
+#summary:#
+Link error on broadcast tree;
+
+#18#
+clusterfilesystem clusterfilesystem.not_served 1074123881 1 ClusterFileSystem : ServerFileSystem domain root7_domain is no longer served by node node-230
+clusterfilesystem clusterfilesystem.not_served 1074123885 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-32
+clusterfilesystem clusterfilesystem.not_served 1074123909 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-128
+clusterfilesystem clusterfilesystem.not_served 1074123912 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1074123963 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-96
+clusterfilesystem clusterfilesystem.not_served 1074123982 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-105
+clusterfilesystem clusterfilesystem.not_served 1074123988 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-137
+clusterfilesystem clusterfilesystem.not_served 1074124008 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-192
+clusterfilesystem clusterfilesystem.not_served 1074124043 1 ClusterFileSystem : ServerFileSystem domain root3_domain is no longer served by node node-194
+clusterfilesystem clusterfilesystem.not_served 1074124048 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-64
+clusterfilesystem clusterfilesystem.not_served 1074124050 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-0
+clusterfilesystem clusterfilesystem.not_served 1074124084 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-32
+clusterfilesystem clusterfilesystem.not_served 1074124109 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1074124124 1 ClusterFileSystem : ServerFileSystem domain root8_domain is no longer served by node node-231
+clusterfilesystem clusterfilesystem.not_served 1074124125 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-128
+clusterfilesystem clusterfilesystem.not_served 1074124134 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-73
+clusterfilesystem clusterfilesystem.not_served 1074124165 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-138
+clusterfilesystem clusterfilesystem.not_served 1074124173 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-106
+clusterfilesystem clusterfilesystem.not_served 1074124183 1 ClusterFileSystem : ServerFileSystem domain root26_domain is no longer served by node node-96
+clusterfilesystem clusterfilesystem.not_served 1074124218 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-192
+
+#summary:#
+ServerFileSystem domain is no longer served;
+
+#19#
+clusterfilesystem clusterfilesystem.not_served 1074257535 1 ClusterFileSystem : ServerFileSystem domain root19_local is no longer served by node node-18
+clusterfilesystem clusterfilesystem.not_served 1074257536 1 ClusterFileSystem : ServerFileSystem domain root17_local is no longer served by node node-16
+clusterfilesystem clusterfilesystem.not_served 1074257536 1 ClusterFileSystem : ServerFileSystem domain root22_local is no longer served by node node-21
+clusterfilesystem clusterfilesystem.not_served 1074257536 1 ClusterFileSystem : ServerFileSystem domain root21_tmp is no longer served by node node-20
+clusterfilesystem clusterfilesystem.not_served 1074257536 1 ClusterFileSystem : ServerFileSystem domain root18_tmp is no longer served by node node-17
+clusterfilesystem clusterfilesystem.not_served 1074257536 1 ClusterFileSystem : ServerFileSystem domain root23_tmp is no longer served by node node-22
+clusterfilesystem clusterfilesystem.not_served 1074257536 1 ClusterFileSystem : ServerFileSystem domain root24_tmp is no longer served by node node-23
+clusterfilesystem clusterfilesystem.not_served 1074257537 1 ClusterFileSystem : ServerFileSystem domain root20_tmp is no longer served by node node-19
+clusterfilesystem clusterfilesystem.not_served 1074257537 1 ClusterFileSystem : ServerFileSystem domain root19_tmp is no longer served by node node-18
+clusterfilesystem clusterfilesystem.not_served 1074257537 1 ClusterFileSystem : ServerFileSystem domain root17_tmp is no longer served by node node-16
+clusterfilesystem clusterfilesystem.not_served 1074257537 1 ClusterFileSystem : ServerFileSystem domain root22_tmp is no longer served by node node-21
+clusterfilesystem clusterfilesystem.not_served 1074257537 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-20
+clusterfilesystem clusterfilesystem.not_served 1074257540 1 ClusterFileSystem : ServerFileSystem domain root18_domain is no longer served by node node-17
+clusterfilesystem clusterfilesystem.not_served 1074257541 1 ClusterFileSystem : ServerFileSystem domain root23_domain is no longer served by node node-22
+clusterfilesystem clusterfilesystem.not_served 1074257548 1 ClusterFileSystem : ServerFileSystem domain root20_domain is no longer served by node node-19
+clusterfilesystem clusterfilesystem.not_served 1074257553 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-23
+clusterfilesystem clusterfilesystem.not_served 1074257554 1 ClusterFileSystem : ServerFileSystem domain root17_domain is no longer served by node node-16
+clusterfilesystem clusterfilesystem.not_served 1074257566 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-21
+clusterfilesystem clusterfilesystem.not_served 1074257574 1 ClusterFileSystem : ServerFileSystem domain root19_domain is no longer served by node node-18
+clusterfilesystem clusterfilesystem.not_served 1074257615 1 ClusterFileSystem : ServerFileSystem domain root14_local is no longer served by node node-13
+
+#summary:#
+ServerFileSystem domain is no longer served;
+
+#20#
+clusterfilesystem clusterfilesystem.not_served 1077360818 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1077360906 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-64
+clusterfilesystem clusterfilesystem.not_served 1077361007 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-160
+clusterfilesystem clusterfilesystem.not_served 1077361305 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-64
+clusterfilesystem clusterfilesystem.not_served 1077361477 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-160
+clusterfilesystem clusterfilesystem.not_served 1077361946 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-192
+clusterfilesystem clusterfilesystem.not_served 1077362417 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-192
+clusterfilesystem clusterfilesystem.not_served 1077363686 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-96
+clusterfilesystem clusterfilesystem.not_served 1077365705 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-96
+clusterfilesystem clusterfilesystem.not_served 1077712617 1 ClusterFileSystem : ServerFileSystem domain root26_domain is no longer served by node node-217
+clusterfilesystem clusterfilesystem.not_served 1077712617 1 ClusterFileSystem : ServerFileSystem domain root26_tmp is no longer served by node node-217
+clusterfilesystem clusterfilesystem.not_served 1077712616 1 ClusterFileSystem : ServerFileSystem domain root26_local is no longer served by node node-217
+clusterfilesystem clusterfilesystem.not_served 1077644199 1 ClusterFileSystem : ServerFileSystem domain root13_domain is no longer served by node node-12
+clusterfilesystem clusterfilesystem.not_served 1077644177 1 ClusterFileSystem : ServerFileSystem domain root13_tmp is no longer served by node node-12
+clusterfilesystem clusterfilesystem.not_served 1077644156 1 ClusterFileSystem : ServerFileSystem domain root13_local is no longer served by node node-12
+clusterfilesystem clusterfilesystem.not_served 1077630966 1 ClusterFileSystem : ServerFileSystem domain root2_domain is no longer served by node node-161
+clusterfilesystem clusterfilesystem.not_served 1077630966 1 ClusterFileSystem : ServerFileSystem domain root2_tmp is no longer served by node node-161
+clusterfilesystem clusterfilesystem.not_served 1077630966 1 ClusterFileSystem : ServerFileSystem domain root2_local is no longer served by node node-161
+clusterfilesystem clusterfilesystem.not_served 1077630966 1 ClusterFileSystem : ServerFileSystem domain root2_domain is no longer served by node node-65
+clusterfilesystem clusterfilesystem.not_served 1077630966 1 ClusterFileSystem : ServerFileSystem domain root2_tmp is no longer served by node node-65
+
+#summary:#
+ServerFileSystem domain is no longer served;
+
+#21#
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root15_local is no longer served by node node-174
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root12_tmp is no longer served by node node-107
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root13_local is no longer served by node node-172
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root13_tmp is no longer served by node node-140
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root14_local is no longer served by node node-173
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root12_domain is no longer served by node node-139
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-106
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root16_tmp is no longer served by node node-175
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root12_local is no longer served by node node-171
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root6_tmp is no longer served by node node-37
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root11_tmp is no longer served by node node-170
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root8_tmp is no longer served by node node-39
+clusterfilesystem clusterfilesystem.not_served 1077875541 1 ClusterFileSystem : ServerFileSystem domain root9_domain is no longer served by node node-168
+clusterfilesystem clusterfilesystem.not_served 1077875542 1 ClusterFileSystem : ServerFileSystem domain root4_tmp is no longer served by node node-35
+clusterfilesystem clusterfilesystem.not_served 1077875542 1 ClusterFileSystem : ServerFileSystem domain root7_tmp is no longer served by node node-38
+clusterfilesystem clusterfilesystem.not_served 1077875542 1 ClusterFileSystem : ServerFileSystem domain root3_tmp is no longer served by node node-34
+clusterfilesystem clusterfilesystem.not_served 1077875542 1 ClusterFileSystem : ServerFileSystem domain root6_domain is no longer served by node node-37
+clusterfilesystem clusterfilesystem.not_served 1077875542 1 ClusterFileSystem : ServerFileSystem domain root10_tmp is no longer served by node node-169
+clusterfilesystem clusterfilesystem.not_served 1077875542 1 ClusterFileSystem : ServerFileSystem domain root15_tmp is no longer served by node node-174
+clusterfilesystem clusterfilesystem.not_served 1077875543 1 ClusterFileSystem : ServerFileSystem domain root8_domain is no longer served by node node-39
+
+#summary:#
+ServerFileSystem domain is no longer served;
+
+#22#
+clusterfilesystem clusterfilesystem.not_served 1079069189 1 ClusterFileSystem : ServerFileSystem domain root12_tmp is no longer served by node node-107
+clusterfilesystem clusterfilesystem.not_served 1079069189 1 ClusterFileSystem : ServerFileSystem domain root10_tmp is no longer served by node node-105
+clusterfilesystem clusterfilesystem.not_served 1079069189 1 ClusterFileSystem : ServerFileSystem domain root15_local is no longer served by node node-110
+clusterfilesystem clusterfilesystem.not_served 1079069189 1 ClusterFileSystem : ServerFileSystem domain root12_domain is no longer served by node node-139
+clusterfilesystem clusterfilesystem.not_served 1079069189 1 ClusterFileSystem : ServerFileSystem domain root16_local is no longer served by node node-111
+clusterfilesystem clusterfilesystem.not_served 1079069189 1 ClusterFileSystem : ServerFileSystem domain root9_tmp is no longer served by node node-104
+clusterfilesystem clusterfilesystem.not_served 1079069188 1 ClusterFileSystem : ServerFileSystem domain root14_local is no longer served by node node-109
+clusterfilesystem clusterfilesystem.not_served 1079069188 1 ClusterFileSystem : ServerFileSystem domain root11_tmp is no longer served by node node-106
+clusterfilesystem clusterfilesystem.not_served 1079069188 1 ClusterFileSystem : ServerFileSystem domain root13_local is no longer served by node node-108
+clusterfilesystem clusterfilesystem.not_served 1079069188 1 ClusterFileSystem : ServerFileSystem domain root12_local is no longer served by node node-107
+clusterfilesystem clusterfilesystem.not_served 1079069188 1 ClusterFileSystem : ServerFileSystem domain root10_local is no longer served by node node-105
+clusterfilesystem clusterfilesystem.not_served 1079069188 1 ClusterFileSystem : ServerFileSystem domain root9_local is no longer served by node node-104
+clusterfilesystem clusterfilesystem.not_served 1079069188 1 ClusterFileSystem : ServerFileSystem domain root11_local is no longer served by node node-106
+clusterfilesystem clusterfilesystem.not_served 1079069187 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-138
+clusterfilesystem clusterfilesystem.not_served 1079069187 1 ClusterFileSystem : ServerFileSystem domain root10_tmp is no longer served by node node-137
+clusterfilesystem clusterfilesystem.not_served 1079069187 1 ClusterFileSystem : ServerFileSystem domain root13_tmp is no longer served by node node-140
+clusterfilesystem clusterfilesystem.not_served 1079069187 1 ClusterFileSystem : ServerFileSystem domain root14_tmp is no longer served by node node-141
+clusterfilesystem clusterfilesystem.not_served 1079069187 1 ClusterFileSystem : ServerFileSystem domain root9_domain is no longer served by node node-8
+clusterfilesystem clusterfilesystem.not_served 1079069187 1 ClusterFileSystem : ServerFileSystem domain root9_tmp is no longer served by node node-136
+clusterfilesystem clusterfilesystem.not_served 1079069187 1 ClusterFileSystem : ServerFileSystem domain root11_tmp is no longer served by node node-10
+
+#summary:#
+ServerFileSystem domain is no longer served;
+
+#23#
+clusterfilesystem clusterfilesystem.not_served 1082035893 1 ClusterFileSystem : ServerFileSystem domain root20_domain is no longer served by node node-211
+clusterfilesystem clusterfilesystem.not_served 1082035892 1 ClusterFileSystem : ServerFileSystem domain root20_domain is no longer served by node node-147
+clusterfilesystem clusterfilesystem.not_served 1082035891 1 ClusterFileSystem : ServerFileSystem domain root18_domain is no longer served by node node-145
+clusterfilesystem clusterfilesystem.not_served 1082035889 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-151
+clusterfilesystem clusterfilesystem.not_served 1082035889 1 ClusterFileSystem : ServerFileSystem domain root17_tmp is no longer served by node node-144
+clusterfilesystem clusterfilesystem.not_served 1082035889 1 ClusterFileSystem : ServerFileSystem domain root22_tmp is no longer served by node node-149
+clusterfilesystem clusterfilesystem.not_served 1082035888 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-117
+clusterfilesystem clusterfilesystem.not_served 1082035888 1 ClusterFileSystem : ServerFileSystem domain root21_tmp is no longer served by node node-148
+clusterfilesystem clusterfilesystem.not_served 1082035888 1 ClusterFileSystem : ServerFileSystem domain root23_tmp is no longer served by node node-150
+clusterfilesystem clusterfilesystem.not_served 1082035888 1 ClusterFileSystem : ServerFileSystem domain root19_tmp is no longer served by node node-146
+clusterfilesystem clusterfilesystem.not_served 1082035888 1 ClusterFileSystem : ServerFileSystem domain root20_tmp is no longer served by node node-147
+clusterfilesystem clusterfilesystem.not_served 1082035888 1 ClusterFileSystem : ServerFileSystem domain root18_tmp is no longer served by node node-145
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root24_tmp is no longer served by node node-151
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-116
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root18_domain is no longer served by node node-209
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root24_tmp is no longer served by node node-119
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root17_local is no longer served by node node-144
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root20_tmp is no longer served by node node-115
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root19_tmp is no longer served by node node-114
+clusterfilesystem clusterfilesystem.not_served 1082035887 1 ClusterFileSystem : ServerFileSystem domain root22_local is no longer served by node node-149
+
+#summary:#
+ServerFileSystem domain is no longer served;
+
+#24#
+clusterfilesystem clusterfilesystem.not_served 1108809211 1 ClusterFileSystem : ServerFileSystem domain cluster_root_backup is no longer served by node node-128
+clusterfilesystem clusterfilesystem.not_served 1108809219 1 ClusterFileSystem : ServerFileSystem domain cluster_root_backup is no longer served by node node-0
+clusterfilesystem clusterfilesystem.not_served 1108809419 1 ClusterFileSystem : ServerFileSystem domain cluster_root_backup is no longer served by node node-160
+clusterfilesystem clusterfilesystem.not_served 1108809556 1 ClusterFileSystem : ServerFileSystem domain cluster_root_backup is no longer served by node node-96
+clusterfilesystem clusterfilesystem.not_served 1108809614 1 ClusterFileSystem : ServerFileSystem domain cluster_root_backup is no longer served by node node-32
+clusterfilesystem clusterfilesystem.not_served 1108810062 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-0
+clusterfilesystem clusterfilesystem.not_served 1108810075 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1108810475 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1108810560 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-32
+clusterfilesystem clusterfilesystem.not_served 1108810890 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-32
+clusterfilesystem clusterfilesystem.not_served 1108811407 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-0
+clusterfilesystem clusterfilesystem.not_served 1108814198 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-128
+clusterfilesystem clusterfilesystem.not_served 1108814281 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-192
+clusterfilesystem clusterfilesystem.not_served 1108814440 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-160
+clusterfilesystem clusterfilesystem.not_served 1108814770 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-160
+clusterfilesystem clusterfilesystem.not_served 1108815882 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-128
+clusterfilesystem clusterfilesystem.not_served 1108816201 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-192
+clusterfilesystem clusterfilesystem.not_served 1109421508 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1109419708 1 ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1109416110 1 ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-0
+
+#summary:#
+ServerFileSystem domain is no longer served;
+
+#25#
+partition status 1061531645 -1 running
+partition status 1061517672 -1 running
+partition status 1061516045 -1 running
+partition status 1061515896 -1 running
+partition status 1061510947 -1 running
+partition status 1061509476 -1 running
+partition status 1061491805 -1 running
+partition status 1061487125 -1 running
+partition status 1061482116 -1 running
+partition status 1061481125 -1 running
+partition status 1061475011 -1 running
+partition status 1061467798 -1 running
+partition status 1061466599 -1 running
+partition status 1061464571 -1 running
+partition status 1061464175 -1 running
+partition status 1061463966 -1 running
+partition status 1061463695 -1 running
+partition status 1061462016 -1 running
+partition status 1061460785 -1 running
+partition status 1061456825 -1 running
+
+#summary:#
+partition status running;
+
+#26#
+node status 1072638510 1 not responding
+node status 1072638510 1 not responding
+node status 1072638510 1 not responding
+partition status 1072638240 1 blocked
+partition status 1072634526 1 running
+partition status 1072634520 1 blocked
+partition status 1072633027 1 running
+partition status 1072633020 1 blocked
+partition status 1072626364 1 running
+partition status 1072626360 1 blocked
+partition status 1072625765 1 running
+node status 1072625730 1 configured out
+partition status 1072625730 1 blocked
+node status 1072625710 1 not responding
+partition status 1072621865 1 running
+partition status 1072621860 1 blocked
+partition status 1072615115 1 running
+partition status 1072615110 1 blocked
+partition status 1061583461 -1 running
+partition status 1061577605 -1 running
+
+#summary:#
+node status not responding; partition status blocked; partition status running;
+
+#27#
+partition status 1061560535 -1 running
+partition status 1061559367 -1 running
+partition status 1061555585 -1 running
+partition status 1061554625 -1 running
+partition status 1061554535 -1 running
+partition status 1061552735 -1 running
+partition status 1061552195 -1 running
+partition status 1061547875 -1 running
+partition status 1061545655 -1 running
+partition status 1061545567 -1 running
+partition status 1061544785 -1 running
+partition status 1061541529 -1 running
+partition status 1061532275 -1 running
+partition status 1061531645 -1 running
+partition status 1061517672 -1 running
+partition status 1061516045 -1 running
+partition status 1061515896 -1 running
+partition status 1061510947 -1 running
+partition status 1061509476 -1 running
+partition status 1061491805 -1 running
+
+#summary:#
+partition status running;
+
+#28#
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+node status 1074098640 1 configured out
+
+#summary:#
+node status configured out;
+
+#29#
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+
+#summary:#
+node status not responding; node status configured out;
+
+#30#
+node status 1074289609 1 not responding
+node status 1074289609 1 not responding
+node status 1074289609 1 not responding
+node status 1074289610 1 not responding
+node status 1074289610 1 not responding
+node status 1074289612 1 not responding
+node status 1074289613 1 not responding
+node status 1074289613 1 not responding
+node status 1074289619 1 not responding
+node status 1074289619 1 not responding
+node status 1074289620 1 not responding
+node status 1074289620 1 not responding
+node status 1074289621 1 not responding
+node status 1074289635 1 not responding
+node status 1074289646 1 configured out
+node status 1074289646 1 configured out
+node status 1074289646 1 configured out
+node status 1074289646 1 configured out
+node status 1074289646 1 configured out
+node status 1074289646 1 configured out
+
+#summary:#
+node status not responding; node status configured out;
+
+#31#
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+node status 1074935624 1 running
+partition status 1074935265 1 running
+node status 1074935254 1 running
+partition status 1074935142 1 running
+node status 1074935129 1 running
+partition status 1074934638 1 running
+
+#summary:#
+node status running; partition status running;
+
+#32#
+node status 1074288960 1 configured out
+node status 1074288960 1 configured out
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288991 1 not responding
+node status 1074288992 1 not responding
+node status 1074288992 1 not responding
+node status 1074288992 1 not responding
+
+#summary:#
+node status configured out; node status not responding;
+
+#33#
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931225 0 not responding
+node status 1075931221 0 configured out
+node status 1075931221 0 configured out
+node status 1075931221 0 configured out
+node status 1075931221 0 configured out
+node status 1075931221 0 configured out
+node status 1075931221 0 configured out
+node status 1075931221 0 configured out
+node status 1075931221 0 configured out
+
+#summary:#
+node status configured out; node status not responding;
+
+#34#
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+node status 1076533037 1 configured out
+
+#summary:#
+node status configured out;
+
+#35#
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+node status 1076619203 1 running
+
+#summary:#
+node status running;
+
+#36#
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+node status 1076878960 1 running
+
+#summary:#
+node status running;
+
+#37#
+node status 1077381871 1 running
+node status 1077381871 1 running
+partition status 1077381992 1 running
+partition status 1077442530 1 blocked
+node status 1077442530 1 configured out
+node status 1077442530 1 configured out
+node status 1077442530 1 configured out
+partition status 1077442538 1 running
+domain status 1077443010 1 inconsistent nodesets node-63 0x1fffffffe <ok> node-62 0x1fffffffe <ok> node-61 0x1fffffffe <ok> node-60 0x3ffffffe <ok> node-32 0x3ffffffe <ok> node-33 0x3ffffffe <ok> node-34 0x3ffffffe <ok>
+node status 1077443501 1 running
+node status 1077443501 1 running
+node status 1077443501 1 running
+partition status 1077443543 1 running
+partition status 1077803258 1 running
+partition status 1077803251 1 blocked
+partition status 1077744762 1 running
+partition status 1077744755 1 blocked
+partition status 1077744752 1 starting
+node status 1077744705 1 running
+node status 1077744705 1 running
+
+#summary:#
+node status running; partition status running; partition status blocked; node status configured out; inconsistent nodesets;
+
+#38#
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+node status 1077649605 1 running
+
+#summary:#
+partition status running;
+
+#39#
+partition status 1077604920 1 blocked
+partition status 1077576984 1 running
+partition status 1077576945 1 blocked
+partition status 1077576942 1 starting
+partition status 1077576923 1 down
+partition status 1077576923 1 closing
+partition status 1077556489 1 running
+node status 1077556485 1 running
+partition status 1077552274 1 running
+node status 1077552270 1 configured out
+partition status 1077552270 1 blocked
+node status 1077552241 1 not responding
+partition status 1077524621 1 running
+partition status 1077524520 1 blocked
+partition status 1077804330 1 blocked
+partition status 1077804391 1 running
+partition status 1077804660 1 blocked
+partition status 1077804674 1 running
+partition status 1077804990 1 blocked
+node status 1077805320 1 not responding
+
+#summary:#
+partition status running; partition status blocked; starting; down; closing; node status not responding;
+
+#40#
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+node status 1077875226 1 configured out
+
+#summary:#
+node status configured out;
+
+#41#
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+node status 1077897241 1 running
+
+#summary:#
+node status running;
+
+#42#
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+node status 1077907194 0 running
+
+#summary:#
+node status running;
+
+#43#
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+node status 1078470966 1 running
+
+#summary:#
+node status running;
+
+#44#
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+node status 1078414241 1 configured out
+
+#summary:#
+node status configured out;
+
+#45#
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+node status 1079261449 1 not responding
+
+#summary:#
+node status not responding;
+
+#46#
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245563 1 running
+node status 1079245475 1 running
+node status 1079245474 1 active
+partition status 1079245304 1 running
+node status 1079245300 1 running
+node status 1079245300 1 running
+node status 1079245300 1 running
+node status 1079245300 1 running
+node status 1079245300 1 running
+node status 1079245300 1 running
+node status 1079245300 1 running
+
+#summary:#
+node status running; partition status running;
+
+#47#
+node status 1079218685 1 running
+node status 1079218685 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+node status 1079218684 1 running
+
+#summary:#
+node status running;
+
+#48#
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+node status 1079143599 1 not responding
+
+#summary:#
+node status  not responding;
+
+#49#
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+node status 1079072836 1 running
+
+#summary:#
+node status running;
+
+#50#
+node status 1079046490 1 not responding
+node status 1079046490 1 not responding
+node status 1079046490 1 not responding
+node status 1079046490 1 not responding
+node status 1079046490 1 not responding
+node status 1079046481 1 configured out
+node status 1079046481 1 configured out
+node status 1079046481 1 configured out
+node status 1079046481 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+node status 1079046480 1 configured out
+
+#summary:#
+node status not responding; node status configured out;
+
+#51#
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+node status 1079013840 1 configured out
+
+#summary:#
+node status configured out;
+
+#52#
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 1 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 1 configured out
+domain status 1079615340 1 inconsistent nodesets node-127 0x1fffffffe <ok> node-97 0x0000000e <ok> node-96 0x0000000e <ok> node-98 0x0000000e <ok>
+domain status 1079615340 1 inconsistent nodesets node-95 0x1fffffffe <ok> node-64 0x0000000e <ok> node-65 0x0000000e <ok> node-66 0x0000000e <ok>
+node status 1079615336 0 not responding
+node status 1079615336 0 not responding
+
+#summary:#
+node status configured out; inconsistent nodesets; node status not responding;
+
+#53#
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+node status 1079618688 0 running
+partition status 1080167552 1 running
+node status 1080167525 1 running
+node status 1080167525 1 running
+partition status 1080164267 1 running
+node status 1080164262 1 running
+partition status 1080163898 1 running
+
+#summary:#
+node status running; partition status running;
+
+#54#
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+
+#summary:#
+node status configured out;
+
+#55#
+domain status 1082036700 1 not responding
+domain status 1082036640 1 not responding
+domain status 1082036640 1 not responding
+domain status 1082036460 1 not responding
+domain status 1082036370 1 not responding
+domain status 1082036370 1 not responding
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+node status 1079615371 1 configured out
+
+#summary:#
+node status configured out; domain status not responding;
+
+#56#
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+node status 1081931516 1 running
+partition status 1081931504 1 down
+partition status 1081931393 1 down
+
+#summary:#
+node status running; partition status down;
+
+#57#
+node status 1082302699 1 not responding
+partition status 1083284136 1 running
+partition status 1083284130 1 blocked
+partition status 1083263190 1 running
+node status 1083263185 1 running
+domain status 1083262290 1 inconsistent nodesets node-191 0x1fffffffe <ok> node-162 0xfffffffe <ok> node-160 0xfffffffe <ok> node-161 0xfffffffe <ok> node-190 0xfffffffe <ok>
+partition status 1083262203 1 running
+node status 1083262200 1 configured out
+partition status 1083262200 1 blocked
+node status 1083262179 1 not responding
+partition status 1083222231 1 running
+node status 1083222227 1 running
+partition status 1083221163 1 running
+node status 1083221130 1 configured out
+partition status 1083221130 1 blocked
+node status 1083221108 1 not responding
+partition status 1083208219 1 running
+partition status 1083208152 1 blocked
+partition status 1083208143 1 running
+partition status 1083208142 1 starting
+
+#summary:#
+node status not responding; partition status running; partition status blocked; inconsistent nodesets; partition status starting;
+
+#58#
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+node status 1082041080 1 running
+
+#summary:#
+node status running;
+
+#59#
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+node status 1083307405 0 configured out
+
+#summary:#
+node status configured out;
+
+#60#
+node status 1093627924 1 configured out
+node status 1093627924 1 configured out
+node status 1093627924 1 configured out
+node status 1093627923 1 configured out
+node status 1093627923 1 configured out
+node status 1093627923 1 configured out
+node status 1093627923 1 configured out
+node status 1093627923 1 configured out
+node status 1093627923 1 configured out
+node status 1093627923 1 configured out
+node status 1093627923 1 configured out
+domain status 1093627923 1 inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0x0000000e <ok> node-1 0x0000000e <ok> node-2 0x0000000e <ok>
+partition status 1093627923 1 blocked
+node status 1093627901 1 not responding
+node status 1093627901 1 not responding
+node status 1093627901 1 not responding
+node status 1093627901 1 not responding
+node status 1093627901 1 not responding
+node status 1093627901 1 not responding
+node status 1093627901 1 not responding
+
+#summary:#
+node status configured out; inconsistent nodesets; node status not responding;
+
+#61#
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+
+#summary:#
+node status running; 
+
+#62#
+node status 1095341286 1 running
+node status 1095341286 1 running
+node status 1095341285 1 running
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+node status 1095341277 1 active
+
+#summary:#
+node status running; node status active;
+
+#63#
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1087499940 -1 configured out
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+node status 1095349520 0 running
+
+#summary:#
+node status running; node status running;
+
+#64#
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365340 1 configured out
+node status 1098365336 1 not responding
+node status 1098365336 1 not responding
+node status 1098365336 1 not responding
+node status 1098365336 1 not responding
+node status 1098365336 1 not responding
+node status 1098365336 1 not responding
+node status 1087499940 -1 configured out
+node status 1098365336 1 not responding
+node status 1098365336 1 not responding
+node status 1098365336 1 not responding
+
+#summary:#
+node status configured out; node status not responding;
+
+#65#
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+node status 1098394862 0 running
+
+#summary:#
+node status running;
+
+#66#
+partition status 1104072412 1 running
+node status 1104072402 1 running
+partition status 1104961295 1 running
+node status 1104961275 1 running
+partition status 1104956653 1 running
+node status 1104956639 1 running
+partition status 1104950657 1 running
+node status 1104950640 1 configured out
+partition status 1104950640 1 blocked
+node status 1104950606 1 not responding
+partition status 1104946520 1 running
+node status 1104946500 1 configured out
+partition status 1104946500 1 blocked
+node status 1104946478 1 not responding
+partition status 1104943642 1 running
+node status 1104943622 1 running
+partition status 1104936814 1 running
+node status 1104936780 1 configured out
+partition status 1104936780 1 blocked
+node status 1104936735 1 not responding
+
+#summary:#
+node status running; configured out; partition status running; partition status blocked; 
+
+#67#
+node status 1107953972 1 configured out
+partition status 1107953970 1 blocked
+node status 1107953939 1 not responding
+partition status 1107951783 1 running
+partition status 1107951690 1 blocked
+partition status 1107951573 1 running
+partition status 1107951510 1 blocked
+partition status 1107951423 1 running
+partition status 1107951300 1 blocked
+partition status 1107951244 1 running
+partition status 1107951240 1 blocked
+partition status 1107951183 1 running
+partition status 1107950970 1 blocked
+partition status 1107950912 1 running
+partition status 1107950730 1 blocked
+partition status 1107950643 1 running
+partition status 1107950460 1 blocked
+partition status 1107950253 1 running
+partition status 1107949830 1 blocked
+partition status 1107949743 1 running
+
+#summary:#
+node status configured out; partition status running; partition status blocked;
+
+#68#
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+node status 1118547724 1 running
+partition status 1118546655 1 running
+partition status 1118546643 1 blocked
+node status 1118546642 1 running
+domain status 1118546340 1 inconsistent nodesets node-193 0x000001fe <ok> node-194 0x000001fe <ok> node-192 0x000001fe <ok> node-198 0x0401fdfe <ok>
+domain status 1118546250 1 inconsistent nodesets node-255 0x1fffffffe <ok> node-224 0xfffffffe <ok> node-225 0xfffffffe <ok> node-226 0xfffffffe <ok> node-254 0xfffffffe <ok>
+partition status 1118546174 1 running
+node status 1118546166 1 configured out
+
+#summary:#
+node status running; partition status running; inconsistent nodesets; node status configured out; partition status blocked;
+
+#69#
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+node status 1118937765 0 running
+
+#summary:#
+node status running; 
+
+#70#
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561040 1 running
+node status 1131561024 1 running
+domain status 1131558000 1 inconsistent nodesets node-4 0x000001fe <ok> node-7 0x000001fe <ok> node-0 0x000001fe <ok> node-6 0x000001fe <ok> node-3 0x000001fe <ok> node-2 0x000001fe <ok> node-5 0x000001fe <ok> node-1 0x000001fe <ok> node-14 0x0005fdfe <ok> node-13 0x0005fdfe <ok> node-15 0x0005fdfe <ok>
+domain status 1131556260 1 not responding
+tserver status 1131553867 1 responding
+tserver status 1131553568 1 not-responding
+domain status 1131552510 1 inconsistent nodesets node-171 0x1fffffffe <ok> node-187 0x1fffffffe <ok> node-169 0x1fffffffe <ok> node-191 0x1fffffffe <ok> node-170 0x1fffffffe <ok> node-190 0x1fffffffe <ok> node-166 0x000001fe <ok>
+domain status 1131551640 1 inconsistent nodesets node-151 0x1fffffffe <ok> node-145 0x1fffffffe <ok> node-150 0x1fffffffe <ok> node-141 0x1fffffffe <ok> node-128 0x1fffffffe <ok> node-129 0x1fffffffe <ok> node-136 0x1fffffffe <ok> node-130 0x1fffffffe <ok> node-153 0x1fffffffe <ok> node-134 0x1fffffffe <ok> node-154 0x1fffffffe <ok> node-142 0x09fffdfe <ok>
+tserver status 1131549066 1 responding
+tserver status 1131548946 1 responding
+domain status 1131548940 1 inconsistent nodesets node-184 0x1fffffffe <ok> node-171 0x1fffffffe <ok> node-163 0x000001fe <ok>
+domain status 1131548940 1 inconsistent nodesets node-53 0x1fffffffe <ok> node-59 0x1fffffffe <ok> node-41 0x11fffdfe <ok>
+
+#summary:#
+node status running; inconsistent nodesets; tserver status responding; 
+
+#71#
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+node status 1138578390 1 active
+
+#summary:#
+node status active;
+
+#72#
+gige temperature 1117703422 1 warning
+gige temperature 1117703421 1 normal
+gige temperature 1117702824 1 warning
+gige temperature 1117702522 1 normal
+gige temperature 1117702522 1 normal
+gige temperature 1117701622 1 warning
+gige temperature 1117701322 1 normal
+gige temperature 1117698322 1 warning
+gige temperature 1117698022 1 normal
+gige temperature 1117698021 1 warning
+gige temperature 1117697721 1 normal
+gige temperature 1117697121 1 warning
+gige temperature 1117696521 1 normal
+gige temperature 1117695322 1 warning
+gige temperature 1117693522 1 normal
+gige temperature 1117693522 1 warning
+gige temperature 1117693221 1 normal
+gige temperature 1117691422 1 warning
+gige temperature 1117691421 1 warning
+gige temperature 1117691122 1 normal
+
+#summary:#
+gige temperature warning; gige temperature normal;
+
+#73#
+gige temperature 1118436040 1 normal
+gige temperature 1118435140 1 warning
+gige temperature 1118434539 1 normal
+gige temperature 1118433039 1 warning
+gige temperature 1118432782 1 warning
+gige temperature 1118432183 1 normal
+gige temperature 1118432139 1 normal
+gige temperature 1118429955 1 normal
+gige temperature 1118429739 1 warning
+gige temperature 1118429139 1 normal
+gige temperature 1118428755 1 warning
+gige temperature 1118428537 1 warning
+gige temperature 1118428237 1 normal
+gige temperature 1118427855 1 normal
+gige temperature 1118425758 1 warning
+gige temperature 1118424937 1 warning
+gige temperature 1118424638 1 normal
+gige temperature 1118424555 1 normal
+gige temperature 1118424337 1 warning
+gige temperature 1118424042 1 warning
+
+#summary:#
+gige temperature warning; gige temperature normal;
+
+#74#
+gige temperature 1119553324 1 critical
+gige temperature 1119552124 1 warning
+gige temperature 1119550927 1 warning
+gige temperature 1119550927 1 critical
+gige temperature 1119550625 1 normal
+gige temperature 1119550324 1 warning
+gige temperature 1119549723 1 critical
+gige temperature 1119549123 1 warning
+gige temperature 1119548825 1 warning
+gige temperature 1119548823 1 critical
+gige temperature 1119548761 1 warning
+gige temperature 1119548525 1 normal
+gige temperature 1119548524 1 warning
+gige temperature 1119548398 1 normal
+gige temperature 1119548225 1 warning
+gige temperature 1119548223 1 critical
+gige temperature 1119548161 1 normal
+gige temperature 1119548525 1 normal
+gige temperature 1119547925 1 normal
+gige temperature 1119547798 1 warning
+
+#summary:#
+gige temperature critical; gige temperature normal; gige temperature warning; 
+
+#75#
+gige temperature 1120304472 1 warning
+gige temperature 1120314434 1 warning
+gige temperature 1120313835 1 normal
+gige temperature 1120312937 1 warning
+gige temperature 1120312634 1 normal
+gige temperature 1120312634 1 warning
+gige temperature 1120312573 1 normal
+gige temperature 1120312335 1 critical
+gige temperature 1120311734 1 warning
+gige temperature 1120311673 1 warning
+gige temperature 1120311434 1 normal
+gige temperature 1120310234 1 warning
+gige temperature 1120309634 1 normal
+gige temperature 1120308978 1 normal
+gige temperature 1120308077 1 warning
+gige temperature 1120307472 1 normal
+gige temperature 1120305672 1 warning
+gige temperature 1120305073 1 normal
+gige temperature 1120304472 1 warning
+gige temperature 1120303572 1 normal
+
+#summary:#
+gige temperature critical; gige temperature normal; gige temperature warning; 
+
+#76#
+gige temperature 1124720213 1 warning
+gige temperature 1124719913 1 normal
+gige temperature 1124718062 1 normal
+gige temperature 1124717462 1 warning
+gige temperature 1124717213 1 warning
+gige temperature 1124716613 1 normal
+gige temperature 1124716067 1 warning
+gige temperature 1124715467 1 normal
+gige temperature 1124714268 1 warning
+gige temperature 1124714213 1 warning
+gige temperature 1124713613 1 normal
+gige temperature 1124713613 1 warning
+gige temperature 1124713313 1 normal
+gige temperature 1124713067 1 normal
+gige temperature 1124712413 1 warning
+gige temperature 1124711868 1 warning
+gige temperature 1124711813 1 normal
+gige temperature 1124710668 1 normal
+gige temperature 1124710013 1 warning
+gige temperature 1124709713 1 warning
+
+#summary:#
+gige temperature critical; gige temperature normal; gige temperature warning;
+
+#77#
+gige temperature 1144797207 1 normal
+gige temperature 1144797143 1 warning
+gige temperature 1144795405 1 critical
+gige temperature 1144795166 1 warning
+gige temperature 1144795105 1 warning
+gige temperature 1144794864 1 normal
+gige temperature 1144794508 1 warning
+gige temperature 1144793607 1 normal
+gige temperature 1144792344 1 normal
+gige temperature 1144792105 1 critical
+gige temperature 1144791206 1 warning
+gige temperature 1144791143 1 warning
+gige temperature 1144790905 1 critical
+gige temperature 1144790608 1 warning
+gige temperature 1144790605 1 warning
+gige temperature 1144790007 1 normal
+gige temperature 1144788805 1 critical
+gige temperature 1144788505 1 warning
+gige temperature 1144788264 1 warning
+gige temperature 1144788208 1 warning
+
+#summary:#
+gige temperature critical; gige temperature normal; gige temperature warning;
+
+#78#
+switch_module error 1073116021 1 Link ok
+switch_module error 1073116021 1 Link in reset
+switch_module error 1073116019 1 Link ok
+switch_module error 1073116016 1 Link in reset
+switch_module error 1073115941 1 Link ok
+switch_module error 1073115940 1 Link in reset
+switch_module error 1073115789 1 Link error
+switch_module error 1073115787 1 Link ok
+switch_module error 1073115786 1 Link in reset
+switch_module error 1073115785 1 Link ok
+switch_module error 1073115782 1 Link in reset
+switch_module error 1073115721 1 Link error
+switch_module error 1073115720 1 Link ok
+switch_module error 1073115719 1 Link in reset
+switch_module error 1073115718 1 Link ok
+switch_module error 1073115718 1 Link ok
+switch_module error 1073115487 1 Link ok
+switch_module error 1073115485 1 Link in reset
+switch_module error 1073114649 1 Link ok
+switch_module error 1073114648 1 Link in reset
+
+#summary:#
+Link in reset; Link ok; 
+
+#79#
+switch_module error 1072509013 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072508418 1 Link ok
+switch_module error 1072508417 1 Link in reset
+switch_module error 1072508275 1 Link ok
+switch_module error 1072508274 1 Link in reset
+switch_module error 1072508194 1 Link ok
+switch_module error 1072508193 1 Link in reset
+switch_module error 1072507806 1 Link ok
+switch_module error 1072507805 1 Link in reset
+switch_module error 1072504998 1 Link error
+switch_module error 1072504997 1 Link error
+switch_module error 1072503853 1 Link ok
+switch_module error 1072503852 1 Link in reset
+switch_module error 1072503851 1 Link ok
+switch_module error 1072503850 1 Link in reset
+switch_module error 1072503061 1 Link error
+
+#summary:#
+Link in reset; Link ok; Link error;
+
+#80#
+switch_module error 1072762724 1 Link ok
+switch_module error 1072762723 1 Link in reset
+switch_module error 1072762721 1 Link ok
+switch_module error 1072762718 1 Link in reset
+switch_module error 1072762711 1 Link error
+switch_module error 1072762710 1 Link ok
+switch_module error 1072762710 1 Link ok
+switch_module error 1072762702 1 Link ok
+switch_module error 1072762701 1 Link in reset
+switch_module error 1072762699 1 Link ok
+switch_module error 1072762696 1 Link in reset
+switch_module error 1072762696 1 Link in reset
+switch_module error 1072762695 1 Link error
+switch_module error 1072762695 1 Link error
+switch_module error 1072762694 1 Link ok
+switch_module error 1072762694 1 Link ok
+switch_module error 1072762680 1 Link in reset
+switch_module error 1072762680 1 Link in reset
+switch_module error 1072762677 1 Link ok
+switch_module error 1072762676 1 Link in reset
+
+#summary:#
+Link in reset; Link ok; Link error;
+
+#81#
+switch_module error 1072640051 1 Link ok
+switch_module error 1072640048 1 Link in reset
+switch_module error 1072639983 1 Link error
+switch_module error 1072639982 1 Link ok
+switch_module error 1072639982 1 Link ok
+switch_module error 1072639967 1 Link in reset
+switch_module error 1072639967 1 Link in reset
+switch_module error 1072639703 1 Link ok
+switch_module error 1072639702 1 Link in reset
+switch_module error 1072638864 1 Link ok
+switch_module error 1072638857 1 Link ok
+switch_module error 1072638857 1 Link in reset
+switch_module error 1072638849 1 Link in reset
+switch_module error 1072638764 1 Link ok
+switch_module error 1072638763 1 Link in reset
+switch_module error 1072638660 1 Link ok
+switch_module error 1072638658 1 Link in reset
+switch_module error 1072638657 1 Link ok
+switch_module error 1072638654 1 Link in reset
+switch_module error 1072638589 1 Link error
+
+#summary:#
+Link in reset; Link ok; Link error;
+
+#82#
+switch_module error 1073758502 1 Link in reset
+switch_module error 1073756860 1 Link error
+switch_module error 1073756859 1 Link error
+switch_module error 1073756859 1 Link error
+switch_module error 1073756859 1 Link error
+switch_module error 1073756859 1 Link error
+switch_module error 1073756382 1 Link ok
+switch_module error 1073756381 1 Link in reset
+switch_module error 1073754867 1 Link ok
+switch_module error 1073754866 1 Link in reset
+switch_module error 1073754784 1 Link ok
+switch_module error 1073754783 1 Link in reset
+switch_module error 1073753881 1 Link ok
+switch_module error 1073753880 1 Link in reset
+switch_module error 1073750580 1 Link ok
+switch_module error 1073750579 1 Link in reset
+switch_module error 1073750194 1 Link error
+switch_module error 1073750193 1 Link error
+switch_module error 1073750193 1 Link error
+switch_module error 1073750193 1 Link error
+
+#summary:#
+Link in reset; Link ok; Link error;
+
+#83#
+switch_module error 1073501500 1 Link error
+switch_module error 1073501499 1 Link error
+switch_module error 1073501498 1 Link error
+switch_module error 1073501498 1 Link error
+switch_module error 1073501498 1 Link error
+switch_module error 1073500964 1 Link ok
+switch_module error 1073500963 1 Link in reset
+switch_module error 1073500753 1 Link ok
+switch_module error 1073500752 1 Link in reset
+switch_module error 1073499669 1 Link ok
+switch_module error 1073499668 1 Link in reset
+switch_module error 1073499061 1 Link ok
+switch_module error 1073499060 1 Link in reset
+switch_module error 1073498942 1 Link ok
+switch_module error 1073498941 1 Link in reset
+switch_module error 1073498198 1 Link ok
+switch_module error 1073498197 1 Link in reset
+switch_module error 1073496404 1 Link ok
+switch_module error 1073496403 1 Link in reset
+switch_module error 1073496402 1 Link in reset
+
+#summary:#
+Link in reset; Link ok; Link error;
+
+#84#
+switch_module error 1073234906 1 Link in reset
+switch_module error 1073234382 1 Link ok
+switch_module error 1073234381 1 Link in reset
+switch_module error 1073234293 1 Link ok
+switch_module error 1073234292 1 Link in reset
+switch_module error 1073233457 1 Link error
+switch_module error 1073233457 1 Link error
+switch_module error 1073233456 1 Link error
+switch_module error 1073233456 1 Link error
+switch_module error 1073233456 1 Link error
+switch_module error 1073232997 1 Link ok
+switch_module error 1073232996 1 Link in reset
+switch_module error 1073232029 1 Link ok
+switch_module error 1073232028 1 Link in reset
+switch_module error 1073231150 1 Link ok
+switch_module error 1073231149 1 Link in reset
+switch_module error 1073230813 1 Link ok
+switch_module error 1073230812 1 Link in reset
+switch_module error 1073230660 1 Link ok
+switch_module error 1073230659 1 Link in reset
+
+#summary:#
+Link in reset; Link ok; Link error;
+
+#85#
+switch_module error 1074120554 1 Linkerror event interval expired
+switch_module error 1074120561 1 Linkerror event interval expired
+switch_module error 1074120583 1 Linkerror event interval expired
+switch_module error 1074120590 1 Linkerror event interval expired
+switch_module error 1074120591 1 Linkerror event interval expired
+switch_module error 1074120597 1 Linkerror event interval expired
+switch_module error 1074120598 1 Linkerror event interval expired
+switch_module error 1074120605 1 Linkerror event interval expired
+switch_module error 1074120606 1 Linkerror event interval expired
+switch_module error 1074120613 1 Linkerror event interval expired
+switch_module error 1074120632 1 Linkerror event interval expired
+switch_module error 1074120639 1 Linkerror event interval expired
+switch_module error 1074120640 1 Linkerror event interval expired
+switch_module error 1074120646 1 Linkerror event interval expired
+switch_module error 1074120654 1 Linkerror event interval expired
+switch_module error 1074120692 1 Linkerror event interval expired
+switch_module error 1074120699 1 Linkerror event interval expired
+switch_module error 1074120700 1 Linkerror event interval expired
+switch_module error 1074120707 1 Linkerror event interval expired
+switch_module error 1074120717 1 Linkerror event interval expired
+
+#summary:#
+Linkerror event interval expired;
+
+#86#
+switch_module error 1074131102 1 Linkerror event interval expired
+switch_module error 1074131109 1 Linkerror event interval expired
+switch_module error 1074131125 1 Linkerror event interval expired
+switch_module error 1074131132 1 Linkerror event interval expired
+switch_module error 1074131133 1 Linkerror event interval expired
+switch_module error 1074131139 1 Linkerror event interval expired
+switch_module error 1074131193 1 Linkerror event interval expired
+switch_module error 1074131194 1 Linkerror event interval expired
+switch_module error 1074131200 1 Linkerror event interval expired
+switch_module error 1074131201 1 Linkerror event interval expired
+switch_module error 1074131202 1 Linkerror event interval expired
+switch_module error 1074131202 1 Linkerror event interval expired
+switch_module error 1074131207 1 Linkerror event interval expired
+switch_module error 1074131208 1 Linkerror event interval expired
+switch_module error 1074131209 1 Linkerror event interval expired
+switch_module error 1074131215 1 Linkerror event interval expired
+switch_module error 1074131288 1 Linkerror event interval expired
+switch_module error 1074131289 1 Linkerror event interval expired
+switch_module error 1074131296 1 Linkerror event interval expired
+switch_module error 1074131296 1 Linkerror event interval expired
+
+#summary:#
+Linkerror event interval expired;
+
+#87#
+switch_module error 1074177847 1 Linkerror event interval expired
+switch_module error 1074177851 1 Linkerror event interval expired
+switch_module error 1074177851 1 Linkerror event interval expired
+switch_module error 1074177858 1 Linkerror event interval expired
+switch_module error 1074177888 1 Linkerror event interval expired
+switch_module error 1074177895 1 Linkerror event interval expired
+switch_module error 1074177896 1 Linkerror event interval expired
+switch_module error 1074177903 1 Linkerror event interval expired
+switch_module error 1074177935 1 Linkerror event interval expired
+switch_module error 1074177943 1 Linkerror event interval expired
+switch_module error 1074177943 1 Linkerror event interval expired
+switch_module error 1074177946 1 Linkerror event interval expired
+switch_module error 1074177950 1 Linkerror event interval expired
+switch_module error 1074177953 1 Linkerror event interval expired
+switch_module error 1074177954 1 Linkerror event interval expired
+switch_module error 1074177954 1 Linkerror event interval expired
+switch_module error 1074177961 1 Linkerror event interval expired
+switch_module error 1074177961 1 Linkerror event interval expired
+switch_module error 1074177968 1 Linkerror event interval expired
+switch_module error 1074178047 1 Linkerror event interval expired
+
+#summary:#
+Linkerror event interval expired;
+
+#88#
+switch_module error 1074210835 1 Linkerror event interval expired
+switch_module error 1074210843 1 Linkerror event interval expired
+switch_module error 1074211011 1 Linkerror event interval expired
+switch_module error 1074211019 1 Linkerror event interval expired
+switch_module error 1074211019 1 Linkerror event interval expired
+switch_module error 1074211026 1 Linkerror event interval expired
+switch_module error 1074211180 1 Linkerror event interval expired
+switch_module error 1074211187 1 Linkerror event interval expired
+switch_module error 1074211187 1 Linkerror event interval expired
+switch_module error 1074211195 1 Linkerror event interval expired
+switch_module error 1074212199 1 Linkerror event interval expired
+switch_module error 1074212200 1 Linkerror event interval expired
+install_cmd error 1074212466 1 Command Failed on : node-164
+switch_module error 1074212906 1 Linkerror event interval expired
+switch_module error 1074212907 1 Linkerror event interval expired
+switch_module error 1074212907 1 Linkerror event interval expired
+switch_module error 1074212907 1 Linkerror event interval expired
+switch_module error 1074212908 1 Linkerror event interval expired
+switch_module error 1074212916 1 Linkerror event interval expired
+switch_module error 1074212917 1 Linkerror event interval expired
+
+#summary:#
+Linkerror event interval expired; Command Failed;
+
+#89#
+switch_module error 1086022148 1 Linkerror event interval expired
+switch_module error 1086022147 1 Linkerror event interval expired
+switch_module error 1086022146 1 Linkerror event interval expired
+switch_module error 1086022140 1 Linkerror event interval expired
+boot_cmd error 1086022089 1 Command Failed on : node-226\ node-225\ node-230\ node-228\ node-229\ node-224\ node-231\ node-227
+action error 1086022089 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+action error 1086022089 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+action error 1086022089 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+action error 1086022087 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+action error 1086022087 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+action error 1086022087 1 boot ( command 3002 ) Error : Unknown We failed to determine the state of this node
+action error 1086022086 1 boot ( command 3002 ) Error : Unknown We failed to determine the state of this node
+action error 1086022086 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+shutdown_cmd error 1085980335 1 Failed subcommands 2988\ 2989\ 2990\ 2991\ 2992\ 2994\ 2995
+shutdown_cmd error 1085980086 1 Failed subcommands 2979\ 2980\ 2986
+shutdown_cmd error 1085979825 1 Command Failed on : node-1\ node-2\ node-3\ node-4\ node-5\ node-6\ node-7\ node-14\ node-8\ node-10\ node-11\ node-13\ node-12\ node-9\ node-15\ node-16\ node-17\ node-18\ node-20\ node-23\ node-21\ node-19\ node-22\ node-25\ node-24\ node-26\ node-28\ node-27\ node-29\ node-30\ node-31\ node-0
+shutdown_cmd error 1085979825 1 Command Failed on : node-254\ node-224\ node-226\ node-225\ node-227\ node-229\ node-228\ node-231\ node-230\ node-233\ node-232\ node-234\ node-235\ node-236\ node-238\ node-240\ node-239\ node-237\ node-241\ node-242\ node-243\ node-246\ node-244\ node-245\ node-248\ node-247\ node-250\ node-252\ node-249\ node-251\ node-255\ node-253
+action error 1086022089 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+action error 1086022087 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+action error 1086022087 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue
+
+#summary:#
+Linkerror event interval expired; We failed to determine the state; HALT asserted\ cannot continue; Failed subcommands;
+
+#90#
+switch_module error 1127420184 1 link errors remain current
+switch_module error 1127419543 1 link errors remain current
+switch_module error 1127419222 1 link errors remain current
+switch_module error 1127418777 1 link errors remain current
+switch_module error 1127418369 1 link errors remain current
+switch_module error 1127418060 1 link errors remain current
+switch_module error 1127417685 1 link errors remain current
+switch_module error 1127417289 1 link errors remain current
+switch_module error 1127416952 1 link errors remain current
+switch_module error 1127416244 1 link errors remain current
+switch_module error 1127415936 1 link errors remain current
+switch_module error 1127415556 1 link errors remain current
+switch_module error 1127415137 1 link errors remain current
+switch_module error 1127414778 1 link errors remain current
+switch_module error 1127414361 1 link errors remain current
+switch_module error 1127413930 1 link errors remain current
+switch_module error 1127413605 1 link errors remain current
+switch_module error 1127412734 1 link errors remain current
+switch_module error 1127412316 1 link errors remain current
+switch_module error 1127411965 1 link errors remain current
+
+#summary:#
+link errors remain current;
+
+#91#
+switch_module error 1127972548 1 link errors remain current
+switch_module error 1127972105 1 link errors remain current
+switch_module error 1127971213 1 link errors remain current
+switch_module error 1127970647 1 link errors remain current
+switch_module error 1127970137 1 link errors remain current
+switch_module error 1127969679 1 link errors remain current
+switch_module error 1127969256 1 link errors remain current
+switch_module error 1127968632 1 link errors remain current
+switch_module error 1127968205 1 link errors remain current
+switch_module error 1127967626 1 link errors remain current
+switch_module error 1127967179 1 link errors remain current
+switch_module error 1127966676 1 link errors remain current
+switch_module error 1127966251 1 link errors remain current
+switch_module error 1127965540 1 link errors remain current
+switch_module error 1127965108 1 link errors remain current
+switch_module error 1127964566 1 link errors remain current
+switch_module error 1127963859 1 link errors remain current
+switch_module error 1127963176 1 link errors remain current
+switch_module error 1127962485 1 link errors remain current
+switch_module error 1127962010 1 link errors remain current
+
+#summary:#
+link errors remain current;
+
+#92#
+boot_cmd error 1131216800 1 Failed subcommands 3934
+boot_cmd error 1131216798 1 Command Failed on : node-127
+switch_module error 1131216530 1 link errors remain current
+action error 1131216524 1 boot ( command 3942 ) Error : Unknown We failed to determine the state of this node
+action error 1131216516 1 boot ( command 3942 ) Error : Unknown We failed to determine the state of this node
+switch_module error 1131216502 1 link errors remain current
+switch_module error 1131216493 1 link errors remain current
+switch_module error 1131216466 1 link errors remain current
+switch_module error 1131216458 1 link errors remain current
+switch_module error 1131216455 1 link errors remain current
+switch_module error 1131216446 1 link errors remain current
+action error 1131216397 1 boot ( command 3934 ) Error : Unknown We failed to determine the state of this node
+switch_module error 1131216215 1 link errors remain current
+switch_module error 1131216163 1 link errors remain current
+switch_module error 1131216156 1 link errors remain current
+switch_module error 1131216136 1 link errors remain current
+switch_module error 1131216132 1 link errors remain current
+switch_module error 1131216128 1 link errors remain current
+boot_cmd error 1131216036 1 Command Failed on : node-161\ node-163\ node-165
+action error 1131216009 1 boot ( command 3942 ) Error : Unknown We failed to determine the state of this node
+
+#summary:#
+Failed subcommands; Command Failed; We failed to determine the state; link errors remain current;
+
+#93#
+switch_module error 1131876762 1 link errors remain current
+switch_module error 1131876422 1 link errors remain current
+switch_module error 1131876011 1 link errors remain current
+switch_module error 1131875621 1 link errors remain current
+switch_module error 1131875220 1 link errors remain current
+switch_module error 1131874920 1 link errors remain current
+switch_module error 1131874877 1 link errors remain current
+switch_module error 1131874547 1 link errors remain current
+switch_module error 1131874333 1 link errors remain current
+switch_module error 1131874153 1 link errors remain current
+switch_module error 1131873846 1 link errors remain current
+switch_module error 1131873814 1 link errors remain current
+switch_module error 1131873520 1 link errors remain current
+switch_module error 1131873118 1 link errors remain current
+switch_module error 1131872955 1 link errors remain current
+switch_module error 1131872816 1 link errors remain current
+switch_module error 1131872364 1 link errors remain current
+switch_module error 1131872339 1 link errors remain current
+switch_module error 1131871991 1 link errors remain current
+switch_module error 1131871531 1 link errors remain current
+
+#summary:#
+link errors remain current;
+
+#94#
+unix.hw net.niff.up 1074177979 1 NIFF : node node-4 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074177979 1 NIFF : node node-4 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074177999 1 NIFF : node node-5 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1074177999 1 NIFF : node node-5 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178018 1 NIFF : node node-7 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178018 1 NIFF : node node-7 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178057 1 NIFF : node node-6 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178057 1 NIFF : node node-6 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178119 1 NIFF : node node-9 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178119 1 NIFF : node node-9 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178133 1 NIFF : node node-10 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178133 1 NIFF : node node-10 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178134 1 NIFF : node node-8 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178134 1 NIFF : node node-8 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178151 1 NIFF : node node-11 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178151 1 NIFF : node node-11 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178259 1 NIFF : node node-12 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178259 1 NIFF : node node-12 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178260 1 NIFF : node node-14 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178260 1 NIFF : node node-14 has detected an available network connection on network 10.128.0.0 via interface ee0
+
+#summary:#
+node has detected an available network connection;
+
+#95#
+unix.hw net.niff.up 1074297005 1 NIFF : node node-255 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297005 1 NIFF : node node-255 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297005 1 NIFF : node node-254 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297005 1 NIFF : node node-254 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297816 1 NIFF : node node-201 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297816 1 NIFF : node node-201 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297817 1 NIFF : node node-175 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297817 1 NIFF : node node-175 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297818 1 NIFF : node node-205 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297818 1 NIFF : node node-205 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297819 1 NIFF : node node-44 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297819 1 NIFF : node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297835 1 NIFF : node node-174 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297835 1 NIFF : node node-174 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297838 1 NIFF : node node-140 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297838 1 NIFF : node node-140 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297838 1 NIFF : node node-173 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297838 1 NIFF : node node-173 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074297839 1 NIFF : node node-170 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074297839 1 NIFF : node node-170 has detected an available network connection on network 10.128.0.0 via interface ee0
+
+#summary:#
+node has detected an available network connection;
+
+#96#
+unix.hw net.niff.up 1074298077 1 NIFF : node node-183 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298077 1 NIFF : node node-183 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298080 1 NIFF : node node-182 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298080 1 NIFF : node node-182 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298080 1 NIFF : node node-209 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298080 1 NIFF : node node-209 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298082 1 NIFF : node node-180 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298082 1 NIFF : node node-180 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298085 1 NIFF : node node-48 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298085 1 NIFF : node node-48 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298087 1 NIFF : node node-80 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298087 1 NIFF : node node-80 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298088 1 NIFF : node node-146 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298088 1 NIFF : node node-146 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298090 1 NIFF : node node-215 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298090 1 NIFF : node node-215 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298091 1 NIFF : node node-208 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298091 1 NIFF : node node-208 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074298095 1 NIFF : node node-147 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074298095 1 NIFF : node node-147 has detected an available network connection on network 10.128.0.0 via interface ee0
+
+#summary:#
+node has detected an available network connection;
+
+#97#
+unix.hw net.niff.up 1141676480 1 NIFF : node node-212 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676480 1 NIFF : node node-212 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676477 1 NIFF : node node-107 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676477 1 NIFF : node node-107 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676476 1 NIFF : node node-145 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676476 1 NIFF : node node-145 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676476 1 NIFF : node node-213 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676476 1 NIFF : node node-213 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676475 1 NIFF : node node-81 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676475 1 NIFF : node node-81 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676475 1 NIFF : node node-110 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676475 1 NIFF : node node-110 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676473 1 NIFF : node node-80 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676473 1 NIFF : node node-80 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676472 1 NIFF : node node-209 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676472 1 NIFF : node node-209 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676472 1 NIFF : node node-210 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676472 1 NIFF : node node-210 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1141676468 1 NIFF : node node-208 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1141676468 1 NIFF : node node-208 has detected an available network connection on network 5.5.224.0 via interface alt0
+
+#summary:#
+node has detected an available network connection;
+
+#98#
+unix.hw state_change.available 1084642389 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4432 )
+unix.hw state_change.available 1084642389 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 41 )
+unix.hw state_change.available 1084642389 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2888 )
+unix.hw state_change.available 1084642389 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3238 )
+unix.hw state_change.available 1084642389 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3098 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3098 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 41 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2888 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2958 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3168 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3238 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2538 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2608 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2748 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3028 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4432 )
+unix.hw state_change.available 1084642386 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2818 )
+unix.hw state_change.available 1084642252 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4432 )
+unix.hw state_change.available 1084642252 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2888 )
+unix.hw state_change.available 1084642252 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2608 )
+
+#summary:#
+Component State Change;
+
+#99#
+partition status 1061560535 -1 running
+partition status 1061559367 -1 running
+partition status 1061555585 -1 running
+partition status 1061554625 -1 running
+partition status 1061554535 -1 running
+partition status 1061552735 -1 running
+partition status 1061552195 -1 running
+partition status 1061547875 -1 running
+partition status 1061545655 -1 running
+partition status 1061545567 -1 running
+partition status 1061544785 -1 running
+partition status 1061541529 -1 running
+partition status 1061532275 -1 running
+partition status 1061531645 -1 running
+partition status 1061517672 -1 running
+partition status 1061516045 -1 running
+partition status 1061515896 -1 running
+partition status 1061510947 -1 running
+partition status 1061509476 -1 running
+partition status 1061491805 -1 running
+
+#summary:#
+partition status running;
+
+#100#
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3740 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4512 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4164 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4374 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4234 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3670 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4020 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3880 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3460 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 2480 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3810 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3950 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3600 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3530 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4514 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 4372 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3320 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3040 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3250 )
+unix.hw state_change.available 1085075265 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = 3180 )
+
+#summary:#
+Component State Change;

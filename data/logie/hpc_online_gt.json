@@ -1,0 +1,4335 @@
+{
+    "1": [
+        "* server subsys * 1 failed to configure resourcemgmt subsystem err = 10",
+        "* server subsys * failed to configure resourcemgmt subsystem err = 10",
+        [
+            [
+                "server subsys",
+                "is",
+                "VAR2"
+            ],
+            [
+                "server subsys",
+                "failed to",
+                "configure resourcemgmt"
+            ],
+            [
+                "err",
+                "is",
+                "10"
+            ]
+        ]
+    ],
+    "10": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "100": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> node-2 * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "101": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * 0x01fffffe <ok> * 0x01fffffe <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "102": [
+        "domain status 1076533442 1 inconsistent nodesets node-255 0x1ffffeffe <ok> node-224 0x1fffeffe <ok> node-226 0xffffeffe <ok> node-230 0xffffeffe <ok> node-228 0xffffeffe <ok> node-231 0xffffeffe <ok> node-232 0xffffeffe <ok> node-229 0xffffeffe <ok> node-227 0xffffeffe <ok> node-247 0xffffeffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "103": [
+        "domain status * 1 inconsistent nodesets * 0x0000000e <ok> * 0x0000000e <ok> * 0x0000000e <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "104": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "105": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "106": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "107": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "108": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "109": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "11": [
+        "shutdown_cmd new * 1 Targeting domains : * and nodes : node- [ * ]",
+        "shutdown_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "110": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "111": [
+        "domain status 1077739590 1 inconsistent nodesets node-192 0x000001f6 <ok> node-193 0x1001fdf6 <ok> node-198 0x1001fdf6 <ok> node-199 0x1001fdf6 <ok> node-197 0x1001fdf6 <ok> node-196 0x1001fdf6 <ok> node-195 0x1001fdf6 <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "112": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "113": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "114": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> node-193 * <ok> * * <ok> * * <ok> * * <ok> node-197 * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "115": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "116": [
+        "domain status 1077817140 1 inconsistent nodesets node-99 0x2001fdde <ok> node-97 0x2001fdde <ok> node-101 0x2001fdde <ok> node-98 0x2001fdde <ok> node-96 0x2001fdde <ok> node-102 0x2001fdde <ok> node-103 0x2001fdde <ok> node-106 0x200ffdde <ok> node-110 0x200ffdde <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "117": [
+        "domain status 1077817170 1 inconsistent nodesets node-160 0x1001fdfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-167 0x1001fdfe <ok> node-163 0x1001fdfe <ok> node-164 0x1001fdfe <ok> node-165 0x1001fdfe <ok> node-166 0x1001fdfe <ok> node-172 0x101ffdfe <ok> node-174 0x11fffdfe <ok> node-173 0x11fffdfe <ok> node-175 0x11fffdfe <ok> node-169 0x11fffdfe <ok> node-187 0x11fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "118": [
+        "domain status 1077817170 1 inconsistent nodesets node-195 0x1001fdfe <ok> node-196 0x1001fdfe <ok> node-193 0x1001fdfe <ok> node-194 0x1001fdfe <ok> node-199 0x1001fdfe <ok> node-198 0x1001fdfe <ok> node-197 0x1001fdfe <ok> node-192 0x1001fdfe <ok> node-204 0x1003fdfe <ok> node-201 0x1017fdfe <ok> node-206 0x1017fdfe <ok> node-207 0x1017fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "119": [
+        "domain status * 1 inconsistent nodesets node-255 * <ok> node-254 * <ok> node-224 * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "12": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * * ] child of command *",
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "command",
+                "is",
+                "VAR4"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "120": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "121": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x0801fdfe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * 0x0801fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "122": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * * <ok> * * <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "123": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok> * * <ok> * 0x0401fdfe <ok> * * <ok> * 0x0401fdfe <ok> * * <ok> * 0x05fffdfe <ok> * 0x05fffdfe <ok> * 0x05fffdfe <ok> * 0x05fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "124": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "125": [
+        "domain status 1078499880 1 inconsistent nodesets node-63 0x1fffffbbc <ok> node-34 0x1fffffffc <ok> node-33 0x1fffffffc <ok> node-43 0x1fffffbbc <ok> node-38 0x1fffffbbc <ok> node-56 0x1fffffbbc <ok> node-61 0x1fffffbbc <ok> node-60 0x1fffffbbc <ok> node-55 0x1fffffbbc <ok> node-53 0x1fffffbbc <ok> node-42 0x1fffffbbc <ok> node-46 0x1fffffbbc <ok> node-54 0x1fffffbbc <ok> node-36 0x1fffffbbc <ok> node-57 0x1fffffbbc <ok> node-58 0x1fffffbbc <ok> node-49 0x1fffffbbc <ok> node-59 0x1fffffbbc <ok> node-48 0x1fffffbbc <ok> node-51 0x1fffffbbc <ok> node-39 0x1fffffbbc <ok> node-50 0x1fffffbbc <ok> node-47 0x1fffffbbc <ok> node-45 0x1fffffbbc <ok> node-40 0x1fffffbbc <ok> node-35 0x1fffffbbc <ok> node-62 0x1fffffbbc <ok> node-52 0x1fffffbbc <ok> node-44 0x1fffffbbc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "126": [
+        "domain status 1078491270 1 inconsistent nodesets node-193 0x4001fdfe <ok> node-194 0x4001fdfe <ok> node-198 0x4001fdfe <ok> node-197 0x4001fdfe <ok> node-199 0x4001fdfe <ok> node-195 0x4001fdfe <ok> node-196 0x4001fdfe <ok> node-192 0x4001fdfe <ok> node-201 0x41fffdfe <ok> node-221 0x41fffdfe <ok> node-207 0x41fffdfe <ok> node-203 0x41fffdfe <ok> node-204 0x41fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "127": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "128": [
+        "domain status 1078457400 1 inconsistent nodesets node-2 0x1fffffffe <ok> node-7 0x4001fdfe <ok> node-27 0x1fffffffe <ok> node-15 0x400ffdfe <ok> node-31 0x1fffffffe <ok> node-14 0x400ffdfe <ok> node-29 0x401ffdfe <ok> node-25 0x1fffffffe <ok> node-0 0x0001e1fe <ok> node-5 0x1fffffffe <ok> node-22 0x1fffffffe <ok> node-20 0x5ffffffe <ok> node-11 0x41fffdfe <ok> node-16 0x5ffffdfe <ok> node-19 0x7ffffffe <ok> node-21 0x7ffffffe <ok> node-18 0x7ffffffe <ok> node-17 0x5ffffdfe <ok> node-1 0x4001fdfe <ok> node-3 0x0001fdfe <ok> node-4 0x1fffffffe <ok> node-6 0x1fffffffe <ok> node-24 0xfffffffe <ok> node-8 0x1fffffffe <ok> node-9 0x41fffdfe <ok> node-26 0x1fffffffe <ok> node-13 0x401ffdfe <ok> node-28 0x1fffffffe <ok> node-12 0x41fffdfe <ok> node-23 0x1fffffffe <ok> node-10 0x40fffdfe <ok> node-30 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "129": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> node-2 * <ok> * * <ok> * * <ok> node-6 * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "13": [
+        "shutdown_cmd new * 1 Targeting domains : * and nodes : * * * * *",
+        "shutdown_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "130": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok> * 0x1fffffffe <ok> * * <ok> * * <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * 0x1fffffffe <ok> * * <ok> * 0x1fffffffe <ok> * * <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * * <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "131": [
+        "domain status 1079069850 1 inconsistent nodesets node-225 0x000000be <ok> node-224 0x000000be <ok> node-226 0x000000be <ok> node-227 0x000000be <ok> node-230 0x000001be <ok> node-228 0x000001be <ok> node-231 0x000001be <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "132": [
+        "domain status * 1 inconsistent nodesets node-97 * <ok> node-98 * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> node-96 * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "133": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "134": [
+        "domain status 1079013300 1 inconsistent nodesets node-235 0x01fffffe <ok> node-246 0x01fffffe <ok> node-237 0x01fffffe <ok> node-234 0x01fffffe <ok> node-231 0x0001e1fe <ok> node-228 0x000001fe <ok> node-233 0x0081fdfe <ok> node-230 0x000001fe <ok> node-226 0x0001fdfe <ok> node-236 0x01fffffe <ok> node-239 0x0081fdfe <ok> node-224 0x000001fe <ok> node-238 0x01fffffe <ok> node-229 0x000001fe <ok> node-225 0x000001fe <ok> node-227 0x0001e1fe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "135": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "136": [
+        "domain status * * inconsistent nodesets * * <ok> * 0x0000000e <ok> * * <ok> * 0x0000000e <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "137": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "138": [
+        "domain status 1079616870 1 inconsistent nodesets node-160 0x21fffdfe <ok> node-161 0x2001fdfe <ok> node-167 0x2001fdfe <ok> node-163 0x2001fdfe <ok> node-165 0x2001fdfe <ok> node-162 0x2001fdfe <ok> node-166 0x2001fdfe <ok> node-164 0x2001fdfe <ok> node-169 0x21fffdfe <ok> node-174 0x21fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "139": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "14": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "command",
+                "is",
+                "VAR4"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "140": [
+        "partition status 1081571037 * down",
+        "partition status 1081571037 * down",
+        [
+            [
+                "partition status",
+                "is",
+                "down"
+            ]
+        ]
+    ],
+    "141": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x1fffffffe <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "142": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> node-226 * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "143": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok> * 0x2001fdfe <ok> * 0x2001fdfe <ok> * 0x2001fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "144": [
+        "domain status 1082038770 1 inconsistent nodesets node-128 0x2001fdfe <ok> node-131 0x2001fdfe <ok> node-129 0x2001fdfe <ok> node-130 0x2001fdfe <ok> node-133 0x2001fdfe <ok> node-134 0x2001fdfe <ok> node-132 0x2001fdfe <ok> node-135 0x2001fdfe <ok> node-143 0x21fffdfe <ok> node-141 0x21fffdfe <ok> node-137 0x21fffdfe <ok> node-138 0x21fffdfe <ok> node-140 0x21fffdfe <ok> node-156 0x21fffdfe <ok> node-139 0x21fffdfe <ok> node-142 0x21fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "145": [
+        "domain status 1082042250 1 inconsistent nodesets node-225 0x0000000e <ok> node-226 0x0000000e <ok> node-224 0x0000000e <ok> node-231 0x04000fee <ok> node-229 0x04000fee <ok> node-228 0x04000fee <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "146": [
+        "partition status * 0 *",
+        "partition status *",
+        [
+            [
+                "partition status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "147": [
+        "domain status * 1 inconsistent nodesets node-65 * <ok> * * <ok> node-66 * <ok> * * <ok> node-70 * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "148": [
+        "domain status * 1 inconsistent nodesets node-128 0x000001fe <ok> * * <ok> node-130 * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "149": [
+        "domain status 1086025680 1 inconsistent nodesets node-33 0x000001dc <ok> node-34 0x000001dc <ok> node-37 0x000001dc <ok> node-38 0x000001dc <ok> node-35 0x000001dc <ok> node-39 0x000001dc <ok> node-45 0x0003fddc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "15": [
+        "install_cmd new * 1 Targeting domains : * and nodes : node- [ * ]",
+        "install_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "install_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "150": [
+        "domain status 1085961270 1 inconsistent nodesets node-39 0x1fffffffe <ok> node-33 0x1fffffffe <ok> node-34 0x1fffffffe <ok> node-32 0x1fffffffe <ok> node-36 0x1fffffffe <ok> node-35 0x1fffffffe <ok> node-38 0x1fffffffe <ok> node-37 0x1fffffffe <ok> node-45 0x0403fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "151": [
+        "domain status 1088023350 1 inconsistent nodesets node-255 0x1ffffbffe <ok> node-226 0x1fffffffe <ok> node-224 0x1fffffffe <ok> node-254 0x1fffffffe <ok> node-236 0x1fffffffe <ok> node-225 0x1fffffffe <ok> node-235 0x1fffffffe <ok> node-228 0x1fffffffe <ok> node-234 0x1fffffffe <ok> node-237 0x1fffffffe <ok> node-238 0x1fffffffe <ok> node-253 0x1fffffffe <ok> node-248 0x1fffffffe <ok> node-246 0x1fffffffe <ok> node-232 0x1fffffffe <ok> node-249 0x1fffffffe <ok> node-231 0x1fffffffe <ok> node-252 0x1fffffffe <ok> node-233 0x1fffffffe <ok> node-251 0x1fffffffe <ok> node-242 0x1fffffffe <ok> node-227 0x1fffffffe <ok> node-230 0x1fffffffe <ok> node-239 0x1fffffffe <ok> node-243 0x1fffffffe <ok> node-247 0x1fffffffe <ok> node-244 0x1fffffffe <ok> node-241 0x1fffffffe <ok> node-229 0x1fffffffe <ok> node-240 0x1fffffffe <ok> node-250 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "152": [
+        "domain status 1091252640 1 inconsistent nodesets node-193 0x1fffffffe <ok> node-192 0x1fffffffe <ok> node-195 0x080007f6 <ok> node-198 0x0801fff6 <ok> node-197 0x0801fff6 <ok> node-199 0x0801fff6 <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "153": [
+        "domain status 1092063690 1 inconsistent nodesets node-191 0x1ffffff7c <ok> node-162 0x1ffffff7c <ok> node-161 0x1ffffff7c <ok> node-175 0x1ffffff7c <ok> node-170 0x1ffffff7c <ok> node-180 0x1ffffff7c <ok> node-177 0x1ffffff7c <ok> node-164 0x1ffffff7c <ok> node-185 0x1ffffff7c <ok> node-189 0x1ffffff7c <ok> node-169 0x1ffffff7c <ok> node-173 0x1ffffff7c <ok> node-178 0x1ffffff7c <ok> node-174 0x1ffffff7c <ok> node-181 0x1ffffff7c <ok> node-179 0x1ffffff7c <ok> node-165 0x1ffffff7c <ok> node-167 0x1ffffff7c <ok> node-176 0x1ffffff7c <ok> node-171 0x1ffffff7c <ok> node-184 0x1ffffff7c <ok> node-183 0x1ffffff7c <ok> node-172 0x1ffffff7c <ok> node-182 0x1ffffff7c <ok> node-187 0x1ffffff7c <ok> node-186 0x1ffffff7c <ok> node-168 0x1ffffff7c <ok> node-188 0x1ffffff7c <ok> node-163 0x1ffffff7c <ok> node-190 0x1ffffff7c <ok> node-160 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "154": [
+        "domain status 1093628640 1 inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "155": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * * <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok> * 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "156": [
+        "domain status * 1 inconsistent nodesets * 0x1fffffffe <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "157": [
+        "domain status 1098396990 1 inconsistent nodesets node-95 0x1fffffffc <ok> node-66 0x1fffffffc <ok> node-83 0x1fffffffc <ok> node-88 0x1fffffffc <ok> node-85 0x1fffffffc <ok> node-77 0x1fffffffc <ok> node-72 0x1fffffffc <ok> node-84 0x1fffffffc <ok> node-68 0x1fffffffc <ok> node-78 0x1fffffffc <ok> node-89 0x1fffffffc <ok> node-91 0x1fffffffc <ok> node-69 0x1fffffffc <ok> node-71 0x1fffffffc <ok> node-87 0x1fffffffc <ok> node-76 0x1fffffffc <ok> node-93 0x1fffffffc <ok> node-67 0x1fffffffc <ok> node-92 0x1fffffffc <ok> node-80 0x1fffffffc <ok> node-90 0x1fffffffc <ok> node-74 0x1fffffffc <ok> node-79 0x1fffffffc <ok> node-86 0x1fffffffc <ok> node-82 0x1fffffffc <ok> node-94 0x1fffffffc <ok> node-70 0x1fffffffc <ok> node-81 0x1fffffffc <ok> node-75 0x1fffffffc <ok> node-73 0x1fffffffc <ok> node-64 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "158": [
+        "domain status 1100420490 1 inconsistent nodesets node-255 0x1ffbffffc <ok> node-226 0x1ffbffffc <ok> node-225 0x1ffbffffc <ok> node-253 0x1ffbffffc <ok> node-250 0x1ffbffffc <ok> node-241 0x1ffbffffc <ok> node-249 0x1ffbffffc <ok> node-242 0x1ffbffffc <ok> node-233 0x1ffbffffc <ok> node-237 0x1ffbffffc <ok> node-236 0x1ffbffffc <ok> node-243 0x1ffbffffc <ok> node-254 0x1ffbffffc <ok> node-247 0x1ffbffffc <ok> node-248 0x1ffbffffc <ok> node-232 0x1ffbffffc <ok> node-227 0x1ffbffffc <ok> node-252 0x1ffbffffc <ok> node-235 0x1ffbffffc <ok> node-229 0x1ffbffffc <ok> node-228 0x1ffbffffc <ok> node-240 0x1ffbffffc <ok> node-231 0x1ffbffffc <ok> node-246 0x1ffbffffc <ok> node-244 0x1ffbffffc <ok> node-230 0x1ffbffffc <ok> node-251 0x1ffbffffc <ok> node-234 0x1ffbffffc <ok> node-239 0x1ffbffffc <ok> node-238 0x1ffbffffc <ok> node-224 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "159": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "16": [
+        "install_cmd new 1074174654 1 Targeting domains : node-D0 and nodes : node- [ 1\\ 5\\ 11\\ 18 ]",
+        "install_cmd new * Targeting domains : node-D0 and nodes : *",
+        [
+            [
+                "install_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR2"
+            ],
+            [
+                "node-D0",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "160": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "161": [
+        "domain status 1100785710 1 inconsistent nodesets node-96 0x0801fdfe <ok> node-97 0x0801fdde <ok> node-98 0x0801fdde <ok> node-103 0x0801fdde <ok> node-99 0x0801fdde <ok> node-102 0x0801fdde <ok> node-101 0x0801fdde <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "162": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "163": [
+        "domain status 1100785800 1 inconsistent nodesets node-96 0x09fffdfe <ok> node-97 0x0801fdde <ok> node-98 0x0801fdde <ok> node-103 0x0801fdde <ok> node-99 0x0801fdde <ok> node-102 0x0801fdde <ok> node-101 0x0801fdde <ok> node-109 0x080ffdfe <ok> node-111 0x080ffdfe <ok> node-110 0x09fffdfe <ok> node-108 0x09fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "164": [
+        "domain status * 1 inconsistent nodesets node-128 0x05fffdfe <ok> node-129 0x0401fdfe <ok> * 0x0401fdfe <ok> node-133 0x0401fdfe <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok> * 0x0401fdfe <ok> * * <ok> * 0x05fffdfe <ok> * 0x05fffdfe <ok> * 0x05fffdfe <ok> node-142 0x05fffdfe <ok> node-138 0x05fffdfe <ok> * 0x05fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "165": [
+        "domain status 1105053120 1 inconsistent nodesets node-63 0x1fffffffa <ok> node-34 0x1fffffffa <ok> node-40 0x1fffffffa <ok> node-39 0x1fffffffa <ok> node-35 0x1fffffffa <ok> node-38 0x1fffffffa <ok> node-36 0x1fffffffa <ok> node-37 0x1fffffffa <ok> node-54 0x1fffffffa <ok> node-59 0x1fffffffa <ok> node-48 0x1fffffffa <ok> node-51 0x1fffffffa <ok> node-47 0x1fffffffa <ok> node-60 0x1fffffffa <ok> node-56 0x1fffffffa <ok> node-61 0x1fffffffa <ok> node-57 0x1fffffffa <ok> node-55 0x1fffffffa <ok> node-46 0x1fffffffa <ok> node-44 0x1fffffffa <ok> node-52 0x1fffffffa <ok> node-43 0x1fffffffa <ok> node-42 0x1fffffffa <ok> node-50 0x1fffffffa <ok> node-58 0x1fffffffa <ok> node-62 0x1fffffffa <ok> node-49 0x1fffffffa <ok> node-45 0x1fffffffa <ok> node-41 0x1fffffffa <ok> node-53 0x1fffffffa <ok> node-32 0x1fffffffa <ok> node-33 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "166": [
+        "domain status 1106246700 1 inconsistent nodesets node-0 0x0000001e <ok> node-2 0x0000001e <ok> node-1 0x0000001e <ok> node-3 0x0000001e <ok> node-9 0x02001fde <ok> node-8 0x02001fde <ok> node-11 0x02001fde <ok> node-10 0x02001fde <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "167": [
+        "domain status 1107157020 1 inconsistent nodesets node-191 0x1fffffffe <ok> node-162 0x1ffffdffc <ok> node-161 0x1ffffdffc <ok> node-185 0x1ffffdffc <ok> node-168 0x1ffffdffc <ok> node-170 0x1ffffdffc <ok> node-173 0x1ffffdffc <ok> node-181 0x1ffffdffc <ok> node-183 0x1ffffdffc <ok> node-169 0x1ffffdffc <ok> node-182 0x1ffffdffc <ok> node-184 0x1ffffdffc <ok> node-163 0x1ffffdffc <ok> node-180 0x1ffffdffc <ok> node-167 0x1ffffdffc <ok> node-177 0x1ffffdffc <ok> node-171 0x1ffffdffc <ok> node-164 0x1ffffdffc <ok> node-176 0x1ffffdffc <ok> node-178 0x1ffffdffc <ok> node-165 0x1ffffdffc <ok> node-175 0x1ffffdffc <ok> node-174 0x1ffffdffc <ok> node-166 0x1ffffdffc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "168": [
+        "domain status 1107904084 1 inconsistent nodesets node-255 0x1fffffffe <ok> node-226 0x1fffffffc <ok> node-225 0x1fffffffc <ok> node-238 0x1fffffffc <ok> node-246 0x1fffffffc <ok> node-230 0x1fffffffc <ok> node-237 0x1fffffffc <ok> node-244 0x1fffffffc <ok> node-252 0x1fffffffc <ok> node-245 0x1fffffffc <ok> node-228 0x1fffffffc <ok> node-249 0x1fffffffc <ok> node-247 0x1fffffffc <ok> node-233 0x1fffffffc <ok> node-236 0x1fffffffc <ok> node-227 0x1fffffffc <ok> node-248 0x1fffffffc <ok> node-229 0x1fffffffc <ok> node-232 0x1fffffffc <ok> node-241 0x1fffffffc <ok> node-234 0x1fffffffc <ok> node-243 0x1fffffffc <ok> node-240 0x1fffffffc <ok> node-235 0x1fffffffc <ok> node-239 0x1fffffffc <ok> node-242 0x1fffffffc <ok> node-231 0x1fffffffc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "169": [
+        "domain status * 1 inconsistent nodesets * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x09fffdfe <ok> * 0x09fffdfe <ok> * 0x09fffdfe <ok> * 0x09fffdfe <ok> * 0x09fffdfe <ok> * 0x09fffdfe <ok> * 0x09fffdfe <ok> * 0x09fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "17": [
+        "del_member_cmd new * 1 Targeting domains : * and nodes : *",
+        "del_member_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "del_member_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "170": [
+        "domain status * 1 inconsistent nodesets * 0x1fffffffe <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * 0x1fffffffc <ok> * 0x1fffffffc <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "171": [
+        "domain status 1112168460 1 inconsistent nodesets node-159 0x1fbfffffe <ok> node-128 0x1fbfffffe <ok> node-129 0x1fbfffffe <ok> node-130 0x1fbfffffe <ok> node-143 0x0401fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "172": [
+        "domain status 1112052180 1 inconsistent nodesets node-255 0x1fffffffc <ok> node-225 0x1fffffffe <ok> node-226 0x1fffffffe <ok> node-224 0x1fffffffe <ok> node-241 0x1fffffffe <ok> node-248 0x1fffffffe <ok> node-234 0x1fffffffe <ok> node-243 0x1fffffffe <ok> node-232 0x1fffffffe <ok> node-235 0x1fffffffe <ok> node-227 0x1fffffffe <ok> node-238 0x1fffffffe <ok> node-237 0x1fffffffe <ok> node-242 0x1fffffffe <ok> node-244 0x1fffffffe <ok> node-233 0x1fffffffe <ok> node-229 0x1fffffffe <ok> node-247 0x1fffffffe <ok> node-239 0x1fffffffe <ok> node-236 0x1fffffffe <ok> node-245 0x1fffffffe <ok> node-231 0x1fffffffe <ok> node-230 0x1fffffffe <ok> node-249 0x1fffffffe <ok> node-228 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "173": [
+        "domain status 1116600000 1 inconsistent nodesets node-249 0x1fffffffe <ok> node-250 0x1fffffffe <ok> node-224 0x1fffffffe <ok> node-254 0x1fffffffe <ok> node-248 0x1fffffffe <ok> node-245 0x1fffffffe <ok> node-255 0x1fffffffe <ok> node-225 0x0000000e <ok> node-247 0x1fffffffe <ok> node-246 0x1fffffffe <ok> node-226 0x0000000e <ok> node-253 0x1fffffffe <ok> node-252 0x1fffffffe <ok> node-251 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "174": [
+        "domain status * 1 inconsistent nodesets * 0x0000017e <ok> * 0x0000017e <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "175": [
+        "domain status 1118544150 1 inconsistent nodesets node-223 0x1fffffffe <ok> node-194 0x1fffffffc <ok> node-193 0x1fffffffc <ok> node-210 0x1fffffffc <ok> node-214 0x1fffffffc <ok> node-206 0x1fffffffc <ok> node-216 0x1fffffffc <ok> node-220 0x1fffffffc <ok> node-203 0x1fffffffc <ok> node-208 0x1fffffffc <ok> node-195 0x1fffffffc <ok> node-213 0x1fffffffc <ok> node-212 0x1fffffffc <ok> node-197 0x1fffffffc <ok> node-204 0x1fffffffc <ok> node-196 0x1fffffffc <ok> node-222 0x1fffffffc <ok> node-221 0x1fffffffc <ok> node-218 0x1fffffffc <ok> node-207 0x1fffffffc <ok> node-217 0x1fffffffc <ok> node-215 0x1fffffffc <ok> node-200 0x1fffffffc <ok> node-199 0x1fffffffc <ok> node-209 0x1fffffffc <ok> node-211 0x1fffffffc <ok> node-219 0x1fffffffc <ok> node-205 0x1fffffffc <ok> node-198 0x1fffffffc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "176": [
+        "domain status 1118282040 1 inconsistent nodesets node-255 0x1ffffbffc <ok> node-226 0x1ffffbffc <ok> node-225 0x1ffffbffc <ok> node-230 0x1ffffbffc <ok> node-243 0x1ffffbffc <ok> node-228 0x1ffffbffc <ok> node-231 0x1ffffbffc <ok> node-235 0x1ffffbffc <ok> node-246 0x1ffffbffc <ok> node-249 0x1ffffbffc <ok> node-252 0x1ffffbffc <ok> node-248 0x1ffffbffc <ok> node-232 0x1ffffbffc <ok> node-245 0x1ffffbffc <ok> node-254 0x1ffffbffc <ok> node-238 0x1ffffbffc <ok> node-242 0x1ffffbffc <ok> node-244 0x1ffffbffc <ok> node-236 0x1ffffbffc <ok> node-250 0x1ffffbffc <ok> node-233 0x1ffffbffc <ok> node-247 0x1ffffbffc <ok> node-239 0x1ffffbffc <ok> node-240 0x1ffffbffc <ok> node-253 0x1ffffbffc <ok> node-241 0x1ffffbffc <ok> node-227 0x1ffffbffc <ok> node-229 0x1ffffbffc <ok> node-251 0x1ffffbffc <ok> node-234 0x1ffffbffc <ok> node-224 0x1ffffbffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "177": [
+        "domain status 1123708860 1 inconsistent nodesets node-0 0x1ffe69dfe <ok> node-21 0x1fffffffe <ok> node-10 0x1fffffffe <ok> node-1 0x1fffffffe <ok> node-28 0x1fffffffe <ok> node-23 0x1fffffffe <ok> node-6 0x1fffffffe <ok> node-17 0x1fffffffe <ok> node-22 0x1fffffffe <ok> node-30 0x1fffffffe <ok> node-9 0x1fffffffe <ok> node-3 0x1fffffffe <ok> node-2 0x1fffffffe <ok> node-31 0x1fffffffe <ok> node-14 0x1fffffffe <ok> node-24 0x1fffffffe <ok> node-20 0x1fffffffe <ok> node-5 0x1fffffffe <ok> node-11 0x1fffffffe <ok> node-29 0x1fffffffe <ok> node-26 0x1fffffffe <ok> node-7 0x1fffffffe <ok> node-4 0x1fffffffe <ok> node-16 0x1fffffffe <ok> node-27 0x1fffffffe <ok> node-25 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "178": [
+        "domain status 1124377620 1 inconsistent nodesets node-11 0x05e1fdfe <ok> node-15 0x0401fdfe <ok> node-17 0x07f7fdfe <ok> node-19 0x07f7fdfe <ok> node-10 0x05e1fdfe <ok> node-5 0x0001e1fe <ok> node-7 0x0001e1fe <ok> node-0 0x1fffffffe <ok> node-16 0x07f7fdfe <ok> node-20 0x07f7fdfe <ok> node-4 0x000001fe <ok> node-9 0x0401fdfe <ok> node-12 0x0401fdfe <ok> node-31 0x1fff7fffe <ok> node-6 0x000001fe <ok> node-30 0x1fff7fffe <ok> node-22 0x07f7fdfe <ok> node-28 0x1fff7fffe <ok> node-3 0x000001fe <ok> node-29 0x1fff7fffe <ok> node-25 0x0401fdfe <ok> node-14 0x0401fdfe <ok> node-18 0x1fffffffe <ok> node-27 0x1fff7fffe <ok> node-8 0x1fff7fffe <ok> node-26 0x1fff7fffe <ok> node-2 0x000001fe <ok> node-1 0x000001fe <ok> node-21 0x07f7fdfe <ok> node-24 0x1fff7fffe <ok> node-13 0x0401fdfe <ok> node-23 0x07f7fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "179": [
+        "domain status 1124377620 1 inconsistent nodesets node-33 0x000001fe <ok> node-42 0x05fffdfe <ok> node-59 0x1fffffffe <ok> node-61 0x1fffffffe <ok> node-62 0x1fffffffe <ok> node-60 0x1fffffffe <ok> node-38 0x0401fdfe <ok> node-57 0x05fffdfe <ok> node-43 0x05fffdfe <ok> node-45 0x040ffdfe <ok> node-39 0x0401fdfe <ok> node-35 0x0001fdfe <ok> node-37 0x0401fdfe <ok> node-40 0x1fffffffe <ok> node-58 0x1fffffffe <ok> node-46 0x05fffdfe <ok> node-50 0x1fffffffe <ok> node-51 0x1fffffffe <ok> node-52 0x1fffffffe <ok> node-55 0x1fffffffe <ok> node-48 0x1fffffffe <ok> node-47 0x05fffdfe <ok> node-49 0x1fffffffe <ok> node-32 0x000001fe <ok> node-36 0x000001fe <ok> node-63 0x1fffffffe <ok> node-44 0x0401fdfe <ok> node-56 0x1fffffffe <ok> node-34 0x000001fe <ok> node-54 0x1fffffffe <ok> node-53 0x1fffffffe <ok> node-41 0x05fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "18": [
+        "boot_cmd new * 1 Targeting domains : node-D [ * ] and nodes : node- [ * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "180": [
+        "domain status 1124377620 1 inconsistent nodesets node-74 0x09fffdfe <ok> node-79 0x09fffdfe <ok> node-77 0x09fffdfe <ok> node-80 0xfffffffe <ok> node-90 0x09fffdfe <ok> node-75 0x09fffdfe <ok> node-72 0x1fffffffe <ok> node-91 0x1fffffffe <ok> node-92 0x1fffffffe <ok> node-95 0x1fffffffe <ok> node-69 0x0801fdfe <ok> node-71 0x0801fdfe <ok> node-68 0x0801fdfe <ok> node-89 0x1fffffffe <ok> node-88 0x1fffffffe <ok> node-70 0x0801fdfe <ok> node-76 0x080ffdfe <ok> node-78 0x080ffdfe <ok> node-82 0x1ffffffe <ok> node-94 0x1fffffffe <ok> node-93 0x1fffffffe <ok> node-73 0x0801fdfe <ok> node-83 0xfffffffe <ok> node-64 0x1fffffffe <ok> node-87 0xfffffffe <ok> node-86 0xfffffffe <ok> node-85 0xfffffffe <ok> node-84 0xfffffffe <ok> node-81 0xfffffffe <ok> node-66 0x000001fe <ok> node-65 0x000001fe <ok> node-67 0x000001fe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "181": [
+        "domain status 1124377620 1 inconsistent nodesets node-126 0x1fffffffe <ok> node-122 0x1fffffffe <ok> node-102 0x0401fdfe <ok> node-110 0x05fffdfe <ok> node-107 0x05fffdfe <ok> node-105 0x05fffdfe <ok> node-97 0x000001fe <ok> node-111 0x05fffdfe <ok> node-101 0x0401fdfe <ok> node-103 0x0001fdfe <ok> node-98 0x000001fe <ok> node-99 0x0401fdfe <ok> node-120 0x1fffffffe <ok> node-106 0x05fffdfe <ok> node-121 0x05fffdfe <ok> node-109 0x05fffdfe <ok> node-104 0x1fffffffe <ok> node-114 0x1fffffffe <ok> node-96 0x000001fe <ok> node-119 0x1fffffffe <ok> node-117 0x1fffffffe <ok> node-116 0x1fffffffe <ok> node-115 0x1fffffffe <ok> node-112 0x1fffffffe <ok> node-100 0x000001fe <ok> node-124 0x1fffffffe <ok> node-125 0x1fffffffe <ok> node-113 0x1ffffffe <ok> node-118 0x1fffffffe <ok> node-127 0x1fffffffe <ok> node-123 0x1fffffffe <ok> node-108 0x05fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "182": [
+        "domain status 1124377650 1 inconsistent nodesets node-170 0x05fffdfe <ok> node-169 0x05fffdfe <ok> node-185 0x05fffdfe <ok> node-171 0x05fffdfe <ok> node-174 0x05fffdfe <ok> node-179 0x1fffffffe <ok> node-175 0x05fffdfe <ok> node-172 0x05fffdfe <ok> node-184 0x1fffffffe <ok> node-173 0x05fffdfe <ok> node-162 0x000001fe <ok> node-168 0x1fffffffe <ok> node-186 0x1fffffffe <ok> node-187 0x1fffffffe <ok> node-161 0x000001fe <ok> node-176 0x1fffffffe <ok> node-191 0x1fffffffe <ok> node-165 0x0401fdfe <ok> node-167 0x0401fdfe <ok> node-182 0x1fffffffe <ok> node-180 0x1fffffffe <ok> node-163 0x0401fdfe <ok> node-190 0x1fffffffe <ok> node-183 0x1fffffffe <ok> node-189 0x1fffffffe <ok> node-188 0x1fffffffe <ok> node-181 0x1fffffffe <ok> node-160 0x000001fe <ok> node-178 0x1fffffffe <ok> node-164 0x0401fdfe <ok> node-166 0x0401fdfe <ok> node-177 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "183": [
+        "domain status 1124377650 1 inconsistent nodesets node-219 0x1fffffffe <ok> node-201 0x03fffdfe <ok> node-206 0x03fffdfe <ok> node-216 0x03fffdfe <ok> node-205 0x021ffdfe <ok> node-204 0x0201fdfe <ok> node-194 0x1fffffffe <ok> node-213 0x1fffffffe <ok> node-214 0x1fffffffe <ok> node-215 0x1fffffffe <ok> node-223 0x1fffffffe <ok> node-207 0x0207fdfe <ok> node-211 0x1fffffffe <ok> node-209 0x1fffffffe <ok> node-198 0x000001fe <ok> node-208 0xfffffffe <ok> node-192 0x000001fe <ok> node-212 0x1fffffffe <ok> node-222 0x1fffffffe <ok> node-203 0x03fffdfe <ok> node-199 0x000001fe <ok> node-195 0x000001fe <ok> node-221 0x1fffffffe <ok> node-217 0x1fffffffe <ok> node-210 0x1ffffffe <ok> node-196 0x000001fe <ok> node-193 0x000001fe <ok> node-197 0x000001fe <ok> node-220 0x1fffffffe <ok> node-218 0x1fffffffe <ok> node-200 0x1fffffffe <ok> node-202 0x021ffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "184": [
+        "domain status 1124377650 1 inconsistent nodesets node-236 0x081ff9fe <ok> node-239 0x081ff9fe <ok> node-241 0x1ffdffbfe <ok> node-242 0x1ffdffbfe <ok> node-248 0x1ffdffbfe <ok> node-245 0xffdffbfe <ok> node-247 0x1ffdffbfe <ok> node-253 0x1ffdffffe <ok> node-227 0x0801f9fe <ok> node-254 0x1ffdffffe <ok> node-240 0x0fdff9fe <ok> node-246 0x3fdffbfe <ok> node-233 0x1fffffffe <ok> node-243 0x1ffdffbfe <ok> node-228 0x0801f9fe <ok> node-229 0x0801f9fe <ok> node-231 0x0801f9fe <ok> node-249 0x1ffdffbfe <ok> node-230 0x0801f9fe <ok> node-251 0x1ffdffffe <ok> node-235 0x0bdff9fe <ok> node-224 0x000001fe <ok> node-252 0x1ffdffffe <ok> node-232 0x1ffdffffe <ok> node-255 0x1ffdffffe <ok> node-250 0x0bdff9fe <ok> node-234 0x09dff9fe <ok> node-238 0x09dff9fe <ok> node-237 0x09dff9fe <ok> node-225 0x0801f9fe <ok> node-226 0x0801f9fe <ok> node-244 0x1fffffbfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "185": [
+        "node status 1126165710 -1 active",
+        "node status * active",
+        [
+            [
+                "node status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "node status",
+                "is",
+                "active"
+            ]
+        ]
+    ],
+    "186": [
+        "domain status 1126165590 1 inconsistent nodesets node-95 0x1fffffffe <ok> node-73 0x0801fdfe <ok> node-87 0xfffffffe <ok> node-86 0xfffffffe <ok> node-70 0x0801fdfe <ok> node-85 0xfffffffe <ok> node-84 0xfffffffe <ok> node-69 0x1fffffffe <ok> node-83 0x1fffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "187": [
+        "partition status * -1 blocked",
+        "partition status * -1 blocked",
+        [
+            [
+                "partition status",
+                "blocked",
+                ""
+            ]
+        ]
+    ],
+    "188": [
+        "domain status 1126818870 1 inconsistent nodesets node-32 0x00000006 <ok> node-33 0x00000006 <ok> node-35 0x100007f6 <ok> node-38 0x100007f6 <ok> node-37 0x100007f6 <ok> node-36 0x100007f6 <ok> node-39 0x100007f6 <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "189": [
+        "domain status 1131216060 1 inconsistent nodesets node-167 0x000001aa <ok> node-160 0x000001aa <ok> node-166 0x1001fdaa <ok> node-164 0x1001fdaa <ok> node-162 0x1001fdaa <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "19": [
+        "boot_cmd new * 1 Targeting domains : node-D [ 0\\ * ] and nodes : node- [ * * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "190": [
+        "domain status 1131241650 1 inconsistent nodesets node-199 0x0801fdfe <ok> node-195 0x0801fdfe <ok> node-193 0x0801fdfe <ok> node-198 0x0801fdfe <ok> node-192 0x0801fdfe <ok> node-196 0x0801fdfe <ok> node-197 0x0801fdfe <ok> node-201 0x09fffdfe <ok> node-206 0x09fffdfe <ok> node-203 0x09fffdfe <ok> node-202 0x09fffdfe <ok> node-207 0x09fffdfe <ok> node-205 0x09fffdfe <ok> node-204 0x09fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "191": [
+        "domain status 1131551640 1 inconsistent nodesets node-151 0x1fffffffe <ok> node-145 0x1fffffffe <ok> node-150 0x1fffffffe <ok> node-141 0x1fffffffe <ok> node-128 0x1fffffffe <ok> node-129 0x1fffffffe <ok> node-136 0x1fffffffe <ok> node-130 0x1fffffffe <ok> node-153 0x1fffffffe <ok> node-134 0x1fffffffe <ok> node-154 0x1fffffffe <ok> node-142 0x09fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "192": [
+        "domain status 1134671070 1 inconsistent nodesets node-160 0x0001e1fe <ok> node-163 0x0201fdfe <ok> node-162 0x0201fdfe <ok> node-161 0x0201fdfe <ok> node-164 0x0201fdfe <ok> node-165 0x0201fdfe <ok> node-166 0x0201fdfe <ok> node-167 0x0201fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "193": [
+        "domain status 1140195810 1 inconsistent nodesets node-24 0x1fffffffe <ok> node-29 0x1fffffffe <ok> node-26 0x1fffffffe <ok> node-27 0x1fffffffe <ok> node-28 0x1fffffffe <ok> node-25 0x1fffffffe <ok> node-23 0x1fffffffe <ok> node-21 0x1fffffffe <ok> node-30 0x1fffffffe <ok> node-22 0x1fffffffe <ok> node-20 0x1fffffffe <ok> node-19 0xfffffffe <ok> node-2 0xfffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "194": [
+        "domain status 1140195000 1 inconsistent nodesets node-31 0x1fffffffe <ok> node-24 0x1fffffffe <ok> node-29 0x1fffffffe <ok> node-26 0x1fffffffe <ok> node-27 0x1fffffffe <ok> node-28 0x1fffffffe <ok> node-25 0x1fffffffe <ok> node-23 0x1fffffffe <ok> node-21 0x1fffffffe <ok> node-30 0x1fffffffe <ok> node-22 0x1fffffffe <ok> node-20 0x1fffffffe <ok> node-19 0xfffffffe <ok> node-0 0xfffffffe <ok> node-2 0xfffffffe <ok> node-1 0xfffffffe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "195": [
+        "domain status 1141676340 1 inconsistent nodesets * 0x09fffdfe <ok> * * <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * * <ok> * 0x0801fdfe <ok> * 0x0801fdfe <ok> * 0x09fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "196": [
+        "domain status 1142527800 1 inconsistent nodesets node-128 0x000001fa <ok> node-130 0x000001fa <ok> node-131 0x0001fdfa <ok> node-133 0x1001fdfa <ok> node-132 0x1001fdfa <ok> node-134 0x1001fdfa <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "197": [
+        "gige fan.failed * 1 fan2 has failed",
+        "gige fan.failed * fan2 has failed",
+        [
+            [
+                "fan2",
+                "has failed",
+                ""
+            ]
+        ]
+    ],
+    "198": [
+        "gige temperature * 1 *",
+        "gige temperature *",
+        [
+            [
+                "gige temperature",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "199": [
+        "node temperature * * ambient = *",
+        "node temperature * ambient = *",
+        [
+            [
+                "node temperature",
+                "is",
+                "VAR1"
+            ],
+            [
+                "ambient",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "2": [
+        "unix.hw * * 1 Component State Change : Component * is in the * state ( HWID = * )",
+        "unix.hw * 1 Component State Change : Component * is in the * state ( HWID = * )",
+        [
+            [
+                "Component State",
+                "Change",
+                ""
+            ],
+            [
+                "Component",
+                "is",
+                "VAR2"
+            ],
+            [
+                "state",
+                "is",
+                "VAR3"
+            ],
+            [
+                "HWID",
+                "is",
+                "VAR4"
+            ],
+            [
+                "Component VAR2",
+                "is in",
+                "the VAR3 state"
+            ]
+        ]
+    ],
+    "20": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : * * * * *",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "200": [
+        "node temperature 1120315831 0",
+        "node temperature *",
+        [
+            [
+                "node temperature",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "201": [
+        "action error * 1 * ( command * ) Error : Unknown We failed to determine the state of this node",
+        "action error * ( command * ) Error : Unknown We failed to determine the state of this node",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1"
+            ],
+            [
+                "We",
+                "failed to determine",
+                "the state of this node"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "We",
+                "failed to determine",
+                "the state of this node"
+            ]
+        ]
+    ],
+    "202": [
+        "shutdown_cmd error * 1 Command Failed on : * * *",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "203": [
+        "action error * 1 halt ( command * ) Error : scrun failed\\ couldn\\047t send shutdown command",
+        "action error * halt ( command * ) Error : scrun failed\\ couldn\\047t send shutdown command",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 halt"
+            ],
+            [
+                "scrun",
+                "failed",
+                ""
+            ],
+            [
+                "scrun",
+                "couldn't send",
+                "shutdown command"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "204": [
+        "shutdown_cmd error 1072762073 1 Command Failed on : node-235\\ node-236",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "205": [
+        "shutdown_cmd error 1072761995 1 Command Failed on : node-238\\ node-236\\ node-241\\ node-240\\ node-242\\ node-235\\ node-239",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "206": [
+        "action error * 1 * ( command * ) Error : * * * * *",
+        "action error * ( command * ) Error : *",
+        [
+            [
+                "command",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "207": [
+        "boot_cmd error * 1 Command Failed on : * *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "208": [
+        "switch_module error * * Linkerror event interval expired",
+        "switch_module error * Linkerror event interval expired",
+        [
+            [
+                "Linkerror event interval",
+                "expired",
+                ""
+            ]
+        ]
+    ],
+    "209": [
+        "action error 1074121664 1 clusterAddMember ( command 1900 ) Error : cluster_add_member failed unexpectedly\\ check /cluster/admin/cluster_add_member.log : <ABORT code errored : kill : 601373 : no such process>",
+        "action error * clusterAddMember ( command * ) Error : cluster_add_member failed unexpectedly\\ check * : <ABORT code errored : kill : * : no such process>",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 clusterAddMember"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "",
+                "check",
+                "VAR3"
+            ],
+            [
+                "ABORT code",
+                "errored",
+                ""
+            ],
+            [
+                "cluster_add_member",
+                "failed unexpectedly",
+                ""
+            ]
+        ]
+    ],
+    "21": [
+        "shutdown_cmd new * 1 Targeting domains : * and nodes : *",
+        "shutdown_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "210": [
+        "action error * 1 * ( command * ) Error : * * * * * * * : <ABORT code completed>",
+        "action error * ( command * ) Error : * <ABORT code completed>",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 boot"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "ABORT code",
+                "completed",
+                ""
+            ]
+        ]
+    ],
+    "211": [
+        "action error * 1 risBoot ( command * ) Error : failed to RIS boot : <ABORT code completed>",
+        "action error * risBoot ( command * ) Error : failed to RIS boot : <ABORT code completed>",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 risBoot"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "",
+                "failed to",
+                "RIS boot"
+            ],
+            [
+                "ABORT code",
+                "completed",
+                ""
+            ]
+        ]
+    ],
+    "212": [
+        "install_cmd error 1074130731 1 Command Failed on : node-108\\ node-113",
+        "install_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "213": [
+        "install_cmd error 1074134880 1 Command Failed on : node-5\\ node-18\\ node-11\\ node-1",
+        "install_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "214": [
+        "install_cmd error 1074135989 1 Command Failed on : node-239\\ node-247\\ node-235",
+        "install_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "215": [
+        "action error * 1 member_delete ( command * ) Error : * is NOT a member of cluster *",
+        "action error * member_delete ( command * ) Error : * is NOT a member of cluster *",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 member_delete"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "a menber of cluster",
+                "is NOT",
+                "VAR3"
+            ],
+            [
+                "cluster",
+                "is",
+                "VAR4"
+            ]
+        ]
+    ],
+    "216": [
+        "del_member_cmd error * 1 Command Failed on : *",
+        "del_member_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "217": [
+        "install_cmd error * 1 Command Failed on : *",
+        "install_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "218": [
+        "action error 1074203174 1 bootGenvmunix ( command 1918 ) Error : node returned to srm while booting : <ABORT code completed>",
+        "action error * bootGenvmunix ( command * ) Error : node returned to srm while booting : <ABORT code completed>",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 bootGenvmunix"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "node",
+                "returned to",
+                "srm"
+            ],
+            [
+                "ABORT code",
+                "completed",
+                ""
+            ],
+            [
+                "node returned to srm",
+                "while",
+                "booting"
+            ]
+        ]
+    ],
+    "219": [
+        "boot_cmd error * 1 Failed subcommands * *",
+        "boot_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "22": [
+        "boot_cmd new * 1 Targeting domains : node-D7 and nodes : node- [ * * * * * * * ] child of command *",
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "command",
+                "is",
+                "VAR4"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "220": [
+        "boot_cmd error 1076182302 1 Command Failed on : node-44\\ node-47\\ node-46\\ node-42\\ node-41\\ node-43\\ node-45\\ node-53\\ node-52\\ node-48\\ node-50\\ node-51\\ node-49\\ node-59\\ node-55\\ node-57\\ node-58\\ node-60\\ node-56",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "221": [
+        "action error * 1 boot ( command * ) Error : HALT asserted\\ cannot continue",
+        "action error * boot ( command * ) Error : HALT asserted\\ cannot continue",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 boot"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "HALT",
+                "asserted",
+                ""
+            ],
+            [
+                "HALT",
+                "cannot continue",
+                ""
+            ]
+        ]
+    ],
+    "222": [
+        "boot_cmd error 1076180887 1 Command Failed on : node-58\\ node-41\\ node-42\\ node-43\\ node-36\\ node-44\\ node-45\\ node-46\\ node-47\\ node-48\\ node-49\\ node-50\\ node-51\\ node-52\\ node-53\\ node-55\\ node-56\\ node-57\\ node-59\\ node-61\\ node-60\\ node-54\\ node-40\\ node-39\\ node-38\\ node-37\\ node-35\\ node-34\\ node-33\\ node-63\\ node-62",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "223": [
+        "boot_cmd error 1076179072 1 Command Failed on : node-33\\ node-36\\ node-41\\ node-38\\ node-34\\ node-35\\ node-37\\ node-39\\ node-54\\ node-43\\ node-42\\ node-47\\ node-45\\ node-46\\ node-44\\ node-49\\ node-51\\ node-48\\ node-52\\ node-40\\ node-50\\ node-53\\ node-55\\ node-56\\ node-60\\ node-57\\ node-59\\ node-58\\ node-61\\ node-62\\ node-63",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "224": [
+        "action error * 1 boot ( command * ) Error : * * * * * *",
+        "action error * boot ( command * ) Error : *",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 boot"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "225": [
+        "action error * 1 boot ( command * ) Error : timeout while booting.",
+        "action error * boot ( command * ) Error : timeout while booting.",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 boot"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "timeout",
+                "while",
+                "booting"
+            ]
+        ]
+    ],
+    "226": [
+        "action error * 1 boot ( command * ) Error : node went to SRM while trying to boot",
+        "action error * boot ( command * ) Error : node went to SRM while trying to boot",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 boot"
+            ],
+            [
+                "node",
+                "went to",
+                "SRM"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "node",
+                "trying to",
+                "boot"
+            ],
+            [
+                "node went to SRM",
+                "while",
+                "trying to boot"
+            ]
+        ]
+    ],
+    "227": [
+        "shutdown_cmd error * 1 Failed subcommands * *",
+        "shutdown_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands VAR2"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "228": [
+        "shutdown_cmd error * 1 Failed subcommands * * *",
+        "shutdown_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands VAR2"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "229": [
+        "shutdown_cmd error 1076485276 1 Command Cancelled - cluster would lose quorum",
+        "shutdown_cmd error 1076485276 1 Command Cancelled - cluster would lose quorum",
+        [
+            [
+                "Command",
+                "Cancelled",
+                ""
+            ],
+            [
+                "cluster",
+                "would lose",
+                "quorum"
+            ]
+        ]
+    ],
+    "23": [
+        "shutdown_cmd new * 1 Targeting domains : * and nodes : node- [ * * * * * * * *",
+        "shutdown_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "230": [
+        "shutdown_cmd error * 1 Command Failed on : node-246\\ node-249\\ node-247\\ node-252\\ * * * *",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "231": [
+        "action error * 1 halt ( command * ) Error : Couldn\\047t Connect to console ( state = REFUSED )",
+        "action error * halt ( command * ) Error : Couldn\\047t Connect to console ( state = REFUSED )",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 halt"
+            ],
+            [
+                "",
+                "Couldn't connect to",
+                "console"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "state",
+                "is",
+                "REFUSED"
+            ]
+        ]
+    ],
+    "232": [
+        "action error * 1 clusterAddMember ( command * ) Error : Cannot run clusterAddMember\\ because * connection state is REFUSED and needs to be SRM",
+        "action error * clusterAddMember ( command * ) Error : Cannot run clusterAddMember\\ because * connection state is REFUSED and needs to be SRM",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 clusterAddMember"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "",
+                "Cannot run",
+                "clusterAddMember"
+            ],
+            [
+                "VAR3 connection state",
+                "is",
+                "REFUSED"
+            ],
+            [
+                "connection state",
+                "needs to be",
+                "SRM"
+            ],
+            [
+                "Cannot run clusterAddMember",
+                "because",
+                "VAR3 connection state is REFUSED"
+            ],
+            [
+                "VAR3 connection state is REFUSED",
+                "and",
+                "needs to be SRM"
+            ]
+        ]
+    ],
+    "233": [
+        "boot_cmd error 1076874913 1 Command Failed on : node-249\\ node-231\\ node-232\\ node-229\\ node-230\\ node-233\\ node-228\\ node-227\\ node-234\\ node-237\\ node-235\\ node-239\\ node-238\\ node-236\\ node-240\\ node-241\\ node-242\\ node-243\\ node-244\\ node-245\\ node-246\\ node-247\\ node-248\\ node-250\\ node-251\\ node-253\\ node-254\\ node-252\\ node-255",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "234": [
+        "boot_cmd error * 1 Failed subcommands * * *",
+        "boot_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "235": [
+        "boot_cmd error 1077817910 1 Failed subcommands 2333\\ 2336\\ 2339\\ *",
+        "boot_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "236": [
+        "shutdown_cmd error * 1 Failed subcommands *",
+        "shutdown_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands VAR2"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "237": [
+        "action error 1083702408 1 member_delete ( command 2921 ) Error : node is up according to cluster_get_info",
+        "action error * member_delete ( command * ) Error : node is up according to cluster_get_info",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 member_delete"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "node",
+                "is",
+                "up"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ],
+            [
+                "node is up",
+                "according to",
+                "cluster_get_info"
+            ]
+        ]
+    ],
+    "238": [
+        "boot_cmd error 1086026061 1 Command Failed on : node-56\\ node-52\\ node-53\\ node-55\\ node-58",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "239": [
+        "boot_cmd error * 1 Command Failed on : node-224\\ * * node-227\\ * * * *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "24": [
+        "boot_cmd new * 1 Targeting domains : node-D7 and nodes : node- [ * * * * * * * * ] child of command *",
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "command",
+                "is",
+                "VAR4"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "240": [
+        "boot_cmd error 1086022089 1 Command Failed on : node-226\\ node-225\\ node-230\\ node-228\\ node-229\\ node-224\\ node-231\\ node-227",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "241": [
+        "shutdown_cmd error 1085980335 1 Failed subcommands 2988\\ 2989\\ 2990\\ 2991\\ 2992\\ 2994\\ 2995",
+        "shutdown_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands VAR2"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "242": [
+        "shutdown_cmd error 1085979825 1 Command Failed on : node-1\\ node-2\\ node-3\\ node-4\\ node-5\\ node-6\\ node-7\\ node-14\\ node-8\\ node-10\\ node-11\\ node-13\\ node-12\\ node-9\\ node-15\\ node-16\\ node-17\\ node-18\\ node-20\\ node-23\\ node-21\\ node-19\\ node-22\\ node-25\\ node-24\\ node-26\\ node-28\\ node-27\\ node-29\\ node-30\\ node-31\\ node-0",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "243": [
+        "shutdown_cmd error 1085979825 1 Command Failed on : node-254\\ node-224\\ node-226\\ node-225\\ node-227\\ node-229\\ node-228\\ node-231\\ node-230\\ node-233\\ node-232\\ node-234\\ node-235\\ node-236\\ node-238\\ node-240\\ node-239\\ node-237\\ node-241\\ node-242\\ node-243\\ node-246\\ node-244\\ node-245\\ node-248\\ node-247\\ node-250\\ node-252\\ node-249\\ node-251\\ node-255\\ node-253",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "244": [
+        "shutdown_cmd error 1085979817 1 Command Failed on : node-194\\ node-196\\ node-198\\ node-197\\ node-195\\ node-200\\ node-199\\ node-203\\ node-201\\ node-202\\ node-204\\ node-205\\ node-206\\ node-207\\ node-192\\ node-193\\ node-209\\ node-208\\ node-210\\ node-212\\ node-213\\ node-211\\ node-214\\ node-215\\ node-217\\ node-216\\ node-218\\ node-219\\ node-221\\ node-220\\ node-222\\ node-223",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "245": [
+        "shutdown_cmd error 1085979785 1 Command Failed on : node-129\\ node-130\\ node-133\\ node-134\\ node-131\\ node-132\\ node-136\\ node-137\\ node-135\\ node-138\\ node-140\\ node-139\\ node-141\\ node-142\\ node-143\\ node-128\\ node-144\\ node-146\\ node-145\\ node-147\\ node-148\\ node-149\\ node-150\\ node-151\\ node-152\\ node-154\\ node-153\\ node-155\\ node-158\\ node-156\\ node-157\\ node-159",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "246": [
+        "shutdown_cmd error 1085979753 1 Command Failed on : node-103\\ node-104\\ node-105\\ node-102\\ node-106\\ node-107\\ node-96\\ node-97\\ node-98\\ node-108\\ node-109\\ node-100\\ node-101\\ node-110\\ node-99\\ node-111\\ node-112\\ node-113\\ node-116\\ node-115\\ node-114\\ node-119\\ node-118\\ node-117\\ node-121\\ node-120\\ node-122\\ node-124\\ node-123\\ node-125\\ node-126\\ node-127",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "247": [
+        "shutdown_cmd error 1085979715 1 Command Failed on : node-64\\ node-65\\ node-66\\ node-69\\ node-70\\ node-68\\ node-67\\ node-71\\ node-74\\ node-72\\ node-73\\ node-75\\ node-79\\ node-76\\ node-77\\ node-78\\ node-80\\ node-81\\ node-82\\ node-83\\ node-84\\ node-86\\ node-85\\ node-87\\ node-88\\ node-90\\ node-89\\ node-91\\ node-92\\ node-93\\ node-94\\ node-95",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "248": [
+        "shutdown_cmd error 1085979666 1 Command Failed on : node-34\\ node-32\\ node-33\\ node-36\\ node-37\\ node-38\\ node-35\\ node-39\\ node-40\\ node-43\\ node-42\\ node-41\\ node-44\\ node-45\\ node-46\\ node-47\\ node-48\\ node-51\\ node-49\\ node-50\\ node-52\\ node-53\\ node-55\\ node-54\\ node-56\\ node-58\\ node-57\\ node-60\\ node-63\\ node-61\\ node-62\\ node-59",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "249": [
+        "shutdown_cmd error 1085974478 1 Command Failed on : node-247\\ node-224\\ node-228\\ node-229\\ node-231\\ node-227\\ node-230\\ node-225\\ node-226\\ node-232\\ node-234\\ node-235\\ node-233\\ node-238\\ node-239\\ node-236\\ node-237\\ node-240\\ node-242\\ node-241\\ node-243\\ node-244\\ node-245\\ node-246\\ node-248\\ node-251\\ node-252\\ node-250\\ node-249\\ node-254\\ node-253\\ node-255",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "25": [
+        "shutdown_cmd new * 1 Targeting domains : node-D7 and nodes : node- [ * * * * * * * * *",
+        "shutdown_cmd new * Targeting domains : node- * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "node-VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "250": [
+        "shutdown_cmd error 1085974476 1 Command Failed on : node-5\\ node-7\\ node-1\\ node-6\\ node-4\\ node-2\\ node-3\\ node-8\\ node-10\\ node-9\\ node-11\\ node-12\\ node-14\\ node-13\\ node-15\\ node-16\\ node-19\\ node-17\\ node-22\\ node-23\\ node-20\\ node-18\\ node-21\\ node-24\\ node-27\\ node-30\\ node-26\\ node-25\\ node-28\\ node-29\\ node-31\\ node-0",
+        "shutdown_cmd error * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "251": [
+        "boot_cmd error 1098717001 1 Command Failed on : node-11\\ node-13\\ node-9\\ node-10\\ node-14\\ node-25\\ node-15\\ node-12\\ node-20\\ node-16\\ node-18\\ node-21\\ node-17\\ node-19\\ node-22\\ node-23\\ node-26\\ node-27\\ node-24\\ node-28\\ node-29\\ node-30\\ node-31\\ node-8",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "252": [
+        "boot_cmd error 1111855592 1 Command Failed on : * * * * * * * *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "253": [
+        "shutdown_cmd error 1114095166 1 Failed subcommands 3549\\ 3550\\ 3551\\ 3552\\ 3553\\ 3554\\ 3555\\ 3556",
+        "shutdown_cmd error * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands VAR2"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "254": [
+        "switch_module error * * link errors remain current",
+        "switch_module error * link errors remain current",
+        [
+            [
+                "link errors",
+                "remain",
+                "current"
+            ]
+        ]
+    ],
+    "255": [
+        "action error 1126813594 1 boot ( command 3833 ) Error : CMF-Port This node\\047s port is not connected",
+        "action error * boot ( command 3833 ) Error : CMF-Port This node\\047s port is not connected",
+        [
+            [
+                "action error",
+                "is",
+                "VAR1 boot"
+            ],
+            [
+                "node's port",
+                "is not",
+                "connected"
+            ]
+        ]
+    ],
+    "256": [
+        "boot_cmd error 1131218239 1 Command Failed on : node-128\\ node-129\\ node-134\\ node-130\\ node-131\\ node-132\\ node-133\\ node-135",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "257": [
+        "boot_cmd error 1131218227 1 Command Failed on : node-32\\ node-33\\ node-38\\ node-36\\ node-34\\ node-35\\ node-37\\ node-39",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "258": [
+        "unix.hw net.niff.up * 1 NIFF : node * has detected an available network connection on network via interface *",
+        "unix.hw net.niff.up * 1 NIFF : node * has detected an available network connection on network via interface *",
+        [
+            [
+                "node",
+                "is",
+                "VAR2"
+            ],
+            [
+                "node",
+                "has detected",
+                "an available network connection"
+            ],
+            [
+                "interface",
+                "is",
+                "VAR3"
+            ]
+        ]
+    ],
+    "26": [
+        "boot_cmd new * 1 Targeting domains : node-D [ * ] and nodes : node- [ * * * * * * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "27": [
+        "shutdown_cmd new * 1 Targeting domains : node-D [ * * ] and nodes : node- [ * * ]",
+        "shutdown_cmd new * Targeting domains : node- * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "node-VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "28": [
+        "shutdown_cmd new 1076534372 1 Targeting domains : node-D [ 0\\ 3\\ 7 ] and nodes : node- [ 0-10\\ 12\\ 14-15\\ 96\\ 224\\ 226-234\\ 236-239\\ 242-244 ]",
+        "shutdown_cmd new * Targeting domains : node- * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "node-VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "29": [
+        "shutdown_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        "shutdown_cmd new * Targeting domains : * and nodes : * child of command *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR2"
+            ],
+            [
+                "child of command",
+                "is",
+                "VAR3"
+            ]
+        ]
+    ],
+    "3": [
+        "unix.hw * * 1 Component State Change : Component * : * : * is in the * state ( HWID = * )",
+        "unix.hw * 1 Component State Change : Component * is in the * state ( HWID = * )",
+        [
+            [
+                "Component State",
+                "Change",
+                ""
+            ],
+            [
+                "Component",
+                "is",
+                "VAR2"
+            ],
+            [
+                "state",
+                "is",
+                "VAR3"
+            ],
+            [
+                "HWID",
+                "is",
+                "VAR4"
+            ],
+            [
+                "Component VAR2",
+                "is in",
+                "the VAR3 state"
+            ]
+        ]
+    ],
+    "30": [
+        "shutdown_cmd new * 1 Targeting domains : node-D [ 0-7 ] and nodes : node- [ 0-255 ]",
+        "shutdown_cmd new * Targeting domains : node- * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "node-VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "31": [
+        "install_cmd new * 1 Targeting domains : * and nodes : *",
+        "install_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "install_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "32": [
+        "shutdown_cmd new * 1 Targeting domains : node-D7 and nodes : node- [ 224\\ 228\\ 232 ]",
+        "shutdown_cmd new * Targeting domains : node- * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "node-VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "33": [
+        "shutdown_cmd new * 1 Targeting domains : * and nodes : node- [ * * * * ]",
+        "shutdown_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "34": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * * * * ] child of command *",
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "command",
+                "is",
+                "VAR4"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "35": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * * * * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "36": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * * * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "37": [
+        "shutdown_cmd new 1080560697 1 Targeting domains : node-D1 and nodes : node- [ 53\\ 61 ] child of command 2715",
+        "shutdown_cmd new 1080560697 1 Targeting domains : node-D1 and nodes : * child of command *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "VAR1",
+                "child of",
+                "command VAR2"
+            ]
+        ]
+    ],
+    "38": [
+        "shutdown_cmd new 1080560692 1 Targeting domains : node-D [ 1\\ 3 ] and nodes : node- [ 53\\ 61\\ 110 ]",
+        "shutdown_cmd new * Targeting domains : node- * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "node-VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "39": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * * * ] child of command *",
+        "boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "command",
+                "is",
+                "VAR4"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "4": [
+        "action * * 1 * ( command * )",
+        "action * ( command * )",
+        [
+            [
+                "action",
+                "is",
+                "VAR1"
+            ],
+            [
+                "command",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "40": [
+        "boot_cmd new * 1 Targeting domains : node-D [ 0\\ * ] and nodes : node- [ * * * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "41": [
+        "boot_cmd new * 1 Targeting domains : node-D [ * * ] and nodes : node- [ * * * * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "42": [
+        "boot_cmd new 1109711925 1 Targeting domains : node-D [ 1\\ 3\\ 5 ] and nodes : node- [ 34\\ 97\\ 166 ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "43": [
+        "boot_cmd new * 1 Targeting domains : node-D [ * ] and nodes : node- [ * * * ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "44": [
+        "shutdown_cmd new 1114092696 1 Targeting domains : node-D [ 0-7 ] and nodes : node- [ 0-2\\ 32-34\\ 64-66\\ 96-98\\ 128-130\\ 160-162\\ 192-194\\ 224-226 ]",
+        "shutdown_cmd new * Targeting domains : node- * and nodes : *",
+        [
+            [
+                "shutdown_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "node-VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "45": [
+        "boot_cmd new 1129818009 1 Targeting domains : node-D [ 0-1\\ 3\\ 7 ] and nodes : node- [ 31\\ 38\\ 116\\ 235 ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "46": [
+        "boot_cmd new 1131220595 1 Targeting domains : node-D [ 1\\ 3-7 ] and nodes : node- [ 32-63\\ 127-159\\ 161\\ 163\\ 165\\ 194\\ 238\\ 253\\ 255 ]",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "47": [
+        "node * * 1 * failure\\ ambient = *",
+        "node * failure\\ ambient = *",
+        [
+            [
+                "node",
+                "is",
+                "VAR1"
+            ],
+            [
+                "ambient",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "48": [
+        "switch_module psu * 1 PSU status ( * * )",
+        "switch_module psu * PSU status *",
+        [
+            [
+                "PSU status",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "49": [
+        "node temphigh * 1 ambient = * threshold exceeded",
+        "node temphigh * ambient = * threshold exceeded",
+        [
+            [
+                "node temphigh",
+                "is",
+                "VAR1"
+            ],
+            [
+                "ambient",
+                "is",
+                "VAR2"
+            ],
+            [
+                "threshold",
+                "exceeded",
+                ""
+            ]
+        ]
+    ],
+    "5": [
+        "boot_cmd * * 1 Command has * *",
+        "boot_cmd * Command has *",
+        [
+            [
+                "Command",
+                "has",
+                "VAR2"
+            ]
+        ]
+    ],
+    "50": [
+        "switch_module temphigh * 1 Temperature ( * ) exceeds warning threshold",
+        "switch_module temphigh * 1 Temperature ( * ) exceeds warning threshold",
+        [
+            [
+                "Temperature",
+                "is",
+                "VAR2"
+            ],
+            [
+                "Temperature",
+                "exceeds",
+                "warning threshold"
+            ]
+        ]
+    ],
+    "51": [
+        "clusterfilesystem clusterfilesystem.no_server * 1 ClusterFileSystem : There is no server for ServerFileSystem domain *",
+        "clusterfilesystem clusterfilesystem.no_server * ClusterFileSystem : There is no server for ServerFileSystem domain *",
+        [
+            [
+                "no server",
+                "is for",
+                "ServerFileSystem domain VAR2"
+            ]
+        ]
+    ],
+    "52": [
+        "unix.hw net.niff.down * 1 NIFF : node * detected a failed network connection on network via interface *",
+        "unix.hw net.niff.down * 1 NIFF : node * detected a failed network connection on network via interface *",
+        [
+            [
+                "node",
+                "is",
+                "VAR2"
+            ],
+            [
+                "node",
+                "has detected",
+                "a failed network connection"
+            ],
+            [
+                "interface",
+                "is",
+                "VAR3"
+            ]
+        ]
+    ],
+    "53": [
+        "clusterfilesystem fdmn.panic * 1 ServerFileSystem : An ServerFileSystem domain panic has occurred on *",
+        "clusterfilesystem fdmn.panic * 1 ServerFileSystem : An ServerFileSystem domain panic has occurred on *",
+        [
+            [
+                "An ServerFileSystem domain panic",
+                "has occurred on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "54": [
+        "switch_module fan * 1 Fan speeds ( * * * * * * )",
+        "switch_module fan * Fan speeds *",
+        [
+            [
+                "fan",
+                "is",
+                "VAR1"
+            ],
+            [
+                "Fan speeds",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "55": [
+        "shutdown_cmd * * 1 Command Failed on : *",
+        "shutdown_cmd * Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "56": [
+        "boot_cmd * * 1 Command Failed on : node-160\\ node-161\\ * * * node-165\\ * *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "57": [
+        "boot_cmd * * 1 Command Failed on : node-4\\ node-5\\ node-7\\ node-3\\ node-6\\ node-1\\ node-0\\ node-2",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "58": [
+        "boot_cmd abort 1111858191 1 Command Failed on : * * * * * * * *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "59": [
+        "boot_cmd * * 1 Command Failed on : node-109\\ node-124\\ node-110\\ node-111\\ node-108\\ node-113\\ node-114\\ node-112\\ node-115\\ node-116\\ node-118\\ node-120\\ node-119\\ node-117\\ node-121\\ node-123\\ node-126\\ node-125\\ node-122\\ node-127",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "6": [
+        "shutdown_cmd * * 1 Command has * *",
+        "shutdown_cmd * Command has *",
+        [
+            [
+                "Command",
+                "has",
+                "VAR2"
+            ]
+        ]
+    ],
+    "60": [
+        "boot_cmd * * 1 Failed subcommands *",
+        "boot_cmd * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "61": [
+        "boot_cmd * * 1 Command Failed on : *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "62": [
+        "boot_cmd abort * 1 Failed subcommands * * *",
+        "boot_cmd abort * Failed subcommands *",
+        [
+            [
+                "boot_cmd",
+                "abort",
+                "VAR1"
+            ],
+            [
+                "",
+                "Failed",
+                "subcommands"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "63": [
+        "boot_cmd * * 1 Command Failed on : * * *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "64": [
+        "boot_cmd * * 1 Failed subcommands 3923\\ 3925\\ 3927\\ 3931\\ 3937\\ 3941",
+        "boot_cmd * Failed subcommands *",
+        [
+            [
+                "",
+                "Failed",
+                "subcommands"
+            ],
+            [
+                "subcommands",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "65": [
+        "boot_cmd abort 1131219538 1 Command Failed on : * * * * * * * *",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "66": [
+        "boot_cmd * * 1 Command Failed on : node-1\\ node-0\\ node-4\\ node-2\\ node-3\\ node-5\\ node-6\\ node-7",
+        "boot_cmd * 1 Command Failed on : *",
+        [
+            [
+                "Command",
+                "Failed",
+                ""
+            ],
+            [
+                "Command",
+                "Failed on",
+                "VAR2"
+            ]
+        ]
+    ],
+    "67": [
+        "switch_module control * * power/control *",
+        "switch_module control * power/control *",
+        [
+            [
+                "switch_module control",
+                "is",
+                "VAR1"
+            ],
+            [
+                "power/control",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "68": [
+        "switch_module control * 1 no recent update",
+        "switch_module control * no recent update",
+        [
+            [
+                "switch_module control",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "69": [
+        "switch_module control * 1 update received",
+        "switch_module control * update received",
+        [
+            [
+                "switch_module control",
+                "received",
+                "update"
+            ],
+            [
+                "switch_module control",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "7": [
+        "install_cmd * * 1 Command has * *",
+        "install_cmd * 1 Command has *",
+        [
+            [
+                "Command",
+                "has",
+                "VAR2"
+            ]
+        ]
+    ],
+    "70": [
+        "switch_module * * 1 Link *",
+        "switch_module *",
+        [
+            [
+                "switch_module",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "71": [
+        "switch_module * * 1 Link in reset",
+        "switch_module * 1 Link in reset",
+        [
+            [
+                "Link",
+                "in",
+                "reset"
+            ]
+        ]
+    ],
+    "72": [
+        "switch_module bcast-error * 1 Link error on broadcast tree * : * : * : *",
+        "switch_module bcast-error * 1 Link error on broadcast tree *",
+        [
+            [
+                "broadcast tree",
+                "is",
+                "VAR2"
+            ],
+            [
+                "Link error",
+                "on",
+                "broadcast tree"
+            ]
+        ]
+    ],
+    "73": [
+        "fdmn.full * 1 ServerFileSystem : ServerFileSystem domain * is full",
+        "clusterfilesystem fdmn.full * 1 ServerFileSystem : ServerFileSystem domain * is full",
+        [
+            [
+                "ServerFileSystem domain",
+                "is",
+                "VAR2"
+            ],
+            [
+                "ServerFileSystem domain",
+                "is",
+                "full"
+            ]
+        ]
+    ],
+    "74": [
+        "clusterfilesystem clusterfilesystem.not_served * 1 ClusterFileSystem : ServerFileSystem domain * is no longer served by node *",
+        "clusterfilesystem clusterfilesystem.not_served * ClusterFileSystem : ServerFileSystem domain * is no longer served by node *",
+        [
+            [
+                "ServerFileSystem domain VAR2",
+                "is",
+                "no longer served"
+            ],
+            [
+                "ServerFileSystem domain VAR2",
+                "is no longer served by",
+                "node VAR3"
+            ]
+        ]
+    ],
+    "75": [
+        "partition status * * running",
+        "partition status * running",
+        [
+            [
+                "partition status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "76": [
+        "node status * * configured out",
+        "node status * configured out",
+        [
+            [
+                "node status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "node status",
+                "configured out",
+                ""
+            ]
+        ]
+    ],
+    "77": [
+        "partition status * 1 *",
+        "partition status *",
+        [
+            [
+                "partition status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "78": [
+        "node status * 1 *",
+        "node status *",
+        [
+            [
+                "node status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "79": [
+        "node status * * not responding",
+        "node status * not responding",
+        [
+            [
+                "node status",
+                "not responding",
+                ""
+            ],
+            [
+                "node status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "8": [
+        "del_member_cmd * * 1 Command has * *",
+        "del_member_cmd * Command has *",
+        [
+            [
+                "Command",
+                "has",
+                "VAR2"
+            ]
+        ]
+    ],
+    "80": [
+        "domain status * * not responding",
+        "domain status * not responding",
+        [
+            [
+                "domain status",
+                "not responding",
+                ""
+            ],
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "81": [
+        "domain status * 1 inconsistent nodesets * 0x00000002 <ok> * 0x0000003e <ok> * 0x0000003e <ok> * 0x0000003e <ok> * 0x0000003e <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "82": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "83": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "84": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "85": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "86": [
+        "domain status * 1 inconsistent nodesets * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * * <ok> * 0x1001fdfe <ok> * * <ok> * 0x11fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "87": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "88": [
+        "domain status * 1 inconsistent nodesets * * <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok> * 0x11fffdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "89": [
+        "domain status * 1 inconsistent nodesets * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * 0x000001fe <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "9": [
+        "boot_cmd new * 1 Targeting domains : * and nodes : *",
+        "boot_cmd new * Targeting domains : * and nodes : *",
+        [
+            [
+                "boot_cmd",
+                "Targeting",
+                "domains"
+            ],
+            [
+                "nodes",
+                "is",
+                "VAR3"
+            ],
+            [
+                "VAR2",
+                "and",
+                "nodes"
+            ]
+        ]
+    ],
+    "90": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok> * 0x1001fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "91": [
+        "domain status * 1 inconsistent nodesets * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * 0x0801fdfe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "92": [
+        "node status * 0 *",
+        "node status *",
+        [
+            [
+                "node status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "93": [
+        "tserver status * 1 *",
+        "tserver status *",
+        [
+            [
+                "tserver status",
+                "is",
+                "VAR1"
+            ]
+        ]
+    ],
+    "94": [
+        "domain status 1074500010 1 inconsistent nodesets node-33 0x000001fc <ok> node-37 0x000001fc <ok> node-39 0x000001fc <ok> node-34 0x000001fc <ok> node-35 0x000001fc <ok> node-36 0x000001fc <ok> node-38 0x000001fc <ok> node-41 0x0801fdfc <ok> node-46 0x0801fdfc <ok> node-58 0x0801fdfc <ok> node-43 0x0801fdfc <ok> node-44 0x0801fdfc <ok> node-47 0x0801fdfc <ok> node-45 0x0801fdfc <ok> node-42 0x0801fdfc <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "95": [
+        "domain status * 1 inconsistent nodesets * 0x1fffffffe <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "96": [
+        "domain status * 1 inconsistent nodesets * * <ok> node-32 * <ok> * * <ok> * * <ok> * 0x1c08003fe <ok> * * <ok> * 0x1c08003fe <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "97": [
+        "domain status 1076538600 1 inconsistent nodesets * 0x0000000e <ok> * 0x0000000e <ok> * 0x0000000e <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "98": [
+        "domain status 1076538600 1 inconsistent nodesets node-97 0x0000000c <ok> node-98 0x0000000c <ok> node-104 0x00040fec <ok> node-102 0x00040fec <ok> node-113 0x00040fec <ok> node-101 0x00040fec <ok> node-106 0x00040fec <ok> node-100 0x00040fec <ok> node-103 0x00040fec <ok> node-105 0x00040fec <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ],
+    "99": [
+        "domain status * 1 inconsistent nodesets node-226 * <ok> node-224 * <ok> node-225 * <ok> * * <ok> * * <ok> * * <ok> * * <ok> * * <ok>",
+        "domain status * inconsistent nodesets *",
+        [
+            [
+                "domain status",
+                "is",
+                "VAR1"
+            ],
+            [
+                "inconsistent nodesets",
+                "is",
+                "VAR2"
+            ]
+        ]
+    ]
+}

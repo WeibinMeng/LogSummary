@@ -1,0 +1,553 @@
+1	loaded properties from hadoop-metrics2.properties
+2	Scheduled snapshot period at 10 second ( s ) .
+3	MapTask metrics system *
+4	Executing with tokens :
+5	Kind : mapreduce.job , Service : * , Ident : ( * )
+6	Sleeping for 0ms before retrying again. Got null now.
+7	mapreduce.cluster.local.dir for child : *
+8	session.id is deprecated. Instead , use dfs.metrics.session-id
+9	ProcfsBasedProcessTree currently is supported only on Linux.
+10	Using * : *
+11	Processing split : hdfs : //msra-sa-41 : * : *
+12	( EQUATOR ) * kvi * ( * )
+13	* * : * : * , * INFO [ main ] * : * : *
+14	soft limit at 83886080
+15	bufstart = 0 ; bufvoid = 104857600
+16	kvstart = 26214396 ; length = 6553600
+17	Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+18	Spilling map output
+19	bufstart = * ; bufend = * ; bufvoid = *
+20	kvstart = * ( * ) ; kvend = * ( * ) ; length = *
+21	Finished spill *
+22	( RESET ) equator * kv * ( * ) kvi * ( * )
+23	ReduceTask metrics system *
+24	MergerManager : memoryLimit = * , maxSingleShuffleLimit = * , mergeThreshold = * , ioSortFactor = 10 , memToMemMergeOutputsThreshold = 10
+25	* Thread started : EventFetcher for fetching Map Completion Events
+26	Assigning * : 13562 with * to *
+27	assigned * of * to * : 13562 to *
+28	* : Got * new map-outputs
+29	for url = 13562/mapOutput?job = * = 0&map = * sent hash and received reply
+30	* : Shuffling to disk since * is greater than maxSingleShuffleLimit ( * )
+31	* about to shuffle output of map * decomp : * len : * to DISK
+32	Read * bytes from map-output for *
+33	* : 13562 freed by * in *
+34	for url = 13562/mapOutput?job = * = 0&map = * , * , * sent hash and received reply
+35	EventFetcher is interrupted.. Returning
+36	finalMerge called with 0 in-memory map-outputs and * on-disk map-outputs
+37	Merging * files , * bytes from disk
+38	Merging 0 segments , 0 bytes from memory into reduce
+39	Merging * sorted segments
+40	Down to the last merge-pass , with * segments left of total size : * bytes
+41	mapred.skip.on is deprecated. Instead , use mapreduce.job.skiprecords
+42	Exception in createBlockOutputStream
+43	firstBadLink as : 50010
+44	at * ( * : * )
+45	2015-10-18 * : * : * , * INFO [ * ] * : * * : *
+46	Excluding datanode : 50010
+47	Task : * is done. And is in the process of committing
+48	Task * is allowed to commit now
+49	Saved output of task * to hdfs : //msra-sa-41 : *
+50	Task * done.
+51	Starting flush of map output
+52	Communication exception : java.io.IOException : Failed on local exception : java.io.IOException : An existing connection was forcibly closed by the remote host ; Host Details : local host is : * ; destination host is : * : * ;
+53	at * ( * * )
+54	connection was forcibly closed by the remote host
+55	Retrying connect to server : * : * Already tried * time ( s ) ; retry policy is RetryUpToMaximumCountWithFixedSleep ( maxRetries = 10 , sleepTime = 1000 MILLISECONDS )
+56	Communication exception : java.net.NoRouteToHostException : No Route to Host from MININT-FNANLI5/ to : * failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+57	to host : no further information
+58	... * more
+59	Process Thread Dump : Communication exception
+60	* active threads
+61	Thread * ( * ) :
+62	State : *
+63	Blocked count : *
+64	Waited count : *
+65	Waiting on *
+66	Stack :
+67	sun.misc.Unsafe.park ( Native Method )
+68	java.util.concurrent.locks.LockSupport.park ( LockSupport.java : 186 )
+69	java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await ( AbstractQueuedSynchronizer.java : 2043 )
+70	org.apache.hadoop.mapred.MapTask$MapOutputBuffer$SpillThread.run ( MapTask.java : 1521 )
+71	java.lang.Thread.sleep ( Native Method )
+72	org.apache.hadoop.hdfs.PeerCache.run ( PeerCache.java : 244 )
+73	* ( * : * )
+74	Thread * ( * * ) :
+75	* ( Native Method )
+76	Thread * ( * * * ) :
+77	Thread 13 ( IPC Parameter Sending Thread #0 ) :
+78	Thread 11 ( Timer for 'MapTask' metrics system ) :
+79	Last retry , killing *
+80	Created MRAppMaster for application *
+81	Kind : YARN_AM_RM_TOKEN , Service : , Ident : ( appAttemptId { application_id { id : * cluster_timestamp : * } attemptId : * } keyId : * )
+82	Using mapred newApiCommitter.
+83	OutputCommitter set in config null
+84	OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+85	Registering class * for class *
+86	Default file system [ hdfs : //msra-sa-41 : 9000 ]
+87	Emitting job history data to the timeline server is not enabled
+88	MRAppMaster metrics system started
+89	Adding job token for * to jobTokenSecretManager
+90	Not uberizing * because : not enabled ; too many maps ; too much input ;
+91	Input size for job * = * Number of splits = *
+92	Number of reduces for job * = 1
+93	* Transitioned from * to *
+94	MRAppMaster launching normal , non-uberized , multi-container job *
+95	Using callQueue class java.util.concurrent.LinkedBlockingQueue
+96	Starting Socket Reader #1 for port *
+97	Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server
+98	IPC Server Responder : starting
+99	IPC Server listener on * : starting
+100	Instantiated MRClientService at * : *
+101	Logging to org.slf4j.impl.Log4jLoggerAdapter ( org.mortbay.log ) via org.mortbay.log.Slf4jLog
+102	Http request log for http.requests.mapreduce is not defined
+103	Added global filter 'safety' ( class = org.apache.hadoop.http.HttpServer2$QuotingInputFilter )
+104	Added filter AM_PROXY_FILTER ( class = org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter ) to context *
+105	adding path spec : *
+106	Jetty bound to port *
+107	* * : * : * , * INFO [ main ] org.mortbay.log : jetty-6.1.26
+108	Extract jar : file : /D : /hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-SNAPSHOT.jar!/webapps/mapreduce to C : *
+109	Web app /mapreduce started at *
+110	Registered webapp guice modules
+111	* * : * : * , * INFO [ AsyncDispatcher event handler ] org.apache.hadoop.mapreduce.v2.app.speculate.DefaultSpeculator : * *
+112	maxTaskFailuresPerNode is 3
+113	blacklistDisablePercent is 33
+114	Connecting to ResourceManager at * : 8030
+115	maxContainerCapability : <memory : 8192 , vCores : 32>
+116	Upper limit on the thread pool size is 500
+117	yarn.client.max-cached-nodemanagers-proxies : 0
+118	Processing the event EventType : *
+119	Resolved * to /default-rack
+120	* * Transitioned from NEW to *
+121	* * : * : * , * INFO [ * ] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator : * : <memory : 1024 , vCores : 1>
+122	Event Writer setup for JobId : * , File : hdfs : //msra-sa-41 : *
+123	Before Scheduling : PendingReds : * ScheduledMaps : * ScheduledReds : * AssignedMaps : * AssignedReds : * CompletedMaps : * CompletedReds : * ContAlloc : * ContRel : * HostLocal : * RackLocal : *
+124	getResources ( ) for * : ask = * release = * newContainers = * finishedContainers = * resourcelimit = <memory : * , vCores : * knownNMs = *
+125	Recalculating schedule , headroom = <memory : * , vCores : *
+126	Reduce slow start threshold not met. completedMapsForReduceSlowstart 1
+127	Got allocated containers *
+128	Assigned container * to *
+129	After Scheduling : PendingReds : * ScheduledMaps : * ScheduledReds : * AssignedMaps : * AssignedReds : * CompletedMaps : * CompletedReds : * ContAlloc : * ContRel : * HostLocal : * RackLocal : *
+130	The job-jar file on the remote FS is hdfs : //msra-sa-41 : *
+131	The job-conf file on the remote FS is *
+132	Adding #0 tokens and #1 secret keys for NM use for launching container
+133	Size of containertokens_dob is 1
+134	Putting shuffle token in serviceData
+135	* TaskAttempt Transitioned from * to *
+136	Processing the event EventType : * for container * taskAttempt *
+137	* * : * : * , * INFO [ ContainerLauncher * ] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl : * *
+138	Opening proxy : * : *
+139	Shuffle port returned by ContainerManager for * : 13562
+140	TaskAttempt : [ * ] using containerId : [ * on NM : [ * : * ]
+141	* Task Transitioned from * to *
+142	Auth successful for * ( auth : SIMPLE )
+143	JVM with ID : * asked for a task
+144	JVM with ID : * given task : *
+145	Progress of TaskAttempt * is : *
+146	Done acknowledgement from *
+147	Task succeeded with attempt *
+148	Num completed Tasks : *
+149	DefaultSpeculator.addSpeculativeAttempt -- we are speculating *
+150	We launched 1 speculations. Sleeping 15000 milliseconds.
+151	Scheduling a redundant attempt for task *
+152	Reduce slow start threshold reached. Scheduling reduces.
+153	completedMapPercent * totalResourceLimit : <memory : * , vCores : * finalMapResourceLimit : <memory : * , vCores : * finalReduceResourceLimit : <memory : * , vCores : * netScheduledMapResource : <memory : * , vCores : * netScheduledReduceResource : <memory : * , vCores : *
+154	Ramping up 1
+155	Received completed container *
+156	Diagnostics report from * : Container killed by the ApplicationMaster.
+157	code is 137
+158	exit code 137
+159	Assigned to reduce
+160	MapCompletionEvents request from * startIndex * maxEvents 10000
+161	Socket Reader #1 for port * : readAndProcess from client threw exception [ java.io.IOException : An existing connection was forcibly closed by the remote host ]
+162	forcibly closed by the remote host
+163	Slow ReadProcessor read fields took * ( threshold = 30000ms ) ; ack : seqno : -2 status : SUCCESS status : ERROR downstreamAckTimeNanos : 0 , targets : [ : 50010 , : 50010 ]
+164	DFSOutputStream ResponseProcessor exception for block BP-1347369012--1444972147527 : *
+165	block BP-1347369012--1444972147527 : * from datanode : 50010
+166	Error Recovery for block BP-1347369012--1444972147527 : * in pipeline : 50010 , : 50010 : bad datanode : 50010
+167	Issuing kill to other attempt *
+168	Could not delete hdfs : //msra-sa-41 : *
+169	Retrying connect to server : * : * Already tried * time ( s ) ; maxRetries = 45
+170	Commit-pending state update from *
+171	* given a go for committing the task output.
+172	Commit go/no-go request from *
+173	Result of canCommit for * : true
+174	Calling handler for JobFinishedEvent
+175	We are finishing cleanly so this is the last retry
+176	Notify * isAMLastRetry : *
+177	RMCommunicator notified that shouldUnregistered is : *
+178	JobHistoryEventHandler notified that forceJobCompletion is *
+179	Calling stop for all the services
+180	Stopping JobHistoryEventHandler. Size of the outstanding queue size is *
+181	Copying hdfs : //msra-sa-41 : * to hdfs : //msra-sa-41 : 9000/tmp/hadoop-yarn/staging
+182	/history/done_intermediate/msrabi/job_1445144423722_0022-1445162506766-msrabi-pagerank-1445163053703-10-1-SUCCEEDED-default-1445162512818.jhist_tmp
+183	Copied to done location : hdfs : //msra-sa-41 : 9000/tmp/hadoop-yarn/staging
+184	/history/done_intermediate/msrabi/job_1445144423722_0022_conf.xml_tmp
+185	Moved tmp to done : hdfs : //msra-sa-41 : 9000/tmp/hadoop-yarn/staging
+186	* to hdfs : //msra-sa-41 : 9000/tmp/hadoop-yarn/staging
+187	/history/done_intermediate/msrabi/job_1445144423722_0022.summary
+188	/history/done_intermediate/msrabi/job_1445144423722_0022_conf.xml
+189	/history/done_intermediate/msrabi/job_1445144423722_0022-1445162506766-msrabi-pagerank-1445163053703-10-1-SUCCEEDED-default-1445162512818.jhist
+190	Stopped JobHistoryEventHandler. super.stop ( )
+191	Killing taskAttempt : * because it is running on unusable node : * : *
+192	Diagnostics report from * : Container released on a *lost* node
+193	Setting job diagnostics to
+194	History url is http : * : *
+195	Waiting for application to be successfully unregistered.
+196	Final Stats : PendingReds : * ScheduledMaps : * ScheduledReds : * AssignedMaps : * AssignedReds : * CompletedMaps : * CompletedReds : * ContAlloc : * ContRel : * HostLocal : * RackLocal : *
+197	Deleting staging directory hdfs : //msra-sa-41 : 9000 *
+198	Stopping server on *
+199	Stopping IPC Server listener on *
+200	Stopping IPC Server Responder
+201	TaskHeartbeatHandler thread interrupted
+202	Stopping * metrics system...
+203	MapTask metrics system shutdown complete.
+204	for url = 13562/mapOutput?job = * = 0&map = * , * , * , * , * sent hash and received reply
+205	* * : * : * , * INFO [ DataStreamer for file * ] org.apache.hadoop.hdfs.DFSClient : Abandoning BP-1347369012--1444972147527 : *
+206	2015-10-17 * : * : * , * INFO [ * ] * : * * : *
+207	All maps assigned. Ramping up all remaining reduces : 1
+208	Recovery is enabled. Will try to recover from previous life on best effort basis.
+209	Previous history file is at hdfs : //msra-sa-41 : *
+210	Read from history task *
+211	Read completed tasks from history *
+212	Recovering task * from prior app attempt , status was SUCCEEDED
+213	/history/done_intermediate/msrabi/job_1445087491445_0008-1445091993800-msrabi-word+count-1445093428949-10-1-SUCCEEDED-default-1445092006219.jhist_tmp
+214	/history/done_intermediate/msrabi/job_1445087491445_0008_conf.xml_tmp
+215	/history/done_intermediate/msrabi/job_1445087491445_0008.summary
+216	/history/done_intermediate/msrabi/job_1445087491445_0008_conf.xml
+217	/history/done_intermediate/msrabi/job_1445087491445_0008-1445091993800-msrabi-word+count-1445093428949-10-1-SUCCEEDED-default-1445092006219.jhist
+218	/history/done_intermediate/msrabi/job_1445175094696_0005-1445175181929-msrabi-word+count-1445176478000-10-1-SUCCEEDED-default-1445175951295.jhist_tmp
+219	/history/done_intermediate/msrabi/job_1445175094696_0005_conf.xml_tmp
+220	/history/done_intermediate/msrabi/job_1445175094696_0005.summary
+221	/history/done_intermediate/msrabi/job_1445175094696_0005_conf.xml
+222	/history/done_intermediate/msrabi/job_1445175094696_0005-1445175181929-msrabi-word+count-1445176478000-10-1-SUCCEEDED-default-1445175951295.jhist
+223	TaskAttempt killed because it ran on unusable node * : * AttemptId : *
+224	/history/done_intermediate/msrabi/job_1445094324383_0005-1445094473081-msrabi-word+count-1445097000193-10-1-SUCCEEDED-default-1445094480534.jhist_tmp
+225	/history/done_intermediate/msrabi/job_1445094324383_0005_conf.xml_tmp
+226	/history/done_intermediate/msrabi/job_1445094324383_0005.summary
+227	/history/done_intermediate/msrabi/job_1445094324383_0005_conf.xml
+228	/history/done_intermediate/msrabi/job_1445094324383_0005-1445094473081-msrabi-word+count-1445097000193-10-1-SUCCEEDED-default-1445094480534.jhist
+229	Ignoring obsolete output of * map-task : *
+230	for url = 13562/mapOutput?job = * = 0&map = * , * , * , * , * , * , * sent hash and received reply
+231	for url = 13562/mapOutput?job = * = 0&map = * , * , * , * , * , * sent hash and received reply
+232	for url = 13562/mapOutput?job = * = 0&map = * , * sent hash and received reply
+233	Diagnostics report from * : AttemptID : * Timed out after 600 secs
+234	Diagnostics report from * :
+235	/history/done_intermediate/msrabi/job_1445076437777_0002-1445076557428-msrabi-pagerank-1445076863096-10-1-SUCCEEDED-default-1445076564680.jhist_tmp
+236	/history/done_intermediate/msrabi/job_1445076437777_0002_conf.xml_tmp
+237	/history/done_intermediate/msrabi/job_1445076437777_0002.summary
+238	/history/done_intermediate/msrabi/job_1445076437777_0002_conf.xml
+239	/history/done_intermediate/msrabi/job_1445076437777_0002-1445076557428-msrabi-pagerank-1445076863096-10-1-SUCCEEDED-default-1445076564680.jhist
+240	for url = 13562/mapOutput?job = * = 0&map = * , * , * , * sent hash and received reply
+241	ReduceTask metrics system shutdown complete.
+242	/history/done_intermediate/msrabi/job_1445094324383_0001-1445094472971-msrabi-word+count-1445095231162-10-1-SUCCEEDED-default-1445094488479.jhist_tmp
+243	/history/done_intermediate/msrabi/job_1445094324383_0001_conf.xml_tmp
+244	/history/done_intermediate/msrabi/job_1445094324383_0001.summary
+245	/history/done_intermediate/msrabi/job_1445094324383_0001_conf.xml
+246	/history/done_intermediate/msrabi/job_1445094324383_0001-1445094472971-msrabi-word+count-1445095231162-10-1-SUCCEEDED-default-1445094488479.jhist
+247	Ramping down all scheduled reduces : 0
+248	Going to preempt 1 due to lack of space for maps
+249	Cannot assign container Container : [ ContainerId : * , NodeId : * : * , NodeHttpAddress : * : 8042 , Resource : <memory : 1024 , vCores : 1> , Priority : * , Token : Token { kind : ContainerToken , service : : * } , ] for a map as either container memory less than required <memory : 1024 , vCores : 1> or no pending map tasks - maps.isEmpty = true
+250	Container complete event for unknown container id *
+251	/history/done_intermediate/msrabi/job_1445062781478_0015-1445067477119-msrabi-pagerank-1445068216511-10-1-SUCCEEDED-default-1445067831801.jhist_tmp
+252	/history/done_intermediate/msrabi/job_1445062781478_0015_conf.xml_tmp
+253	/history/done_intermediate/msrabi/job_1445062781478_0015.summary
+254	/history/done_intermediate/msrabi/job_1445062781478_0015_conf.xml
+255	/history/done_intermediate/msrabi/job_1445062781478_0015-1445067477119-msrabi-pagerank-1445068216511-10-1-SUCCEEDED-default-1445067831801.jhist
+256	/history/done_intermediate/msrabi/job_1445062781478_0020-1445073079681-msrabi-pagerank-1445073609167-10-1-SUCCEEDED-default-1445073321328.jhist_tmp
+257	/history/done_intermediate/msrabi/job_1445062781478_0020_conf.xml_tmp
+258	/history/done_intermediate/msrabi/job_1445062781478_0020.summary
+259	/history/done_intermediate/msrabi/job_1445062781478_0020_conf.xml
+260	/history/done_intermediate/msrabi/job_1445062781478_0020-1445073079681-msrabi-pagerank-1445073609167-10-1-SUCCEEDED-default-1445073321328.jhist
+261	MapCompletionEvents reques2015-10-17 16 : 47 : 45 , 649 INFO [ main ] org.apache.hadoop.metrics2.impl.MetricsConfig : loaded properties from hadoop-metrics2.properties
+262	Releasing unassigned and invalid container Container : [ ContainerId : * , NodeId : * : * , NodeHttpAddress : * : 8042 , Resource : <memory : 1024 , vCores : 1> , Priority : 20 , Token : Token { kind : ContainerToken , service : : * } , ] . RM may have assignment issues
+263	/history/done_intermediate/msrabi/job_1445062781478_0012-1445067474738-msrabi-pagerank-1445068175962-10-1-SUCCEEDED-default-1445067485173.jhist_tmp
+264	/history/done_intermediate/msrabi/job_1445062781478_0012_conf.xml_tmp
+265	/history/done_intermediate/msrabi/job_1445062781478_0012.summary
+266	/history/done_intermediate/msrabi/job_1445062781478_0012_conf.xml
+267	/history/done_intermediate/msrabi/job_1445062781478_0012-1445067474738-msrabi-pagerank-1445068175962-10-1-SUCCEEDED-default-1445067485173.jhist
+268	/history/done_intermediate/msrabi/job_1445087491445_0003-1445088243334-msrabi-word+count-1445089655963-13-1-SUCCEEDED-default-1445088258186.jhist_tmp
+269	/history/done_intermediate/msrabi/job_1445087491445_0003_conf.xml_tmp
+270	/history/done_intermediate/msrabi/job_1445087491445_0003.summary
+271	/history/done_intermediate/msrabi/job_1445087491445_0003_conf.xml
+272	/history/done_intermediate/msrabi/job_1445087491445_0003-1445088243334-msrabi-word+count-1445089655963-13-1-SUCCEEDED-default-1445088258186.jhist
+273	Merging 4 intermediate segments out of a total of 13
+274	/history/done_intermediate/msrabi/job_1445076437777_0003-1445076558237-msrabi-pagerank-1445077068938-10-1-SUCCEEDED-default-1445076564396.jhist_tmp
+275	/history/done_intermediate/msrabi/job_1445076437777_0003_conf.xml_tmp
+276	/history/done_intermediate/msrabi/job_1445076437777_0003.summary
+277	/history/done_intermediate/msrabi/job_1445076437777_0003_conf.xml
+278	/history/done_intermediate/msrabi/job_1445076437777_0003-1445076558237-msrabi-pagerank-1445077068938-10-1-SUCCEEDED-default-1445076564396.jhist
+279	* * : * : * , * INFO [ main ] org.mortbay.log : Started HttpServer2$SelectChannelConnectorWithSafeStartup@ : *
+280	/history/done_intermediate/msrabi/job_1445182159119_0005-1445235688984-msrabi-word+count-1445237386355-10-1-SUCCEEDED-default-1445236911535.jhist_tmp
+281	/history/done_intermediate/msrabi/job_1445182159119_0005_conf.xml_tmp
+282	/history/done_intermediate/msrabi/job_1445182159119_0005.summary
+283	/history/done_intermediate/msrabi/job_1445182159119_0005_conf.xml
+284	/history/done_intermediate/msrabi/job_1445182159119_0005-1445235688984-msrabi-word+count-1445237386355-10-1-SUCCEEDED-default-1445236911535.jhist
+285	IPC Server handler 29 on 58622 , call statusUpdate ( attempt_1445094324383_0003_m_000000_0 , org.apache.hadoop.mapred.MapTaskStatus@cdcdbf7 ) , rpc version = 2 , client version = 19 , methodsFingerPrint = 937413979 from : 52490 Call#68 Retry#0 : output error
+286	IPC Server handler 29 on 58622 caught an exception
+287	/history/done_intermediate/msrabi/job_1445094324383_0003-1445094473124-msrabi-word+count-1445095679409-10-1-SUCCEEDED-default-1445094480842.jhist_tmp
+288	/history/done_intermediate/msrabi/job_1445094324383_0003_conf.xml_tmp
+289	/history/done_intermediate/msrabi/job_1445094324383_0003.summary
+290	/history/done_intermediate/msrabi/job_1445094324383_0003_conf.xml
+291	/history/done_intermediate/msrabi/job_1445094324383_0003-1445094473124-msrabi-word+count-1445095679409-10-1-SUCCEEDED-default-1445094480842.jhist
+292	Exception in getting events
+293	java.io.IOException : An existing connection was forcibly closed by the remote host ; Host Details : local host is : * ; destination host is : * : * ;
+294	/history/done_intermediate/msrabi/job_1445182159119_0014-1445240989463-msrabi-pagerank-1445241794508-10-1-SUCCEEDED-default-1445240998871.jhist_tmp
+295	/history/done_intermediate/msrabi/job_1445182159119_0014_conf.xml_tmp
+296	/history/done_intermediate/msrabi/job_1445182159119_0014.summary
+297	/history/done_intermediate/msrabi/job_1445182159119_0014_conf.xml
+298	/history/done_intermediate/msrabi/job_1445182159119_0014-1445240989463-msrabi-pagerank-1445241794508-10-1-SUCCEEDED-default-1445240998871.jhist
+299	Exception running child : org.apache.hadoop.mapreduce.task.reduce.Shuffle$ShuffleError : error in shuffle in *
+300	is not enough space on the disk
+301	not enough space on the disk
+302	Runnning cleanup for the task
+303	Shuffle failed : local error on this node : 04DN8IQ/
+304	Task : * - exited : org.apache.hadoop.mapreduce.task.reduce.Shuffle$ShuffleError : error in shuffle in *
+305	Diagnostics report from * : Error : org.apache.hadoop.mapreduce.task.reduce.Shuffle$ShuffleError : error in shuffle in *
+306	* failures on node *
+307	Error communicating with RM : Resource Manager doesn't recognize AttemptId : *
+308	org.apache.hadoop.yarn.exceptions.YarnRuntimeException : Resource Manager doesn't recognize AttemptId : *
+309	* doesn't exist in ApplicationMasterService cache.
+310	Connection retry failed with 4 attempts in 180 seconds
+311	Failed to connect to MININT-FNANLI5.fareast.corp.microsoft.com : 13562 with 1 map outputs
+312	java.net.ConnectException : Connection timed out : connect
+313	Reporting fetch failure for attempt_1445087491445_0004_m_000005_0 to jobtracker.
+314	2015-10-17 21 : 51 : * , * INFO [ * * ] * : * *
+315	Reduce preemption successful attempt_1445087491445_0004_r_000000_1000
+316	/history/done_intermediate/msrabi/job_1445087491445_0004-1445088243078-msrabi-word+count-1445090594569-13-1-SUCCEEDED-default-1445088253210.jhist_tmp
+317	/history/done_intermediate/msrabi/job_1445087491445_0004_conf.xml_tmp
+318	/history/done_intermediate/msrabi/job_1445087491445_0004.summary
+319	/history/done_intermediate/msrabi/job_1445087491445_0004_conf.xml
+320	/history/done_intermediate/msrabi/job_1445087491445_0004-1445088243078-msrabi-word+count-1445090594569-13-1-SUCCEEDED-default-1445088253210.jhist
+321	/history/done_intermediate/msrabi/job_1445062781478_0019-1445071656627-msrabi-pagerank-1445073067476-10-1-SUCCEEDED-default-1445072789649.jhist_tmp
+322	/history/done_intermediate/msrabi/job_1445062781478_0019_conf.xml_tmp
+323	/history/done_intermediate/msrabi/job_1445062781478_0019.summary
+324	/history/done_intermediate/msrabi/job_1445062781478_0019_conf.xml
+325	/history/done_intermediate/msrabi/job_1445062781478_0019-1445071656627-msrabi-pagerank-1445073067476-10-1-SUCCEEDED-default-1445072789649.jhist
+326	Task : * - failed due to FSError : java.io.IOException : There is not enough space on the disk
+327	Diagnostics report from * : * : java.io.IOException : There is not enough space on the disk
+328	Added * to list of failed maps
+329	Assigning container Container : [ ContainerId : * , NodeId : * : * , NodeHttpAddress : * : 8042 , Resource : <memory : 1024 , vCores : 1> , Priority : 5 , Token : Token { kind : ContainerToken , service : : * } , ] to fast fail map
+330	Assigned from earlierFailedMaps
+331	/history/done_intermediate/msrabi/job_1445182159119_0003-1445235687728-msrabi-word+count-1445236974655-10-1-SUCCEEDED-default-1445235698649.jhist_tmp
+332	/history/done_intermediate/msrabi/job_1445182159119_0003_conf.xml_tmp
+333	/history/done_intermediate/msrabi/job_1445182159119_0003.summary
+334	/history/done_intermediate/msrabi/job_1445182159119_0003_conf.xml
+335	/history/done_intermediate/msrabi/job_1445182159119_0003-1445235687728-msrabi-word+count-1445236974655-10-1-SUCCEEDED-default-1445235698649.jhist
+336	/history/done_intermediate/msrabi/job_1445175094696_0003-1445175179225-msrabi-word+count-1445176599683-10-1-SUCCEEDED-default-1445175186428.jhist_tmp
+337	/history/done_intermediate/msrabi/job_1445175094696_0003_conf.xml_tmp
+338	/history/done_intermediate/msrabi/job_1445175094696_0003.summary
+339	/history/done_intermediate/msrabi/job_1445175094696_0003_conf.xml
+340	/history/done_intermediate/msrabi/job_1445175094696_0003-1445175179225-msrabi-word+count-1445176599683-10-1-SUCCEEDED-default-1445175186428.jhist
+341	Address change detected. Old : msra-sa-41/ : * New : msra-sa-41 : *
+342	Failed to renew lease for [ * ] for * seconds. Will retry shortly ...
+343	from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+344	2015-10-18 * : * : * , * WARN [ DataStreamer for file * block BP-1347369012--1444972147527 : * ] org.apache.hadoop.hdfs.DFSClient : DataStreamer Exception
+345	ERROR IN CONTACTING RM.
+346	java.io.IOException : Couldn't set up IO streams ; Host Details : local host is : "MININT-FNANLI5/" ; destination host is : "msra-sa-41" : 8030 ;
+347	up IO streams
+348	Caused by : *
+349	Could not contact RM after 360000 milliseconds.
+350	Error communicating with RM : Could not contact RM after 360000 milliseconds.
+351	after 360000 milliseconds.
+352	Error writing History Event : *
+353	Thread Thread [ eventHandlingThread , 5 , main ] threw an Exception.
+354	Host from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+355	to Host from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+356	Found jobId * to have not been closed. Will close
+357	Service * failed in state STOPPED ; cause : org.apache.hadoop.yarn.exceptions.YarnRuntimeException : java.net.NoRouteToHostException : No Route to Host from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+358	When stopping the service JobHistoryEventHandler : org.apache.hadoop.yarn.exceptions.YarnRuntimeException : java.net.NoRouteToHostException : No Route to Host from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+359	2015-10-18 21 : * : * , * * [ * ] * : * *
+360	cleanup failed for container * : java.lang.IllegalArgumentException : java.net.UnknownHostException : *
+361	Caused by : java.net.UnknownHostException : *
+362	Diagnostics report from * : cleanup failed for container * : java.lang.IllegalArgumentException : java.net.UnknownHostException : *
+363	Exception while unregistering
+364	Skipping cleaning up the staging dir. assuming AM will be retried.
+365	Graceful stop failed
+366	java.net.SocketException : Permission denied : no further information ; Host Details : local host is : "MININT-FNANLI5/" ; destination host is : "msra-sa-41" : 9000 ;
+367	no further information
+368	/history/done_intermediate/msrabi/job_1445062781478_0018-1445071655606-msrabi-pagerank-1445073306943-10-1-SUCCEEDED-default-1445071661919.jhist_tmp
+369	/history/done_intermediate/msrabi/job_1445062781478_0018_conf.xml_tmp
+370	/history/done_intermediate/msrabi/job_1445062781478_0018.summary
+371	/history/done_intermediate/msrabi/job_1445062781478_0018_conf.xml
+372	/history/done_intermediate/msrabi/job_1445062781478_0018-1445071655606-msrabi-pagerank-1445073306943-10-1-SUCCEEDED-default-1445071661919.jhist
+373	/history/done_intermediate/msrabi/job_1445182159119_0017-1445247551183-msrabi-pagerank-1445247776598-10-1-SUCCEEDED-default-1445247558273.jhist_tmp
+374	/history/done_intermediate/msrabi/job_1445182159119_0017_conf.xml_tmp
+375	/history/done_intermediate/msrabi/job_1445182159119_0017.summary
+376	/history/done_intermediate/msrabi/job_1445182159119_0017_conf.xml
+377	/history/done_intermediate/msrabi/job_1445182159119_0017-1445247551183-msrabi-pagerank-1445247776598-10-1-SUCCEEDED-default-1445247558273.jhist
+378	I/O error constructing remote block reader.
+379	Failed to connect to / : 50010 for block , add to deadNodes and continue. java.net.NoRouteToHostException : No route to host : no further information
+380	Could not obtain BP-1347369012--1444972147527 : * from any node : java.io.IOException : No live nodes contain block BP-1347369012--1444972147527 : * after checking nodes = [ : 50010 , : 50010 ] , ignoredNodes = null No live nodes contain current block Block locations : : 50010 : 50010 Dead nodes : : 50010 : 50010. Will get new block locations from namenode and retry...
+381	DFS chooseDataNode : got # 1 IOException , will wait for * msec.
+382	Could not obtain BP-1347369012--1444972147527 : blk_1073742989_2201 from any node : java.io.IOException : No live nodes contain block BP-1347369012--1444972147527 : blk_1073742989_2201 after checking nodes = [ : 50010 , : 50010 ] , ignoredNodes = null No live nodes contain current block Block locations : : 50010 : 50010 Dead nodes : : 50010 : 50010 : 50010. Will get new block locations from namenode and retry...
+383	/history/done_intermediate/msrabi/job_1445182159119_0001-1445235687678-msrabi-word+count-1445236299685-10-1-SUCCEEDED-default-1445235697856.jhist_tmp
+384	/history/done_intermediate/msrabi/job_1445182159119_0001_conf.xml_tmp
+385	/history/done_intermediate/msrabi/job_1445182159119_0001.summary
+386	/history/done_intermediate/msrabi/job_1445182159119_0001_conf.xml
+387	/history/done_intermediate/msrabi/job_1445182159119_0001-1445235687678-msrabi-word+count-1445236299685-10-1-SUCCEEDED-default-1445235697856.jhist
+388	/history/done_intermediate/msrabi/job_1445062781478_0011-1445067474313-msrabi-pagerank-1445067766465-10-1-SUCCEEDED-default-1445067479468.jhist_tmp
+389	/history/done_intermediate/msrabi/job_1445062781478_0011_conf.xml_tmp
+390	/history/done_intermediate/msrabi/job_1445062781478_0011.summary
+391	/history/done_intermediate/msrabi/job_1445062781478_0011_conf.xml
+392	/history/done_intermediate/msrabi/job_1445062781478_0011-1445067474313-msrabi-pagerank-1445067766465-10-1-SUCCEEDED-default-1445067479468.jhist
+393	java.net.ConnectException : Connection timed out : no further information
+394	Failed to connect to / : 50010 for block , add to deadNodes and continue. java.net.ConnectException : Connection timed out : no further information
+395	Successfully connected to / : 50010 for BP-1347369012--1444972147527 : *
+396	* * : * : * , * INFO [ * ] org.apache.hadoop.hdfs.DFSClient : Abandoning BP-1347369012--1444972147527 : *
+397	/history/done_intermediate/msrabi/job_1445182159119_0020-1445247554890-msrabi-pagerank-1445248864486-10-1-SUCCEEDED-default-1445248046659.jhist_tmp
+398	/history/done_intermediate/msrabi/job_1445182159119_0020_conf.xml_tmp
+399	/history/done_intermediate/msrabi/job_1445182159119_0020.summary
+400	/history/done_intermediate/msrabi/job_1445182159119_0020_conf.xml
+401	/history/done_intermediate/msrabi/job_1445182159119_0020-1445247554890-msrabi-pagerank-1445248864486-10-1-SUCCEEDED-default-1445248046659.jhist
+402	/history/done_intermediate/msrabi/job_1445182159119_0012-1445240987944-msrabi-pagerank-1445241196006-10-1-SUCCEEDED-default-1445240996264.jhist_tmp
+403	/history/done_intermediate/msrabi/job_1445182159119_0012_conf.xml_tmp
+404	/history/done_intermediate/msrabi/job_1445182159119_0012.summary
+405	/history/done_intermediate/msrabi/job_1445182159119_0012_conf.xml
+406	/history/done_intermediate/msrabi/job_1445182159119_0012-1445240987944-msrabi-pagerank-1445241196006-10-1-SUCCEEDED-default-1445240996264.jhist
+407	java.net.ConnectException : Connection refused : no further information
+408	Failed to connect to / : 50010 for block , add to deadNodes and continue. java.net.ConnectException : Connection refused : no further information
+409	/history/done_intermediate/msrabi/job_1445087491445_0005-1445088243632-msrabi-word+count-1445090485571-13-1-SUCCEEDED-default-1445089672614.jhist_tmp
+410	/history/done_intermediate/msrabi/job_1445087491445_0005_conf.xml_tmp
+411	/history/done_intermediate/msrabi/job_1445087491445_0005.summary
+412	/history/done_intermediate/msrabi/job_1445087491445_0005_conf.xml
+413	/history/done_intermediate/msrabi/job_1445087491445_0005-1445088243632-msrabi-word+count-1445090485571-13-1-SUCCEEDED-default-1445089672614.jhist
+414	/history/done_intermediate/msrabi/job_1445175094696_0001-1445175178663-msrabi-word+count-1445175930238-10-1-SUCCEEDED-default-1445175188000.jhist_tmp
+415	/history/done_intermediate/msrabi/job_1445175094696_0001_conf.xml_tmp
+416	/history/done_intermediate/msrabi/job_1445175094696_0001.summary
+417	/history/done_intermediate/msrabi/job_1445175094696_0001_conf.xml
+418	/history/done_intermediate/msrabi/job_1445175094696_0001-1445175178663-msrabi-word+count-1445175930238-10-1-SUCCEEDED-default-1445175188000.jhist
+419	In stop , writing event *
+420	/history/done_intermediate/msrabi/job_1445182159119_0013-1445240988628-msrabi-pagerank-1445241437667-10-1-SUCCEEDED-default-1445240997639.jhist_tmp
+421	/history/done_intermediate/msrabi/job_1445182159119_0013_conf.xml_tmp
+422	/history/done_intermediate/msrabi/job_1445182159119_0013.summary
+423	/history/done_intermediate/msrabi/job_1445182159119_0013_conf.xml
+424	/history/done_intermediate/msrabi/job_1445182159119_0013-1445240988628-msrabi-pagerank-1445241437667-10-1-SUCCEEDED-default-1445240997639.jhist
+425	/history/done_intermediate/msrabi/job_1445182159119_0011-1445240987301-msrabi-pagerank-1445241443017-10-1-SUCCEEDED-default-1445240997344.jhist_tmp
+426	/history/done_intermediate/msrabi/job_1445182159119_0011_conf.xml_tmp
+427	/history/done_intermediate/msrabi/job_1445182159119_0011.summary
+428	/history/done_intermediate/msrabi/job_1445182159119_0011_conf.xml
+429	/history/done_intermediate/msrabi/job_1445182159119_0011-1445240987301-msrabi-pagerank-1445241443017-10-1-SUCCEEDED-default-1445240997344.jhist
+430	Task * * * * : java.io.IOException : There is not enough space on the disk
+431	Task : * - exited : java.io.IOException : Spill failed
+432	Diagnostics report from * : Error : java.io.IOException : Spill failed
+433	/history/done_intermediate/msrabi/job_1445182159119_0015-1445240991382-msrabi-pagerank-1445241754459-10-1-SUCCEEDED-default-1445241361172.jhist_tmp
+434	/history/done_intermediate/msrabi/job_1445182159119_0015_conf.xml_tmp
+435	/history/done_intermediate/msrabi/job_1445182159119_0015.summary
+436	/history/done_intermediate/msrabi/job_1445182159119_0015_conf.xml
+437	/history/done_intermediate/msrabi/job_1445182159119_0015-1445240991382-msrabi-pagerank-1445241754459-10-1-SUCCEEDED-default-1445241361172.jhist
+438	/history/done_intermediate/msrabi/job_1445076437777_0005-1445076558325-msrabi-pagerank-1445077274793-10-1-SUCCEEDED-default-1445076957160.jhist_tmp
+439	/history/done_intermediate/msrabi/job_1445076437777_0005_conf.xml_tmp
+440	/history/done_intermediate/msrabi/job_1445076437777_0005.summary
+441	/history/done_intermediate/msrabi/job_1445076437777_0005_conf.xml
+442	/history/done_intermediate/msrabi/job_1445076437777_0005-1445076558325-msrabi-pagerank-1445077274793-10-1-SUCCEEDED-default-1445076957160.jhist
+443	/history/done_intermediate/msrabi/job_1445087491445_0001-1445088243078-msrabi-word+count-1445089632420-13-1-SUCCEEDED-default-1445088252553.jhist_tmp
+444	/history/done_intermediate/msrabi/job_1445087491445_0001_conf.xml_tmp
+445	/history/done_intermediate/msrabi/job_1445087491445_0001.summary
+446	/history/done_intermediate/msrabi/job_1445087491445_0001_conf.xml
+447	/history/done_intermediate/msrabi/job_1445087491445_0001-1445088243078-msrabi-word+count-1445089632420-13-1-SUCCEEDED-default-1445088252553.jhist
+448	Unable to parse prior job history , aborting recovery
+449	java.io.IOException : Incompatible event log version : null
+450	Could not parse the old history file. Will not have old AMinfos
+451	/history/done_intermediate/msrabi/job_1445182159119_0018-1445247551536-msrabi-pagerank-1445249001110-10-1-SUCCEEDED-default-1445248396740.jhist_tmp
+452	/history/done_intermediate/msrabi/job_1445182159119_0018_conf.xml_tmp
+453	/history/done_intermediate/msrabi/job_1445182159119_0018.summary
+454	/history/done_intermediate/msrabi/job_1445182159119_0018_conf.xml
+455	/history/done_intermediate/msrabi/job_1445182159119_0018-1445247551536-msrabi-pagerank-1445249001110-10-1-SUCCEEDED-default-1445248396740.jhist
+456	/history/done_intermediate/msrabi/job_1445175094696_0002-1445175179003-msrabi-word+count-1445175914697-10-1-SUCCEEDED-default-1445175187699.jhist_tmp
+457	/history/done_intermediate/msrabi/job_1445175094696_0002_conf.xml_tmp
+458	/history/done_intermediate/msrabi/job_1445175094696_0002.summary
+459	/history/done_intermediate/msrabi/job_1445175094696_0002_conf.xml
+460	/history/done_intermediate/msrabi/job_1445175094696_0002-1445175179003-msrabi-word+count-1445175914697-10-1-SUCCEEDED-default-1445175187699.jhist
+461	/history/done_intermediate/msrabi/job_1445062781478_0013-1445067474867-msrabi-pagerank-1445068682874-10-1-SUCCEEDED-default-1445068409976.jhist_tmp
+462	/history/done_intermediate/msrabi/job_1445062781478_0013_conf.xml_tmp
+463	/history/done_intermediate/msrabi/job_1445062781478_0013.summary
+464	/history/done_intermediate/msrabi/job_1445062781478_0013_conf.xml
+465	/history/done_intermediate/msrabi/job_1445062781478_0013-1445067474867-msrabi-pagerank-1445068682874-10-1-SUCCEEDED-default-1445068409976.jhist
+466	Failure sending status update : java.io.IOException : Failed on local exception : java.io.IOException : An existing connection was forcibly closed by the remote host ; Host Details : local host is : * ; destination host is : * : * ;
+467	/history/done_intermediate/msrabi/job_1445087491445_0006-1445091992888-msrabi-word+count-1445093780514-10-1-SUCCEEDED-default-1445092006078.jhist_tmp
+468	/history/done_intermediate/msrabi/job_1445087491445_0006_conf.xml_tmp
+469	/history/done_intermediate/msrabi/job_1445087491445_0006.summary
+470	/history/done_intermediate/msrabi/job_1445087491445_0006_conf.xml
+471	/history/done_intermediate/msrabi/job_1445087491445_0006-1445091992888-msrabi-word+count-1445093780514-10-1-SUCCEEDED-default-1445092006078.jhist
+472	Ignoring exception during close for org.apache.hadoop.mapred.MapTask$NewOutputCollector@6a6585ee
+473	java.lang.NullPointerException
+474	Exception running child : org.apache.hadoop.util.DiskChecker$DiskErrorException : Could not find any valid local directory for output/attempt_1445182159119_0002_m_000007_0/file.out
+475	Task : attempt_1445182159119_0002_m_000007_0 - exited : org.apache.hadoop.util.DiskChecker$DiskErrorException : Could not find any valid local directory for output/attempt_1445182159119_0002_m_000007_0/file.out
+476	Diagnostics report from attempt_1445182159119_0002_m_000007_0 : Error : org.apache.hadoop.util.DiskChecker$DiskErrorException : Could not find any valid local directory for output/attempt_1445182159119_0002_m_000007_0/file.out
+477	/history/done_intermediate/msrabi/job_1445182159119_0002-1445235687677-msrabi-word+count-1445236914959-10-1-SUCCEEDED-default-1445235697502.jhist_tmp
+478	/history/done_intermediate/msrabi/job_1445182159119_0002_conf.xml_tmp
+479	/history/done_intermediate/msrabi/job_1445182159119_0002.summary
+480	/history/done_intermediate/msrabi/job_1445182159119_0002_conf.xml
+481	/history/done_intermediate/msrabi/job_1445182159119_0002-1445235687677-msrabi-word+count-1445236914959-10-1-SUCCEEDED-default-1445235697502.jhist
+482	/history/done_intermediate/msrabi/job_1445144423722_0024-1445162508959-msrabi-pagerank-1445163619058-10-1-SUCCEEDED-default-1445162981270.jhist_tmp
+483	/history/done_intermediate/msrabi/job_1445144423722_0024_conf.xml_tmp
+484	/history/done_intermediate/msrabi/job_1445144423722_0024.summary
+485	/history/done_intermediate/msrabi/job_1445144423722_0024_conf.xml
+486	/history/done_intermediate/msrabi/job_1445144423722_0024-1445162508959-msrabi-pagerank-1445163619058-10-1-SUCCEEDED-default-1445162981270.jhist
+487	/history/done_intermediate/msrabi/job_1445094324383_0002-1445094473189-msrabi-word+count-1445097067469-10-1-SUCCEEDED-default-1445095245355.jhist_tmp
+488	/history/done_intermediate/msrabi/job_1445094324383_0002_conf.xml_tmp
+489	/history/done_intermediate/msrabi/job_1445094324383_0002.summary
+490	/history/done_intermediate/msrabi/job_1445094324383_0002_conf.xml
+491	/history/done_intermediate/msrabi/job_1445094324383_0002-1445094473189-msrabi-word+count-1445097067469-10-1-SUCCEEDED-default-1445095245355.jhist
+492	/history/done_intermediate/msrabi/job_1445094324383_0004-1445094473098-msrabi-word+count-1445096128795-10-1-SUCCEEDED-default-1445094484150.jhist_tmp
+493	/history/done_intermediate/msrabi/job_1445094324383_0004_conf.xml_tmp
+494	/history/done_intermediate/msrabi/job_1445094324383_0004.summary
+495	/history/done_intermediate/msrabi/job_1445094324383_0004_conf.xml
+496	/history/done_intermediate/msrabi/job_1445094324383_0004-1445094473098-msrabi-word+count-1445096128795-10-1-SUCCEEDED-default-1445094484150.jhist
+497	/history/done_intermediate/msrabi/job_1445144423722_0021-1445162505377-msrabi-pagerank-1445162724640-10-1-SUCCEEDED-default-1445162511808.jhist_tmp
+498	/history/done_intermediate/msrabi/job_1445144423722_0021_conf.xml_tmp
+499	/history/done_intermediate/msrabi/job_1445144423722_0021.summary
+500	/history/done_intermediate/msrabi/job_1445144423722_0021_conf.xml
+501	/history/done_intermediate/msrabi/job_1445144423722_0021-1445162505377-msrabi-pagerank-1445162724640-10-1-SUCCEEDED-default-1445162511808.jhist
+502	2015-10-18 18 : * : * , * * [ * ] * : * *
+503	Exception * * : java.net.NoRouteToHostException : No Route to Host from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+504	Task : * - exited : java.net.NoRouteToHostException : No Route to Host from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+505	Diagnostics report from * : Error : java.net.NoRouteToHostException : No Route to Host from MININT-FNANLI5/ to msra-sa-41 : 9000 failed on socket timeout exception : java.net.NoRouteToHostException : No route to host : no further information ; For more details see : http : //wiki.apache.org/hadoop/NoRouteToHost
+506	Task cleanup failed for attempt *
+507	Service * failed in state STOPPED ; cause : org.apache.avro.AvroTypeException : Attempt to process a enum when a union was expected.
+508	enum when a union was expected.
+509	When stopping the service JobHistoryEventHandler : org.apache.avro.AvroTypeException : Attempt to process a enum when a union was expected.
+510	/history/done_intermediate/msrabi/job_1445144423722_0020-1445162504986-msrabi-pagerank-1445164035248-10-1-SUCCEEDED-default-1445162513713.jhist_tmp
+511	/history/done_intermediate/msrabi/job_1445144423722_0020_conf.xml_tmp
+512	/history/done_intermediate/msrabi/job_1445144423722_0020.summary
+513	/history/done_intermediate/msrabi/job_1445144423722_0020_conf.xml
+514	/history/done_intermediate/msrabi/job_1445144423722_0020-1445162504986-msrabi-pagerank-1445164035248-10-1-SUCCEEDED-default-1445162513713.jhist
+515	/history/done_intermediate/msrabi/job_1445182159119_0004-1445235687925-msrabi-word+count-1445236895250-10-1-SUCCEEDED-default-1445235702927.jhist_tmp
+516	/history/done_intermediate/msrabi/job_1445182159119_0004_conf.xml_tmp
+517	/history/done_intermediate/msrabi/job_1445182159119_0004.summary
+518	/history/done_intermediate/msrabi/job_1445182159119_0004_conf.xml
+519	/history/done_intermediate/msrabi/job_1445182159119_0004-1445235687925-msrabi-word+count-1445236895250-10-1-SUCCEEDED-default-1445235702927.jhist
+520	/history/done_intermediate/msrabi/job_1445087491445_0007-1445091992751-msrabi-word+count-1445092782902-10-1-SUCCEEDED-default-1445092004218.jhist_tmp
+521	/history/done_intermediate/msrabi/job_1445087491445_0007_conf.xml_tmp
+522	/history/done_intermediate/msrabi/job_1445087491445_0007.summary
+523	/history/done_intermediate/msrabi/job_1445087491445_0007_conf.xml
+524	/history/done_intermediate/msrabi/job_1445087491445_0007-1445091992751-msrabi-word+count-1445092782902-10-1-SUCCEEDED-default-1445092004218.jhist
+525	* * : * : * , * INFO [ * ] org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncherImpl : KILLING *
+526	Communication exception : java.net.ConnectException : Call From MSRA-SA-39/ to minint-fnanli5.fareast.corp.microsoft.com : 49594 failed on connection exception : java.net.ConnectException : Connection timed out : no further information ; For more details see : http : //wiki.apache.org/hadoop/ConnectionRefused
+527	out : no further information
+528	/history/done_intermediate/msrabi/job_1445087491445_0002-1445088243318-msrabi-word+count-1445091063334-13-1-SUCCEEDED-default-1445088256684.jhist_tmp
+529	/history/done_intermediate/msrabi/job_1445087491445_0002_conf.xml_tmp
+530	/history/done_intermediate/msrabi/job_1445087491445_0002.summary
+531	/history/done_intermediate/msrabi/job_1445087491445_0002_conf.xml
+532	/history/done_intermediate/msrabi/job_1445087491445_0002-1445088243318-msrabi-word+count-1445091063334-13-1-SUCCEEDED-default-1445088256684.jhist
+533	/history/done_intermediate/msrabi/job_1445182159119_0019-1445247552638-msrabi-pagerank-1445248878331-10-1-SUCCEEDED-default-1445248388426.jhist_tmp
+534	/history/done_intermediate/msrabi/job_1445182159119_0019_conf.xml_tmp
+535	/history/done_intermediate/msrabi/job_1445182159119_0019.summary
+536	/history/done_intermediate/msrabi/job_1445182159119_0019_conf.xml
+537	/history/done_intermediate/msrabi/job_1445182159119_0019-1445247552638-msrabi-pagerank-1445248878331-10-1-SUCCEEDED-default-1445248388426.jhist
+538	/history/done_intermediate/msrabi/job_1445062781478_0014-1445067476672-msrabi-pagerank-1445068037828-10-1-SUCCEEDED-default-1445067489454.jhist_tmp
+539	/history/done_intermediate/msrabi/job_1445062781478_0014_conf.xml_tmp
+540	/history/done_intermediate/msrabi/job_1445062781478_0014.summary
+541	/history/done_intermediate/msrabi/job_1445062781478_0014_conf.xml
+542	/history/done_intermediate/msrabi/job_1445062781478_0014-1445067476672-msrabi-pagerank-1445068037828-10-1-SUCCEEDED-default-1445067489454.jhist
+543	/history/done_intermediate/msrabi/job_1445144423722_0023-1445162506952-msrabi-pagerank-1445163783933-10-1-SUCCEEDED-default-1445163429025.jhist_tmp
+544	/history/done_intermediate/msrabi/job_1445144423722_0023_conf.xml_tmp
+545	/history/done_intermediate/msrabi/job_1445144423722_0023.summary
+546	/history/done_intermediate/msrabi/job_1445144423722_0023_conf.xml
+547	/history/done_intermediate/msrabi/job_1445144423722_0023-1445162506952-msrabi-pagerank-1445163783933-10-1-SUCCEEDED-default-1445163429025.jhist
+548	Error closing writer for JobID : job_1445144423722_0023
+549	java.nio.channels.ClosedChannelException
+550	Service * failed in state STOPPED ; cause : org.apache.hadoop.yarn.exceptions.YarnRuntimeException : java.nio.channels.ClosedChannelException
+551	org.apache.hadoop.yarn.exceptions.YarnRuntimeException : java.nio.channels.ClosedChannelException
+552	When stopping the service JobHistoryEventHandler : org.apache.hadoop.yarn.exceptions.YarnRuntimeException : java.nio.channels.ClosedChannelException
+553	17 : 39 : 25 , 140 INFO [ main ] org.apache.hadoop.metrics2.impl.MetricsConfig : loaded properties from hadoop-metrics2.properties

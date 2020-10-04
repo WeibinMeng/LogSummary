@@ -1,0 +1,371 @@
+{
+"1":["action error * clusterAddMember ( command * ) Error : cluster_add_member failed unexpectedly\\ check * : <ABORT code errored : kill : * : no such process>",
+[["action error", "is", "VAR1 clusterAddMember"],
+["command", "is", "VAR2"],
+["", "check", "VAR3"],
+["ABORT code", "errored", ""],
+["cluster_add_member", "failed unexpectedly", ""]]],
+
+"2":["action error * clusterAddMember ( command * ) Error : Cannot run clusterAddMember\\ because * connection state is REFUSED and needs to be SRM",
+[["action error", "is", "VAR1 clusterAddMember"],
+["command", "is", "VAR2"],
+["", "Cannot run", "clusterAddMember"],
+["VAR3 connection state", "is", "REFUSED"],
+["connection state", "needs to be", "SRM"],
+["Cannot run clusterAddMember", "because", "VAR3 connection state is REFUSED"],
+["VAR3 connection state is REFUSED", "and", "needs to be SRM"]]],
+
+"3":["clusterfilesystem clusterfilesystem.not_served * ClusterFileSystem : ServerFileSystem domain * is no longer served by node *",
+[["ServerFileSystem domain VAR2", "is", "no longer served"],
+["ServerFileSystem domain VAR2", "is no longer served by", "node VAR3"]]],
+
+"4":["clusterfilesystem clusterfilesystem.no_server * ClusterFileSystem : There is no server for ServerFileSystem domain *",
+[["no server", "is for", "ServerFileSystem domain VAR2"]]],
+
+"5":["action error * bootGenvmunix ( command * ) Error : node returned to srm while booting : <ABORT code completed>",
+[["action error", "is", "VAR1 bootGenvmunix"],
+["command", "is", "VAR2"],
+["node", "returned to", "srm"],
+["ABORT code", "completed", ""],
+["node returned to srm", "while", "booting"]]],
+
+"6":["unix.hw net.niff.up * 1 NIFF : node * has detected an available network connection on network via interface *",
+[["node", "is", "VAR2"],
+["node", "has detected", "an available network connection"],
+["interface", "is", "VAR3"]]],
+
+"7":["unix.hw net.niff.down * 1 NIFF : node * detected a failed network connection on network via interface *",
+[["node", "is", "VAR2"],
+["node", "has detected", "a failed network connection"],
+["interface", "is", "VAR3"]]],
+
+"8":["clusterfilesystem fdmn.panic * 1 ServerFileSystem : An ServerFileSystem domain panic has occurred on *",
+[["An ServerFileSystem domain panic", "has occurred on", "VAR2"]]],
+
+"9":["action error * halt ( command * ) Error : Couldn\\047t Connect to console ( state = REFUSED )",
+[["action error", "is", "VAR1 halt"],
+["", "Couldn't connect to", "console"],
+["command", "is", "VAR2"],
+["state", "is", "REFUSED"]]],
+
+"10":["action error * member_delete ( command * ) Error : node is up according to cluster_get_info",
+[["action error", "is", "VAR1 member_delete"],
+["command", "is", "VAR2"],
+["node", "is", "up"],
+["command", "is", "VAR2"],
+["node is up", "according to", "cluster_get_info"]]],
+
+"11":["shutdown_cmd new 1080560697 1 Targeting domains : node-D1 and nodes : * child of command *",
+[["shutdown_cmd", "Targeting", "domains"],
+["VAR1", "child of", "command VAR2"]]],
+
+"12":["action error * boot ( command 3833 ) Error : CMF-Port This node\\047s port is not connected",
+[["action error", "is", "VAR1 boot"],
+["node's port", "is not", "connected"]]],
+
+"13":["action error * ( command * ) Error : Unknown We failed to determine the state of this node",
+[["action error", "is", "VAR1"],
+["We", "failed to determine", "the state of this node"],
+["command", "is", "VAR2"],
+["We", "failed to determine", "the state of this node"]]],
+
+"14":["action error * halt ( command * ) Error : scrun failed\\ couldn\\047t send shutdown command",
+[["action error", "is", "VAR1 halt"],
+["scrun", "failed", ""],
+["scrun", "couldn't send", "shutdown command"],
+["command", "is", "VAR2"]]],
+
+"15":["action error * risBoot ( command * ) Error : failed to RIS boot : <ABORT code completed>",
+[["action error", "is", "VAR1 risBoot"],
+["command", "is", "VAR2"],
+["", "failed to", "RIS boot"],
+["ABORT code", "completed", ""]]],
+
+"16":["clusterfilesystem fdmn.full * 1 ServerFileSystem : ServerFileSystem domain * is full",
+[["ServerFileSystem domain", "is", "VAR2"],
+["ServerFileSystem domain", "is", "full"]]],
+
+"17":["action error * member_delete ( command * ) Error : * is NOT a member of cluster *",
+[["action error", "is", "VAR1 member_delete"],
+["command", "is", "VAR2"],
+["a menber of cluster", "is NOT", "VAR3"],
+["cluster", "is", "VAR4"]]],
+
+"18":["unix.hw * * 1 Component State Change : Component * is in the * state ( HWID = * )",
+[["Component State", "Change", ""],
+["Component", "is", "VAR3"],
+["state", "is", "VAR4"],
+["HWID", "is", "VAR5"],
+["Component VAR3", "is in", "the VAR4 state"]]],
+
+"19":["boot_cmd new * 1 Targeting domains : * and nodes : node- [ * ] child of command *",
+[["boot_cmd", "Targeting", "domains"],
+["command", "is", "VAR4"],
+["VAR2", "and", "nodes"]]],
+
+"20":["action error * boot ( command * ) Error : node went to SRM while trying to boot",
+[["action error", "is", "VAR1 boot"],
+["node", "went to", "SRM"],
+["command", "is", "VAR2"],
+["node", "trying to", "boot"],
+["node went to SRM", "while", "trying to boot"]]],
+
+"21":["unix.hw * Component State Change : Component * is in the * state ( HWID = * )",
+[["Component State", "Change", ""],
+["Component", "is", "VAR2"],
+["state", "is", "VAR3"],
+["HWID", "is", "VAR4"],
+["Component VAR2", "is in", "the VAR3 state"]]],
+
+"22":["shutdown_cmd error 1076485276 1 Command Cancelled - cluster would lose quorum",
+[["Command", "Cancelled", ""],
+["cluster", "would lose", "quorum"]]],
+
+"23":["boot_cmd new * Targeting domains : node-D7 and nodes : * child of command *",
+[["boot_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR2"],
+["child of command", "is", "VAR3"]]],
+
+"24":["shutdown_cmd new * Targeting domains : * and nodes : * child of command *",
+[["shutdown_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR2"],
+["child of command", "is", "VAR3"]]],
+
+"25":["action error * boot ( command * ) Error : HALT asserted\\ cannot continue",
+[["action error", "is", "VAR1 boot"],
+["command", "is", "VAR2"],
+["HALT", "asserted", ""],
+["HALT", "cannot continue", ""]]],
+
+"26":["boot_cmd new * 1 Targeting domains : * and nodes : * child of command *",
+[["boot_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR3"],
+["child of command", "is", "VAR4"]]],
+
+"27":["switch_module temphigh * 1 Temperature ( * ) exceeds warning threshold",
+[["Temperature", "is", "VAR2"],
+["Temperature", "exceeds", "warning threshold"]]],
+
+"28":["boot_cmd new * Targeting domains : * and nodes : * child of command *",
+[["boot_cmd", "Targeting", "domains"],
+["VAR2", "and", "nodes"],
+["child of command", "is", "VAR4"]]],
+
+"29":["* server subsys * failed to configure resourcemgmt subsystem err = 10",
+[["server subsys", "is", "VAR2"],
+["server subsys", "failed to", "configure resourcemgmt"],
+["err", "is", "10"]]],
+
+"30":["action error * boot ( command * ) Error : timeout while booting.",
+[["action error", "is", "VAR1 boot"],
+["command", "is", "VAR2"],
+["timeout", "while", "booting"]]],
+
+"31":["action error * ( command * ) Error : * <ABORT code completed>",
+[["action error", "is", "VAR1 boot"],
+["command", "is", "VAR2"],
+["ABORT code", "completed", ""]]],
+
+"32":["shutdown_cmd new * Targeting domains : node-* and nodes : *",
+[["shutdown_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR3"],
+["node-VAR2", "and", "nodes"]]],
+
+"33":["switch_module bcast-error * 1 Link error on broadcast tree *",
+[["broadcast tree", "is", "VAR2"],
+["Link error", "on", "broadcast tree"]]],
+
+"34":["install_cmd new * Targeting domains : node-D0 and nodes : *",
+[["install_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR2"],
+["node-D0", "and", "nodes"]]],
+
+"35":["del_member_cmd new * Targeting domains : * and nodes : *",
+[["del_member_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR3"],
+["VAR2", "and", "nodes"]]],
+
+"36":["shutdown_cmd new * Targeting domains : * and nodes : *",
+[["shutdown_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR3"],
+["VAR2", "and", "nodes"]]],
+
+"37":["switch_module error * Linkerror event interval expired",
+[["Linkerror event interval", "expired", ""]]],
+
+"38":["install_cmd new * Targeting domains : * and nodes : *",
+[["install_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR3"],
+["VAR2", "and", "nodes"]]],
+
+"39":["boot_cmd new * Targeting domains : * and nodes : *",
+[["boot_cmd", "Targeting", "domains"],
+["nodes", "is", "VAR3"],
+["VAR2", "and", "nodes"]]],
+
+"40":["switch_module error * * link errors remain current",
+[["link errors", "remain", "current"]]],
+
+"41":["node temphigh * ambient = * threshold exceeded",
+[["node temphigh", "is", "VAR1"],
+["ambient", "is", "VAR2"],
+["threshold", "exceeded", ""]]],
+
+"42":["del_member_cmd error * Command Failed on : *",
+[["Command", "Failed on", "VAR2"]]],
+
+"43":["action error * boot ( command * ) Error : *",
+[["action error", "is", "VAR1 boot"],
+["command", "is", "VAR2"]]],
+
+"44":["shutdown_cmd error * Command Failed on :*",
+[["Command", "Failed on", "VAR2"]]],
+
+"45":["shutdown_cmd error * Failed subcommands *",
+[["", "Failed", "subcommands VAR2"],
+["subcommands", "is", "VAR2"]]],
+
+"46":["install_cmd error * Command Failed on : *",
+[["Command", "Failed", ""],
+["Command", "Failed on", "VAR2"]]],
+
+"47":["switch_module control * no recent update",
+[["switch_module control", "is", "VAR1"]]],
+
+"48":["domain status * inconsistent nodesets *",
+[["domain status", "is", "VAR1"],
+["inconsistent nodesets", "is", "VAR2"]]],
+
+"49":["switch_module control * power/control *",
+[["switch_module control", "is", "VAR1"],
+["power/control", "is", "VAR2"]]],
+
+"50":["switch_module control * update received",
+[["switch_module control", "received", "update"],
+["switch_module control", "is", "VAR1"]]],
+
+"51":["boot_cmd abort * Command Failed on : *",
+[["Command", "Failed", ""],
+["Command", "Failed on", "VAR2"]]],
+
+"52":["action error * ( command * ) Error : *",
+[["command", "is", "VAR2"]]],
+
+"53":["boot_cmd error * Command Failed on :*",
+[["Command", "Failed", ""],
+["Command", "Failed on", "VAR2"]]],
+
+"54":["boot_cmd error * Failed subcommands *",
+[["", "Failed", "subcommands"],
+["subcommands", "is", "VAR2"]]],
+
+"55":["boot_cmd abort * Failed subcommands *",
+[["boot_cmd", "abort", "VAR1"],
+["", "Failed", "subcommands"],
+["subcommands", "is", "VAR2"]]],
+
+"56":["shutdown_cmd * Command Failed on : *",
+[["Command", "Failed", ""],
+["Command", "Failed on", "VAR2"]]],
+
+"57":["boot_cmd * * 1 Command Failed on : *",
+[["Command", "Failed", ""],
+["Command", "Failed on", "VAR3"]]],
+
+"58":["partition status 1081571037 * down",
+[["partition status", "is", "down"]]],
+
+"59":["switch_module psu * PSU status *",
+[["PSU status", "is", "VAR2"]]],
+
+"60":["gige fan.failed * fan2 has failed",
+[["fan2", "has failed", ""]]],
+
+"61":["boot_cmd * Command Failed on : *",
+[["Command", "Failed", ""],
+["Command", "Failed on", "VAR2"]]],
+
+"62":["switch_module fan * Fan speeds *",
+[["fan", "is", "VAR1"],
+["Fan speeds", "is", "VAR2"]]],
+
+"63":["boot_cmd * Command Failed on : *",
+[["Command", "Failed", ""],
+["Command", "Failed on", "VAR2"]]],
+
+"64":["boot_cmd * Failed subcommands *",
+[["", "Failed", "subcommands"],
+["subcommands", "is", "VAR2"]]],
+
+"65":["switch_module * 1 Link in reset",
+[["Link", "in", "reset"]]],
+
+"66":["boot_cmd* Failed subcommands *",
+[["", "Failed", "subcommands"],
+["subcommands", "is", "VAR2"]]],
+
+"67":["del_member_cmd * Command has *",
+[["Command", "has", "VAR2"]]],
+
+"68":["domain status * not responding",
+[["domain status", "not responding", ""],
+["domain status", "is", "VAR1"]]],
+
+"69":["node temperature * ambient = *",
+[["node temperature", "is", "VAR1"],
+["ambient", "is", "VAR2"]]],
+
+"70":["install_cmd * 1 Command has *",
+[["Command", "has", "VAR2"]]],
+
+"71":["partition status * -1 blocked",
+[["partition status", "blocked", ""]]],
+
+"72":["shutdown_cmd * Command has *",
+[["Command", "has", "VAR2"]]],
+
+"73":["node status * configured out",
+[["node status", "is", "VAR1"],
+["node status", "configured out", ""]]],
+
+"74":["node status * not responding",
+[["node status", "not responding", ""],
+["node status", "is", "VAR1"]]],
+
+"75":["node * failure\\ ambient = *",
+[["node", "is", "VAR1"],
+["ambient", "is", "VAR2"]]],
+
+"76":["partition status * running",
+[["partition status", "is", "VAR1"]]],
+
+"77":["boot_cmd * Command has *",
+[["Command", "has", "VAR2"]]],
+
+"78":["action * ( command * )",
+[["action", "is", "VAR1"],
+["command", "is", "VAR2"]]],
+
+"79":["node status * active",
+[["node status", "is", "VAR1"],
+["node status", "is", "active"]]],
+
+"80":["node temperature *",
+[["node temperature", "is", "VAR1"]]],
+
+"81":["partition status *",
+[["partition status", "is", "VAR1"]]],
+
+"82":["gige temperature *",
+[["gige temperature", "is", "VAR1"]]],
+
+"83":["tserver status *",
+[["tserver status", "is", "VAR1"]]],
+
+"84":["switch_module *",
+[["switch_module", "is", "VAR1"]]],
+
+"85":["node status *",
+[["node status", "is", "VAR1"]]]
+
+}

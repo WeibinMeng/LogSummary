@@ -1,0 +1,344 @@
+1	RAS KERNEL INFO instruction cache parity error corrected
+2	RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on * bit *
+3	RAS KERNEL * *
+4	RAS KERNEL INFO * ddr * ( s ) detected and corrected on rank 0 , symbol * * * *
+5	RAS KERNEL INFO * * * error ( s ) ( dcr * ) detected and corrected
+6	RAS KERNEL INFO CE sym * , at * , mask *
+7	RAS KERNEL INFO total of * ddr error ( s ) detected and corrected
+8	RAS KERNEL INFO ddr : activating redundant bit steering : rank = 0 symbol = *
+9	RAS KERNEL INFO ddr : excessive soft failures , consider replacing the card
+10	RAS APP FATAL ciod : Error loading * : invalid or missing program image , No such file or directory
+11	RAS KERNEL INFO * double-hummer alignment exceptions
+12	RAS KERNEL INFO * tree receiver * in re-synch state event ( s ) ( dcr * ) detected
+13	RAS MMCS INFO idoproxydb has been started : $Name : * $ Input parameters : -enableflush -loguserinfo db.properties BlueGene1
+14	RAS MMCS INFO ciodb has been restarted.
+15	RAS MMCS INFO mmcs_db_server has been started : * --useDatabase BGL --dbproperties * --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all
+16	RAS APP FATAL ciod : LOGIN chdir ( * ) failed : No such file or directory
+17	RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : *
+18	RAS KERNEL FATAL data * * *
+19	RAS KERNEL FATAL * * : *
+20	RAS KERNEL FATAL * * *
+21	RAS KERNEL FATAL * * * register : *
+22	RAS KERNEL FATAL * *
+23	RAS KERNEL FATAL d-cache * parity *
+24	RAS KERNEL * * * register : *
+25	RAS KERNEL * * input interrupt *
+26	RAS KERNEL * problem state ( 0 = sup , 1 = usr ) *
+27	RAS KERNEL * floating point * *
+28	RAS KERNEL * floating pt ex mode * *
+29	RAS KERNEL * disable apu instruction broadcast........0
+30	RAS KERNEL * guaranteed * cache block *
+31	RAS KERNEL * * purpose registers :
+32	RAS KERNEL FATAL * : * * : * * : * * : 00000000
+33	RAS KERNEL FATAL * : * * : * * : * * : ffffffff
+34	RAS KERNEL FATAL * : * * : * * : 00000000 * : *
+35	RAS KERNEL * 24 : * 25 : * 26 : * 27 : *
+36	RAS KERNEL * lr : * cr : * xer : * ctr : *
+37	RAS KERNEL FATAL rts panic! - stopping execution
+38	RAS KERNEL INFO * torus receiver * input pipe error ( s ) ( dcr * ) detected and corrected
+39	RAS KERNEL FATAL * : 00000000 * : * * : * * : *
+40	RAS KERNEL * 4 : * 5 : * 6 : * 7 : *
+41	RAS KERNEL FATAL * : * * : 00000000 * : * * : *
+42	RAS KERNEL * 20 : * 21 : * 22 : * 23 : *
+43	RAS KERNEL * 28 : * 29 : * 30 : * 31 : *
+44	RAS KERNEL * 12 : * 13 : * 14 : * 15 : *
+45	RAS KERNEL INFO ciod : Message code * is not * or 4294967295
+46	RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+47	RAS KERNEL INFO ciod : for node * , read continuation request but ioState is 0
+48	RAS KERNEL INFO ciod : cpu 0 at treeaddr * sent unrecognized message 0xffffffff
+49	RAS KERNEL FATAL machine check interrupt ( bit = 0x1d ) : L2 dcache unit data parity error
+50	RAS KERNEL * 8 : * 9 : * 10 : * 11 : *
+51	RAS APP FATAL ciod : LOGIN * ( * ) failed : * *
+52	RAS KERNEL FATAL machine check interrupt ( bit = * ) : * * * *
+53	RAS KERNEL FATAL close EDRAM pages as soon as possible....0
+54	RAS KERNEL FATAL size of * * * * ( * )
+55	RAS KERNEL FATAL disable all access to cache directory....0
+56	RAS KERNEL FATAL write buffer commit threshold............2
+57	RAS KERNEL FATAL prefetch depth for * *
+58	RAS KERNEL FATAL max number of outstanding prefetches.....7
+59	RAS KERNEL FATAL turn on hidden refreshes.................1
+60	RAS KERNEL FATAL disable write lines 2 : 4..................0
+61	RAS KERNEL FATAL capture first * * error address..0
+62	RAS KERNEL FATAL disable flagging of DDR UE's as major internal error.0
+63	RAS KERNEL FATAL * error detected in * *
+64	RAS KERNEL FATAL * error detected in EDRAM bank *
+65	RAS KERNEL FATAL parity error in * *
+66	RAS KERNEL FATAL parity error in read queue *
+67	RAS KERNEL FATAL number of correctable errors detected in L3 *
+68	RAS KERNEL FATAL number of lines with parity errors written to L3 *
+69	RAS KERNEL FATAL DDR * * * : * *
+70	RAS KERNEL FATAL memory * * *
+71	RAS KERNEL FATAL command manager unit summary.....................0
+72	RAS KERNEL FATAL memory manager * * *
+73	RAS KERNEL FATAL memory manager / command manager address parity..0
+74	RAS KERNEL * 16 : * 17 : * 18 : * 19 : *
+75	NULL HARDWARE WARNING PrepareForService is being done on this * ( mLctn ( * ) , mCardSernum ( * ) , mLp ( FF : F2 : 9F : * : * : * : 00 : 0D : 60 : * : * : * ) , mIp ( * ) , mType ( * ) ) by *
+76	NULL HARDWARE WARNING PrepareForService shutting down * ( mLctn ( * ) , mCardSernum ( * ) , mLp ( FF : F2 : 9F : * : * : * : 00 : 0D : 60 : * : * : * ) , mIp ( * ) , mType ( * ) ) as part of Service Action *
+77	NULL HARDWARE WARNING EndServiceAction is restarting the * in midplane * as part of Service Action *
+78	NULL HARDWARE WARNING EndServiceAction * performed upon * by *
+79	NULL DISCOVERY WARNING Node card is not fully functional
+80	NULL DISCOVERY SEVERE Can not get assembly information for node card
+81	NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is * * * * * * * * * * * * * * * * * * * * * * * * * * * OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+82	NULL DISCOVERY * Node card VPD check : * node in processor card slot * do not match. VPD ecid * , found *
+83	RAS KERNEL INFO ciod : sendMsgToDebugger : error sending PROGRAM_EXITED message to debugger.
+84	RAS KERNEL * 0 : * 1 : * 2 : 1eeeeeee 3 : *
+85	RAS KERNEL INFO * torus * * * error ( s ) ( dcr * ) detected and corrected
+86	RAS KERNEL INFO * correctable errors exceeds threshold ( iar * lr * )
+87	NULL CMCS INFO Starting SystemController
+88	NULL CMCS INFO Controlling BG/L rows [ 0 1 2 3 ]
+89	NULL CMCS INFO Running as background command
+90	RAS KERNEL * program interrupt : * *
+91	RAS KERNEL * data store interrupt caused by *
+92	RAS KERNEL * program interrupt : fp cr update.............0
+93	RAS KERNEL * program interrupt : fp cr field .............0
+94	RAS KERNEL * external input interrupt ( unit = * bit = * ) : * * * * * * *
+95	RAS KERNEL INFO external input interrupt ( unit = 0x01 bit = 0x09 ) : number of corrected SRAM errors has exceeded threshold
+96	RAS KERNEL INFO suppressing further interrupts of same type
+97	NULL DISCOVERY INFO Ido chip status changed : FF : * : * : * : * : * : * : * : * : * : * : * ip = * v = * t = * status = M * * * * : * : * * 2005
+98	RAS BGLMASTER INFO BGLMaster has been started : ./BGLMaster --consoleip 127.0.0.1 --consoleport 32035 --configfile bglmaster.init
+99	NULL DISCOVERY SEVERE BglIdoChip table has * IDOs with the same IP address ( * )
+100	NULL DISCOVERY SEVERE SerialNumber ( * ) IpAddress ( * ) Status ( A )
+101	NULL DISCOVERY SEVERE While initializing * card iDo machine with LP of FF : * : * : * : * : * : * : * : * : * : * : * caught java.io.IOException : Could not contact iDo with LP = FF : * : * : * : * : * : * : * : * : * : * : * and IP = * because java.lang.RuntimeException : Communication error : ( DirectIDo for Uninitialized DirectIDo for FF : * : * : * : * : * : * : * : * : * : * : * : 0 is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = 0 , Reply Sequence Number = -1 , timedOut = true , retries = 200 , timeout = 1000 , Expected Op Command = 5 , Actual Op Reply = -1 , Expected Sync Command = 10 , Actual Sync Reply = -1 )
+102	NULL HARDWARE SEVERE NodeCard VPD is corrupt
+103	NULL DISCOVERY * While initializing node card , ido with LP of FF : F2 : 9F : 16 : * : * : 00 : 0D : 60 : E9 : * : * caught java.lang.IllegalStateException : IDo is not in functional state -- currently in state COMMUNICATION_ERROR
+104	RAS KERNEL INFO ciod : Unexpected eof at line * of node map file *
+105	RAS APP FATAL ciod : Error creating node map from file * : * * *
+106	RAS KERNEL INFO ddr : Unable to steer rank = 0 , symbol = * - rank is already steering symbol * Due to multiple symbols being over the correctable e
+107	RAS KERNEL INFO * threshold , consider replacing the card
+108	RAS KERNEL INFO ddr : Unable to steer rank = 0 , symbol = * - rank is already steering symbol * Due to multiple symbols being over the *
+109	RAS APP FATAL ciod : Error loading * : program image too big , * > *
+110	RAS KERNEL INFO critical input interrupt ( unit = 0x0b bit = * ) : warning for * * wire
+111	KERNEL FATAL Kill job * timed out. Block freed.
+112	RAS KERNEL INFO * * *
+113	RAS KERNEL INFO * * : *
+114	RAS KERNEL INFO * *
+115	RAS KERNEL INFO ciod : * * * * * * * at line * of node map file *
+116	RAS KERNEL INFO * floating point alignment exceptions
+117	NULL DISCOVERY * Problem communicating with * card * * * * * * * * * * * * * * * * * * * * * * * * * * * * * caught java.lang.IllegalStateException : while executing * Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ FF : F2 : 9F : * : * : * : 00 : 0D : 60 : * : * : * : 0 with image version 13 and card type * ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = * , Reply Sequence Number = -1 , timedOut = true , retries = 200 , timeout = 1000 , Expected Op Command = 2 , Actual Op Reply = -1 , Expected Sync Command = * , Actual Sync Reply = -1 )
+118	NULL DISCOVERY * While initializing node card , ido with LP of FF : F2 : 9F : 16 : * : * : 00 : 0D : 60 : E9 : * : * caught java.lang.IllegalStateException : while executing * Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ FF : F2 : 9F : 16 : * : * : 00 : 0D : 60 : E9 : * : * : 0 with image version 13 and card type 4 ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = * , Reply Sequence Number = -1 , timedOut = true , retries = 200 , timeout = 1000 , Expected Op Command = 2 , Actual Op Reply = -1 , Expected Sync Command = * , Actual Sync Reply = -1 )
+119	NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. THE 2.5 VOLT RAIL IS NOT OK. THE 1.5 VOLT RAIL IS NOT OK.
+120	NULL HARDWARE SEVERE NodeCard temperature sensor chip * is not accessible
+121	NULL HARDWARE SEVERE * power module * is not accessible
+122	NULL HARDWARE SEVERE NodeCard VPD chip is not accessible
+123	NULL DISCOVERY SEVERE While initializing node card , ido with LP of FF : F2 : 9F : 16 : E6 : 86 : 00 : 0D : 60 : E9 : 19 : 79 caught java.lang.NullPointerException
+124	NULL DISCOVERY ERROR Node card status : ALERT 0 , ALERT 1 , ALERT 2 , ALERT 3 is ( are ) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. TEMPERATURE MASK IS ACTIVE. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+125	RAS KERNEL FATAL Target = ido : //FF : F2 : 9F : 16 : * : * : 00 : 0D : 60 : E9 : * : * Message = * * * *
+126	RAS KERNEL FATAL Target = ido : //FF : F2 : 9F : 16 : * : * : 00 : 0D : 60 : E9 : * : * Message = ScomError
+127	RAS KERNEL FATAL MailboxMonitor : : serviceMailboxes ( ) lib_ido_error : -1019 socket closed
+128	RAS BGLMASTER FAILURE * exited normally with exit code *
+129	RAS LINKCARD FATAL MidplaneSwitchController : : * ( ) * * : *
+130	NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD is OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+131	RAS KERNEL INFO e error threshold , consider replacing the card
+132	RAS KERNEL INFO ciod : Error opening node map file * , No such file or directory
+133	NULL HARDWARE WARNING PrepareForService is being done on this Midplane ( mLctn ( * ) , mCardSernum ( * ) ) by *
+134	NULL HARDWARE WARNING PrepareForService is being done on this rack ( * ) by *
+135	NULL HARDWARE SEVERE * is not fully functional
+136	NULL DISCOVERY WARNING this link card is not fully functional
+137	RAS KERNEL FATAL rts : kernel terminated for reason * : bad message header : * * * , type = * , cpu = 0 , index = * , total = *
+138	RAS KERNEL INFO ciod : In packet from node * ( * : * ) , message code 2 is not 3 or 4294967295 ( softheader = * * 00000001 00000000 )
+139	RAS KERNEL INFO ciod : Missing or invalid fields on line 1 of node map file *
+140	NULL DISCOVERY SEVERE Problem reading the ethernet arl entries fro the service card : java.lang.IllegalStateException : while executing I2C Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ FF : F2 : 9F : 15 : 1F : * : 00 : 0D : 60 : EA : E0 : * : 0 with image version 9 and card type 2 ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = * , Reply Sequence Number = * , timedOut = true , retries = 200 , timeout = 1000 , Expected Op Command = 2 , Actual Op Reply = * , Expected Sync Command = 32 , Actual Sync Reply = * )
+141	RAS KERNEL FATAL * * * :
+142	RAS KERNEL FATAL machine state register : machine state register : machine state register : machine state register : machine state register : machine
+143	RAS KERNEL FATAL state register : machine state register : machine state register : machine state register : machine state register : machine state re
+144	RAS KERNEL FATAL gister : machine state register : machine state register : machine state register : machine state register : machine state register :
+145	NULL DISCOVERY INFO New ido chip inserted into the database : FF : * : * : * : * : * : * : * : * : * : * : * ip = * v = * t = *
+146	RAS KERNEL FATAL rts : kernel terminated for reason 1001rts : bad message header : invalid cpu , type = * , cpu = * , index = * , total = *
+147	RAS KERNEL FATAL rts : kernel terminated for reason 1002rts : bad message header : too many packets , type = * , cpu = 0 , index = * , total = * ,
+148	RAS KERNEL FATAL rts : kernel terminated for reason 1002rts : bad message header : too many packets , type = 0 , cpu = 0 , index = * , total = * , max = *
+149	RAS KERNEL *
+150	RAS LINKCARD FATAL MidplaneSwitchController : : * ( ) * failed : * , status = * *
+151	RAS APP FATAL ciod : Error creating node map from file * : * * * *
+152	RAS APP FATAL ciod : Error creating node map from file * : * *
+153	RAS KERNEL FATAL * , max = 366
+154	RAS APP FATAL external input interrupt ( unit = 0x02 bit = 0x00 ) : uncorrectable torus error
+155	RAS APP FATAL Torus non-recoverable error DCRs follow.
+156	RAS APP FATAL DCR * : *
+157	RAS KERNEL FATAL rts : kernel terminated for reason 1002rts : bad message header : too many packets , type = * , cpu = 0 , index = * , total = * , *
+158	RAS KERNEL FATAL rts : kernel terminated for reason 1002rts : bad message header : too many packets , type = 32796 , cpu = 0 , index = 2214748 , total = 0 , max =
+159	RAS KERNEL FATAL MailboxMonitor : : serviceMailboxes ( ) lib_ido_error : * * * * * * *
+160	RAS BGLMASTER FAILURE * exited abnormally due to signal : Aborted
+161	RAS APP FATAL ciod : Error loading * : invalid or missing program image , * * *
+162	RAS KERNEL FATAL , max = 366
+163	RAS APP FATAL ciod : Error loading ../homme/build.Linux/preqx -n 1800 : invalid or missing program image , No such file or directory
+164	RAS KERNEL INFO ciod : Error opening node map file /home/williams/miranda/src/res-apc-strong2-bgl-8192-8Kmap-15 : * : * , No such file or directory
+165	RAS APP FATAL ciod : Error creating node map from file /home/williams/miranda/src/res-apc-strong2-bgl-8192-8Kmap-15 : * : * : Bad file descriptor
+166	RAS MMCS ERROR Ido packet timeout
+167	RAS APP FATAL ciod : * * * * : * * * * * * No such file or directory
+168	RAS APP FATAL ciod : Error reading message prefix after * on CioStream socket to 172.16.96.116 : * : * * * *
+169	RAS BGLMASTER FAILURE mmcs_server exited abnormally due to signal : Segmentation fault
+170	NULL MONITOR FAILURE monitor caught java.lang.UnsupportedOperationException : power module * not present and is stopping
+171	NULL MONITOR FAILURE While inserting monitor info into DB caught java.lang.NullPointerException
+172	NULL DISCOVERY INFO Node card VPD check : missing * node , VPD ecid * in processor card slot *
+173	NULL SERV_NET WARNING DeclareServiceNetworkCharacteristics has been run but the DB is not empty
+174	NULL SERV_NET ERROR DeclareServiceNetworkCharacteristics has been run with the force option but the DB is not empty
+175	NULL SERV_NET INFO Added 8 subnets and 409600 addresses to DB
+176	NULL CMCS INFO Controlling BG/L rows [ 0 1 2 3 4 5 6 7 ]
+177	NULL DISCOVERY * Problem communicating with service card , ido chip : 00000000 : 00000000 : 00000000 : FFF29F15 : * : * * : * * * * * * * * * * *
+178	NULL DISCOVERY SEVERE While initializing service card iDo with LP of FF : F2 : 9F : 15 : * : * : 00 : 0D : 60 : EA : * : * caught java.io.IOException : Could not contact iDo with LP = FF : F2 : 9F : 15 : * : * : 00 : 0D : 60 : EA : * : * and IP = * because java.lang.RuntimeException : Communication error : ( DirectIDo for Uninitialized DirectIDo for FF : F2 : 9F : 15 : * : * : 00 : 0D : 60 : EA : * : * : 0 is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = 0 , Reply Sequence Number = -1 , timedOut = true , retries = 200 , timeout = 1000 , Expected Op Command = 5 , Actual Op Reply = -1 , Expected Sync Command = 10 , Actual Sync Reply = -1 )
+179	NULL DISCOVERY SEVERE Expected 10 active FanModules , but found 9 ( Found J300 J301 J302 J303 J304 * * * * ) .
+180	RAS BGLMASTER INFO BGLMaster has been started : ./BGLMaster --consoleip 127.0.0.1 --consoleport 32035 --configfile bglmaster.init --autorestart y
+181	NULL DISCOVERY ERROR Found invalid node ecid in processor card slot * , ecid 0000000000000000000000000000
+182	NULL DISCOVERY ERROR Node card status : ALERT 0 , ALERT 1 , ALERT 2 , ALERT 3 is ( are ) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+183	NULL DISCOVERY ERROR Bad cable going into LinkCard ( * ) Jtag ( * ) Port ( * ) - * bad wires
+184	NULL DISCOVERY ERROR Missing reverse cable : Cable * * * ( * ) --> * * * ( * ) is present BUT the reverse cable * * * ( * ) --> * * * ( * ) is missing
+185	RAS KERNEL FATAL Error : unable to mount filesystem
+186	RAS KERNEL FATAL Lustre mount FAILED : * : block_id : location
+187	RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+188	RAS KERNEL FATAL Target = ido : //FF : F2 : 9F : 16 : E6 : 04 : 00 : 0D : 60 : E9 : 19 : FB/JTAG/0 Message = JtagId All all zeros , power good may be low
+189	NULL DISCOVERY WARNING Problem communicating with service card , ido chip : 00000000 : 00000000 : 00000000 : FFF29F15 : * : * java.lang.IllegalStateException : while executing CONTROL Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ FF : F2 : 9F : 15 : 1F : * : 00 : 0D : 60 : EA : E0 : * : 0 with image version 9 and card type 2 ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = * , Reply Sequence Number = * , timedOut = true , retries = 200 , timeout = 1000 , Expected Op Command = 2 , Actual Op Reply = * , Expected Sync Command = 8 , Actual Sync Reply = * )
+190	RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = ! ( nMsgLen > 0x10000 ) Source file = idomarshalerio.cpp Source line = 1929 Function = int IdoMarshalerRecvBuffer : : ReadBlock ( IdoMsg : : IdoMsgHdr*& )
+191	RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = ! ( RecvMsgHdr.ulLen > 0x10000 ) Source file = idomarshalerio.cpp Source line = 387 Function = virtual int IdoMarshalerIo : : RunRecv ( )
+192	RAS KERNEL FATAL rts tree/torus link training failed : wanted : * * * * * * * * * * * C * * * Z+ Z-
+193	RAS KERNEL FATAL rts tree/torus link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C * * * *
+194	RAS KERNEL FATAL rts tree/torus link training failed : wanted : A B C X+ X- Y+ Y- Z+ Z- got : A * * * * * * *
+195	RAS KERNEL FATAL rts tree/torus link training failed : wanted : * C X+ X- Y+ Y- Z+ Z- got : * C * * * *
+196	RAS KERNEL FATAL rts tree/torus link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C * * * * *
+197	RAS KERNEL FATAL rts tree/torus link training failed : wanted : A B C X+ X- Y+ Y- Z+ Z- got : * * * * * * *
+198	RAS KERNEL FATAL rts tree/torus link training failed : wanted : A * * * * * * * * * * * * * * Y- Z+
+199	RAS KERNEL FATAL rts tree/torus link training failed : wanted : * C X+ X- Y+ Y- Z+ Z- got : * C * * * * *
+200	RAS KERNEL FATAL rts tree/torus link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ Y- Z-
+201	RAS KERNEL FATAL rts tree/torus link training failed : wanted : * C X+ X- Y+ Y- Z+ Z- got : * C * * *
+202	RAS KERNEL FATAL rts tree/torus link training failed : wanted : A B C X+ X- Y+ Y- Z+ Z- got : * * * * * *
+203	RAS KERNEL INFO ddr : Unable to steer rank = 0 , symbol = * - rank is already steering symbol * Due to multiple symbols being over the correctable error threshold , consider replacing the card
+204	RAS APP FATAL ciod : Error loading * : invalid or missing program image , Permission denied
+205	RAS KERNEL INFO ciod : generated * core files for program *
+206	RAS KERNEL FATAL rts : kernel terminated for reason *
+207	RAS KERNEL FATAL rts : bad message header : cpu * invalid ( softheader = * * * * ) PSR0 = * PSR1 = 00000000 PRXF = * PIXF = 00000007
+208	RAS KERNEL FATAL rts : bad message header : * * * * * * * ( softheader = * * * * ) PSR0 = * PSR1 = 00000000 PRXF = * PIXF = 00000007
+209	RAS KERNEL FATAL rts : bad message header : index 0 greater than total 0 ( softheader = * * 00000000 00000000 ) PSR0 = * PSR1 = 00000000 PRXF = * PIXF = 00000007
+210	RAS MMCS INFO mmcs_db_server has been started : ./mmcs_db_server --useDatabase BGL --dbproperties * --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all --shutdown-timeout *
+211	RAS KERNEL INFO iar * dear *
+212	RAS KERNEL INFO NFS Mount failed on * , slept * seconds , retrying ( * )
+213	RAS KERNEL FATAL Lustre mount FAILED : * : point /p/gb1
+214	RAS MMCS INFO mmcs_db_server has been started : ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all --no-reconnect-blocks
+215	NULL HARDWARE WARNING EndServiceAction * was performed upon * by *
+216	RAS KERNEL FATAL external input interrupt ( unit = 0x03 bit = 0x01 ) : tree header with no target waiting
+217	NULL MONITOR FAILURE power module status fault detected on node card. status registers are : *
+218	NULL DISCOVERY SEVERE Error getting detailed hw info for node , caught java.io.IOException : Problems with the chip , clear all resets
+219	NULL DISCOVERY SEVERE Error getting detailed hw info for node , caught java.io.IOException : Problems with the chip , could not * * *
+220	NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+221	NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. THE 2.5 VOLT RAIL IS NOT OK. THE 1.5 VOLT RAIL IS NOT OK.
+222	NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. THE 1.5 VOLT RAIL IS NOT OK.
+223	RAS KERNEL FATAL Error sending packet on tree network , packet at address 00088480 is not aligned
+224	RAS KERNEL INFO data cache * parity error detected. attempting to correct
+225	RAS KERNEL FATAL ddr : redundant bit steering failed , sequencer timeout
+226	RAS KERNEL FATAL ddrSize = = 256*1024*1024 || ddrSize = = 512*1024*1024
+227	RAS KERNEL FATAL rts assertion failed : `personality->version = = BGLPERSONALITY_VERSION' in `void start ( ) ' at start.cc : 131
+228	RAS MMCS FATAL L3 major internal error
+229	RAS KERNEL FATAL Error receiving packet on tree network , * * * * * * * ( softheader = * * * * ) PSR0 = * PSR1 = 00000000 PRXF = 00000002 PIXF = 00000007
+230	RAS KERNEL INFO ddr : activating redundant bit steering for next allocation : rank = 0 symbol = *
+231	RAS KERNEL INFO L1 DCACHE summary averages : #ofDirtyLines : * out of 1024 #ofDirtyDblWord : * out of 4096
+232	RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = pTargetMgr Source file = idoclientmgr.cpp Source line = 353 Function = int IdoClientMgr : : TargetClose ( const char* )
+233	NULL MONITOR FAILURE No power module U58 found found on link card
+234	NULL MONITOR FAILURE Temperature Over Limit on link card
+235	NULL MONITOR FAILURE * PGOOD error latched on link card
+236	RAS BGLMASTER INFO BGLMaster has been started : ./BGLMaster --consoleip 127.0.0.1 --consoleport 32035 --configfile bglmaster.init --autorestart y --db2profile /u/bgdb2cli/sqllib/db2profile --dbproperties db.properties
+237	RAS KERNEL INFO critical input interrupt ( unit = 0x0b bit = * ) : warning for * * wire , suppressing further interrupts of same type
+238	RAS KERNEL INFO * tree receiver * in re-synch state event ( s ) ( dcr * ) detected over * seconds
+239	RAS KERNEL INFO * torus receiver * input pipe error ( s ) ( dcr * ) detected and corrected over * seconds
+240	RAS KERNEL INFO total of * ddr error ( s ) detected and corrected over * seconds
+241	RAS KERNEL INFO * * * error ( s ) ( dcr * ) detected and corrected over * seconds
+242	RAS KERNEL FATAL idoproxy communication failure : socket closed
+243	RAS KERNEL FATAL Machine Check Status Register : *
+244	RAS KERNEL FATAL * * * : *
+245	RAS KERNEL FATAL Core Configuration Register 0 : *
+246	RAS KERNEL FATAL DDR failing info register : DDR Fail Info Register : *
+247	RAS KERNEL FATAL r00 = * r01 = * r02 = * r03 = *
+248	RAS KERNEL FATAL r04 = * r05 = * r06 = * r07 = *
+249	RAS KERNEL FATAL r08 = * r09 = * r10 = * r11 = *
+250	RAS KERNEL FATAL r12 = * r13 = 0x1eeeeeee r14 = * r15 = *
+251	RAS KERNEL FATAL * = * * = * * = * * = 0x00000000
+252	RAS KERNEL FATAL r28 = * r29 = * r30 = * r31 = *
+253	RAS KERNEL FATAL dbcr0 = 0x00000000 dbsr = 0x00000000 ccr0 = *
+254	RAS KERNEL FATAL Floating Point Status and Control Register : *
+255	RAS KERNEL FATAL invalid operation exception *
+256	RAS KERNEL FATAL invalid ( * ) *
+257	RAS KERNEL FATAL invalid operation exception ( * ) *
+258	RAS KERNEL FATAL invalid operation exception ( int cnvt ) ...0
+259	RAS KERNEL FATAL enable invalid operation exceptions......0
+260	RAS KERNEL FATAL * = 0xffffffff * * *
+261	RAS KERNEL INFO ciod : Received signal * , code = * , errno = 0 , address = *
+262	NULL HARDWARE WARNING PrepareForService is being done on this Midplane ( mLctn ( * ) , mCardSernum ( * ) , iWhichCardsToPwrOff ( * ) ) by root
+263	NULL HARDWARE WARNING PrepareForService shutting down * card ( mLctn ( * ) , mCardSernum ( * ) , mLp ( FF : F2 : 9F : * : * : * : 00 : 0D : 60 : * : * : * ) , mIp ( * ) , mType ( * ) ) as part of Service Action *
+264	RAS KERNEL FATAL Power Good signal deactivated : * A service action may be required.
+265	RAS KERNEL INFO * torus * * * error ( s ) ( dcr * ) detected and corrected over * seconds
+266	RAS APP FATAL ciod : Error reading message prefix on CioStream socket to 172.16.96.116 : * , * * * *
+267	NULL HARDWARE WARNING EndServiceAction is restarting the * cards in Midplane * as part of Service Action *
+268	RAS KERNEL FATAL Target = ido : //FF : F2 : 9F : 16 : D5 : 01 : 00 : 0D : 60 : E9 : 2A : FE/JTAG/0 Message = Invalid JtagId = ffffffff Run environmental monitor to diagnose possible hardware failure.
+269	NULL HARDWARE WARNING com.ibm.bgldevices.BulkPowerModule with VPD of com.ibm.bgldevices.BulkPowerModule$VpdReply : IBM Part Number : 53P5763 , Vendor : Cherokee International , Vendor Serial Number : 4274124 , Assembly Revision :
+270	NULL MONITOR FAILURE monitor caught java.lang.IllegalStateException : while executing CONTROL Operation caught java.io.EOFException and is stopping
+271	NULL MONITOR FAILURE monitor caught java.lang.IllegalStateException : while executing * Operation caught java.net.SocketException : Broken pipe and is stopping
+272	NULL MONITOR FAILURE While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.net.SocketException : Broken pipe
+273	NULL MONITOR FAILURE Hardware monitor caught java.lang.IllegalStateException : while executing I2C Operation caught java.net.SocketException : Broken pipe and is stopping
+274	NULL MONITOR FAILURE While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+275	NULL MONITOR FAILURE While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+276	NULL MONITOR FAILURE While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+277	NULL MONITOR FAILURE While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+278	NULL MONITOR FAILURE While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+279	NULL MONITOR FAILURE While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+280	NULL MONITOR FAILURE While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+281	NULL MONITOR FAILURE While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+282	NULL MONITOR FAILURE While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+283	NULL MONITOR FAILURE While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+284	NULL MONITOR * Hardware monitor caught java.net.SocketException : Broken pipe and is stopping
+285	RAS KERNEL INFO MACHINE CHECK * * * ( mc = * iar 0x00000000 lr * )
+286	RAS APP FATAL ciod : Error reading message prefix on CioStream socket to 172.16.96.116 : * , Connection timed out
+287	RAS KERNEL FATAL r16 = * r17 = * r18 = * r19 = *
+288	RAS KERNEL FATAL r20 = * r21 = * r22 = * r23 = *
+289	RAS KERNEL FATAL r24 = * r25 = * r26 = * r27 = *
+290	RAS KERNEL FATAL * = * * * 00000000
+291	RAS KERNEL FATAL fpr10 = * * * *
+292	RAS KERNEL FATAL fpr14 = * * * *
+293	RAS KERNEL FATAL fpr15 = * * * *
+294	RAS KERNEL FATAL fpr16 = * * * *
+295	RAS KERNEL FATAL fpr17 = * * * *
+296	RAS KERNEL FATAL fpr18 = * * * *
+297	RAS KERNEL FATAL fpr19 = * * * *
+298	RAS KERNEL FATAL fpr20 = * * * *
+299	RAS KERNEL FATAL fpr21 = * * * *
+300	RAS KERNEL FATAL fpr22 = * * * *
+301	RAS KERNEL FATAL fpr23 = * * * *
+302	RAS KERNEL FATAL fpr24 = * * * *
+303	RAS KERNEL FATAL fpr25 = * * * *
+304	RAS KERNEL FATAL fpr26 = * * * *
+305	RAS KERNEL FATAL fpr27 = * * * *
+306	RAS KERNEL FATAL fpr28 = * * * *
+307	RAS KERNEL FATAL fpr29 = * * * *
+308	RAS KERNEL FATAL fpr30 = * * * *
+309	RAS MMCS INFO mmcs_db_server has been started : ./mmcs_db_server --useDatabase BGL --dbproperties db.properties --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all --shutdown-timeout 120 --shutdown-timeout 240
+310	RAS KERNEL FATAL idoproxy communication failure : BGLERR_IDO_PKT_TIMEOUT connection lost to node/link/service card
+311	RAS KERNEL INFO ciod : In packet from node * ( * : * ) , message still ready for node * ( softheader = * 00020000 00000003 00000000 )
+312	RAS KERNEL FATAL * = * * 00000000 *
+313	RAS KERNEL FATAL machine check interrupt ( bit = * ) : L2 dcache unit * * parity error
+314	RAS KERNEL FATAL lr = * cr = * xer = * ctr = *
+315	RAS KERNEL FATAL msr = * dear = * esr = * fpscr = *
+316	RAS KERNEL FATAL * = 0x00000000 * * *
+317	RAS KERNEL FATAL fpr5 = * * * *
+318	RAS KERNEL FATAL fpr6 = * * * *
+319	RAS KERNEL FATAL fpr7 = * * * *
+320	RAS KERNEL FATAL fpr8 = * * * *
+321	RAS KERNEL FATAL fpr11 = * * * *
+322	RAS KERNEL FATAL fpr12 = * * * *
+323	RAS KERNEL FATAL fpr13 = * * * *
+324	RAS KERNEL FATAL * = 0x10055620 * * *
+325	RAS APP FATAL ciod : Error creating node map from file my_map.txt : No such file or directory
+326	RAS KERNEL FATAL fpr0 = * * * *
+327	RAS KERNEL FATAL fpr2 = * * * *
+328	RAS KERNEL FATAL fpr3 = * * * *
+329	RAS KERNEL FATAL fpr9 = * * * *
+330	RAS KERNEL FATAL fpr4 = * * * *
+331	RAS KERNEL INFO * microseconds spent in the rbs signal handler during * calls. * microseconds was the maximum time for a single instance of a correctable ddr.
+332	RAS KERNEL INFO * total interrupts. * critical input interrupts. * microseconds total spent on critical input interrupts , * microseconds max time in a critical input interrupt.
+333	for a single instance of a correctable ddr. RAS KERNEL INFO 0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+334	interrupts , 0 microseconds max time in a cr RAS KERNEL INFO * total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts , 0 microseconds max time in a critical input interrupt.
+335	RAS KERNEL INFO external input interrupt ( unit = 0x01 bit = 0x09 ) : number of corrected SRAM errors has exceeded threshold , suppressing further interrupts of same type
+336	RAS KERNEL INFO ddr : Suppressing further CE interrupts
+337	RAS KERNEL FATAL instruction TLB error interrupt
+338	RAS KERNEL INFO Kernel detected * integer alignment exceptions ( * ) iar * , dear * ( * ) iar * , dear * ( * ) iar * , dear * ( * ) iar * , dear * ( * ) iar * , dear * ( * ) iar * , dear * ( * ) iar * , dear * ( * ) iar * , dear *
+339	RAS KERNEL FATAL fpr1 = * * * *
+340	RAS KERNEL FATAL fpr31 = * * * *
+341	( * ) iar 0x00544eb8 , dear * ( * RAS KERNEL INFO Kernel detected * integer alignment exceptions ( * ) iar 0x00544ea8 , dear * ( * ) iar 0x00544eb8 , dear * ( * ) iar 0x00544ea8 , dear * ( * ) iar 0x00544eb8 , dear * ( * ) iar 0x00544ee0 , dear * ( * ) iar 0x00544ef0 , dear * ( * ) iar 0x00544ee0 , dear * ( * ) iar 0x00544ef0 , dear *
+342	RAS APP FATAL ciod : Error loading /p/gb1/light3/sppm_chkpt/sppm : not a CNK program image
+343	RAS KERNEL FATAL rts assertion failed : `vaddr % PAGE_SIZE_1M = = 0' in `int initializeAppMemory ( int , TLBEntry& , unsigned int , unsigned int ) ' at mmu.cc : 540
+344	RAS KERNEL INFO ciod : for node * , incomplete data written to core file

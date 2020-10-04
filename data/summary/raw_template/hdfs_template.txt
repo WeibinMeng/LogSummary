@@ -1,0 +1,50 @@
+1	INFO dfs.DataNode$DataXceiver : Receiving block src : : * dest : : 50010
+2	INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : *
+3	INFO dfs.DataNode$PacketResponder : PacketResponder * for block *
+4	INFO dfs.DataNode$PacketResponder : Received block of size * from
+5	INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : : 50010 is added to size *
+6	INFO dfs.DataNode$DataXceiver : Received block src : : * dest : : 50010 of size *
+7	INFO dfs.DataNode$DataTransfer : : 50010 : Transmitted block to : 50010
+8	INFO dfs.DataNode : : 50010 Starting thread to transfer block to : 50010 , : 50010
+9	INFO dfs.FSNamesystem : BLOCK* ask : 50010 to replicate to datanode ( s ) : 50010 : 50010
+10	INFO dfs.DataNode$DataXceiver : : 50010 Served block to
+11	INFO dfs.FSNamesystem : BLOCK* ask : 50010 to replicate to datanode ( s ) : 50010
+12	INFO dfs.DataNode : : 50010 Starting thread to transfer block to : 50010
+13	INFO dfs.DataBlockScanner : Verification succeeded for
+14	INFO dfs.DataNode$DataXceiver : writeBlock received exception *
+15	INFO dfs.DataNode$PacketResponder : PacketResponder * Exception *
+16	INFO dfs.DataNode$DataXceiver : writeBlock received exception java.io.IOException : Could not read from stream
+17	INFO dfs.FSNamesystem : BLOCK* ask : 50010 to delete
+18	INFO dfs.FSDataset : Deleting block file *
+19	INFO dfs.DataNode$BlockReceiver : Receiving empty packet for block
+20	INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.io.IOException : Connection reset by peer
+21	INFO * : * * * java.io.IOException : Connection reset by peer
+22	WARN dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : Redundant addStoredBlock request received for on : 50010 size *
+23	INFO * : * * * java.net.SocketTimeoutException : * millis timeout while waiting for channel to be ready for * ch : java.nio.channels.SocketChannel [ connected local = : * remote = : 50010 ]
+24	INFO * : * * * java.io.InterruptedIOException : Interruped while waiting for IO on channel java.nio.channels.SocketChannel [ connected local = : * remote = : * ] . * millis timeout left.
+25	INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block *
+26	INFO dfs.DataNode$BlockReceiver : Changing block file offset of block from 0 to * meta file offset to *
+27	INFO dfs.DataNode$BlockReceiver : : 50010 : Exception writing block to mirror : 50010
+28	INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.io.InterruptedIOException : Interruped while waiting for IO on channel java.nio.channels.SocketChannel [ connected local = : * remote = : * ] . * millis timeout left.
+29	INFO dfs.DataNode$PacketResponder : PacketResponder * Exception java.io.IOException : Broken pipe
+30	ERROR dfs.DataNode$DataXceiver : : 50010 : DataXceiver : java.io.IOException : Block is valid , and cannot be written to.
+31	INFO dfs.DataNode$DataXceiver : writeBlock received exception java.io.IOException : Block is valid , and cannot be written to.
+32	WARN dfs.DataNode$DataTransfer : : 50010 : Failed to transfer to : 50010 got java.io.IOException : Connection reset by peer
+33	INFO dfs.FSNamesystem : BLOCK* NameSystem.delete : is added to invalidSet of : 50010
+34	WARN dfs.FSDataset : Unexpected error trying to delete block . BlockInfo not found in volumeMap.
+35	INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : addStoredBlock request received for on : 50010 size * But it does not belong to any file.
+36	WARN dfs.DataNode$DataXceiver : : 50010 : Got exception while serving to :
+37	ERROR dfs.DataNode$DataXceiver : : 50010 : DataXceiver : java.io.IOException : Block is not valid.
+38	INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.net.SocketTimeoutException : * millis timeout while waiting for channel to be ready for write. ch : java.nio.channels.SocketChannel [ connected local = : * remote = : 50010 ]
+39	INFO dfs.FSDataset : Reopen Block
+40	INFO dfs.FSNamesystem : BLOCK* Removing block from neededReplications as it does not belong to any file.
+41	WARN dfs.PendingReplicationBlocks$PendingReplicationMonitor : PendingReplicationMonitor timed out block
+42	WARN dfs.DataNode : org.apache.hadoop.util.Shell$ExitCodeException : du : cannot access * : No such file or directory
+43	INFO dfs.DataNode$DataXceiver : writeBlock received exception java.io.IOException : * *
+44	INFO dfs.DataNode$PacketResponder : PacketResponder 1 Exception java.io.InterruptedIOException : Interruped while waiting for IO on channel java.nio.channels.SocketChannel [ closed ] . * millis timeout left.
+45	INFO dfs.DataNode$DataXceiver : writeBlock received exception java.net.NoRouteToHostException : No route to host
+46	WARN dfs.DataBlockScanner : Adding an already existing block
+47	INFO dfs.DataNode$BlockReceiver : Exception in receiveBlock for block java.io.IOException : Broken pipe
+48	INFO dfs.DataNode$PacketResponder : PacketResponder 1 Exception java.io.IOException : The stream is closed
+49	`/mnt/hadoop/dfs/data/tmp/.meta' : No such file or directory
+50	`/mnt/hadoop/dfs/data/tmp/' : No such file or directory

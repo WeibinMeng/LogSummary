@@ -1,0 +1,4 @@
+WARN scheduler.TaskSetManager : Lost task * in stage * ( TID 1 , * ) : java.io.IOException : Cannot run : error = * , No such file or directory
+ERROR ApplicationMaster : SparkContext did not initialize after waiting for 120 ms. Please check earlier log output for errors. Failing the application.
+WARN TaskSetManager : Lost task * in stage * ( TID * ) : org.apache.spark.api.python.PythonException : Traceback ( most recent call last ) :
+org.apache.spark.rpc.RpcTimeoutException : Cannot receive any reply in 120 seconds. This timeout is controlled by *
